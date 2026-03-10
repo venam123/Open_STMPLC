@@ -1,0 +1,18 @@
+Change Component Description : Designator=J27 Old Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series New Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series | Phoenix Contact 1727023
+Change Component Description : Designator=J28 Old Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series New Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series | Phoenix Contact 1727023
+Change Component Description : Designator=J29 Old Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series New Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series | Phoenix Contact 1727023
+Change Component Description : Designator=J30 Old Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series New Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series | Phoenix Contact 1727023
+Change Component Description : Designator=J31 Old Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series New Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series | Phoenix Contact 1727023
+Change Component Description : Designator=J32 Old Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series New Description=PCB Terminal Screw 3.81mm 16AWG 200V 13.5A 3 Position COMBICON MKDS Series | Phoenix Contact 1727023
+Added Pin To Net: NetName=GND Pin=J27-03
+Added Pin To Net: NetName=GND Pin=J28-03
+Added Pin To Net: NetName=GND Pin=J29-03
+Added Pin To Net: NetName=GND Pin=J30-03
+Added Pin To Net: NetName=GND Pin=R161-2
+Added Pin To Net: NetName=GND Pin=R162-2
+Added Pin To Net: NetName=GND Pin=R173-2
+Added Pin To Net: NetName=GND Pin=R174-2
+Added Pin To Net: NetName=GND Pin=U36-3
+Added Pin To Net: NetName=GND Pin=U37-3
+Added Pin To Net: NetName=GND Pin=U38-3
+Added Pin To Net: NetName=GND Pin=U39-3

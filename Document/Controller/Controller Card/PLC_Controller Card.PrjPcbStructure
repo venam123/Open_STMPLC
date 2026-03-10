@@ -1,0 +1,9 @@
+Record=TopLevelDocument|FileName=ANT.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ANT.SchDoc|FileName=Communication_with_IO.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ANT.SchDoc|FileName=GSM.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ANT.SchDoc|FileName=GSM_INDICATION.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ANT.SchDoc|FileName=MCU.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ANT.SchDoc|FileName=Peripherals.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ANT.SchDoc|FileName=Power_supply.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ANT.SchDoc|FileName=SIM CARD.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=ANT.SchDoc|FileName=TEMP.SchDoc|SheetNumber=9

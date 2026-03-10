@@ -1,0 +1,345 @@
+Protel Design System Design Rule Check
+PCB File : D:\Thinglista\Universal_PLC\Controller\Controller Card\Controller_PCB.PcbDoc
+Date     : 11/21/2025
+Time     : 1:14:36 PM
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Clearance Constraint: (0.05mm < 0.152mm) Between Area Fill (108.7mm,51.5mm) (110.7mm,53.1mm) on Keep-Out Layer And Pad SW1-A'(108.375mm,51.925mm) on Top Layer 
+   Violation between Clearance Constraint: (0.05mm < 0.152mm) Between Area Fill (108.7mm,51.5mm) (110.7mm,53.1mm) on Keep-Out Layer And Pad SW1-A(108.375mm,52.675mm) on Top Layer 
+   Violation between Clearance Constraint: (0.05mm < 0.152mm) Between Area Fill (108.7mm,51.5mm) (110.7mm,53.1mm) on Keep-Out Layer And Pad SW1-B'(111.025mm,51.925mm) on Top Layer 
+   Violation between Clearance Constraint: (0.05mm < 0.152mm) Between Area Fill (108.7mm,51.5mm) (110.7mm,53.1mm) on Keep-Out Layer And Pad SW1-B(111.025mm,52.675mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Area Fill (78.555mm,1.44mm) (80.405mm,4.84mm) on Keep-Out Layer And Pad J5-(78.2mm,3.14mm) on Multi-Layer 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad J5-C5(84.72mm,15.37mm) on Top Layer And Pad J5-CD(85.67mm,15.37mm) on Top Layer 
+Rule Violations :6
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=2.54mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.076mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.076mm) Between Pad J3-10(150mm,90.6mm) on Top Layer And Pad J3-CD1(148.8mm,89.3mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.076mm) Between Pad J7-1(107.75mm,97.85mm) on Top Layer And Pad J7-2(107.1mm,97.85mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.076mm) Between Pad J7-2(107.1mm,97.85mm) on Top Layer And Pad J7-3(106.45mm,97.85mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.076mm) Between Pad J7-3(106.45mm,97.85mm) on Top Layer And Pad J7-4(105.8mm,97.85mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.076mm) Between Pad J7-4(105.8mm,97.85mm) on Top Layer And Pad J7-5(105.15mm,97.85mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.022mm < 0.076mm) Between Pad R45-1(124.9mm,4.2mm) on Bottom Layer And Via (126mm,4.2mm) from Top Layer to Bottom Layer [Bottom Solder] Mask Sliver [0.022mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.07mm < 0.076mm) Between Pad U6-5(126.916mm,94.095mm) on Top Layer And Via (128.7mm,94.1mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.07mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.052mm < 0.076mm) Between Via (125.1mm,80.2mm) from Top Layer to Bottom Layer And Via (125mm,81.2mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.052mm] / [Bottom Solder] Mask Sliver [0.052mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.076mm) Between Via (32.1mm,81.2mm) from Top Layer to Bottom Layer And Via (32.1mm,82.1mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.076mm) Between Via (64.2mm,81.6mm) from Top Layer to Bottom Layer And Via (64.2mm,82.5mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.076mm) Between Via (64.2mm,83.3mm) from Top Layer to Bottom Layer And Via (65.1mm,83.3mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.022mm < 0.076mm) Between Via (65.1mm,83.3mm) from Top Layer to Bottom Layer And Via (65.6mm,82.6mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.022mm] / [Bottom Solder] Mask Sliver [0.022mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.062mm < 0.076mm) Between Via (65.1mm,83.3mm) from Top Layer to Bottom Layer And Via (66mm,83.3mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.062mm] / [Bottom Solder] Mask Sliver [0.062mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.052mm < 0.076mm) Between Via (65.2mm,81.9mm) from Top Layer to Bottom Layer And Via (66.088mm,81.956mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.052mm] / [Bottom Solder] Mask Sliver [0.052mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.065mm < 0.076mm) Between Via (66.088mm,81.956mm) from Top Layer to Bottom Layer And Via (66.6mm,82.7mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.065mm] / [Bottom Solder] Mask Sliver [0.065mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.01mm < 0.076mm) Between Via (66.6mm,82.7mm) from Top Layer to Bottom Layer And Via (66mm,83.3mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.01mm] / [Bottom Solder] Mask Sliver [0.01mm]
+Rule Violations :16
+
+Processing Rule : Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.126mm < 0.127mm) Between Pad U3-1(188.82mm,6.9mm) on Multi-Layer And Text "GND" (187.296mm,7.916mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.126mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-1(188.82mm,6.9mm) on Multi-Layer And Track (190.09mm,0.55mm)(190.09mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-10(168.5mm,11.98mm) on Multi-Layer And Track (167.23mm,0.55mm)(167.23mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-11(168.5mm,9.44mm) on Multi-Layer And Track (167.23mm,0.55mm)(167.23mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-12(168.5mm,6.9mm) on Multi-Layer And Track (167.23mm,0.55mm)(167.23mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.126mm < 0.127mm) Between Pad U3-2(188.82mm,9.44mm) on Multi-Layer And Text "GND" (187.296mm,10.456mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.126mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-2(188.82mm,9.44mm) on Multi-Layer And Track (190.09mm,0.55mm)(190.09mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.126mm < 0.127mm) Between Pad U3-3(188.82mm,11.98mm) on Multi-Layer And Text "MOSI" (187.296mm,12.996mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.126mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-3(188.82mm,11.98mm) on Multi-Layer And Track (190.09mm,0.55mm)(190.09mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.126mm < 0.127mm) Between Pad U3-4(188.82mm,14.52mm) on Multi-Layer And Text "SCLK" (187.296mm,15.536mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.126mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-4(188.82mm,14.52mm) on Multi-Layer And Track (190.09mm,0.55mm)(190.09mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.126mm < 0.127mm) Between Pad U3-5(188.82mm,17.06mm) on Multi-Layer And Text "CS" (187.296mm,18.076mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.126mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-5(188.82mm,17.06mm) on Multi-Layer And Track (190.09mm,0.55mm)(190.09mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-6(188.82mm,19.6mm) on Multi-Layer And Track (190.09mm,0.55mm)(190.09mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-7(168.5mm,19.6mm) on Multi-Layer And Track (167.23mm,0.55mm)(167.23mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-8(168.5mm,17.06mm) on Multi-Layer And Track (167.23mm,0.55mm)(167.23mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.127mm) Between Pad U3-9(168.5mm,14.52mm) on Multi-Layer And Track (167.23mm,0.55mm)(167.23mm,25.95mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :17
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.219mm < 0.254mm) Between Text "C19" (187.152mm,68.338mm) on Top Overlay And Track (191.406mm,68.975mm)(191.406mm,69.425mm) on Top Overlay Silk Text to Silk Clearance [0.219mm]
+   Violation between Silk To Silk Clearance Constraint: (0.183mm < 0.254mm) Between Text "C23" (29.069mm,13.238mm) on Top Overlay And Track (29.642mm,15.172mm)(32.558mm,15.172mm) on Top Overlay Silk Text to Silk Clearance [0.183mm]
+   Violation between Silk To Silk Clearance Constraint: (0.103mm < 0.254mm) Between Text "C4" (140.655mm,10.873mm) on Top Overlay And Track (143.525mm,10.6mm)(143.525mm,12.8mm) on Top Overlay Silk Text to Silk Clearance [0.103mm]
+   Violation between Silk To Silk Clearance Constraint: (0.222mm < 0.254mm) Between Text "C59" (100.662mm,12.731mm) on Bottom Overlay And Text "R49" (101.138mm,7.169mm) on Bottom Overlay Silk Text to Silk Clearance [0.222mm]
+   Violation between Silk To Silk Clearance Constraint: (0.196mm < 0.254mm) Between Text "F2" (61.13mm,16.238mm) on Top Overlay And Track (58.645mm,18.185mm)(65.755mm,18.185mm) on Top Overlay Silk Text to Silk Clearance [0.196mm]
+   Violation between Silk To Silk Clearance Constraint: (0.158mm < 0.254mm) Between Text "R44" (106.538mm,45.169mm) on Bottom Overlay And Track (108.446mm,45.271mm)(108.446mm,48.529mm) on Bottom Overlay Silk Text to Silk Clearance [0.158mm]
+   Violation between Silk To Silk Clearance Constraint: (0.236mm < 0.254mm) Between Text "R59" (73.962mm,74.969mm) on Top Overlay And Track (73.331mm,79.494mm)(73.331mm,82.706mm) on Top Overlay Silk Text to Silk Clearance [0.236mm]
+Rule Violations :7
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (161.8mm,101.3mm)(162.1mm,101.6mm) on Top Layer 
+   Violation between Net Antennae: Via (32.1mm,82.1mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (32.1mm,83.4mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (33.4mm,81.1mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (33.4mm,83.4mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (34.5mm,81.1mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (34.5mm,82.1mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (34.5mm,83.4mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (64.2mm,82.5mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (64.2mm,83.3mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (65.1mm,83.3mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (65.2mm,81.9mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (65.6mm,82.6mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (66.088mm,81.956mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (66.6mm,82.7mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (66.9mm,60.8mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (66mm,83.3mm) from Top Layer to Bottom Layer 
+Rule Violations :17
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Text "R39" (-0.031mm,63.838mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Track (171.04mm,-1.99mm)(171.04mm,0.55mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Track (171.04mm,-1.99mm)(186.28mm,-1.99mm) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Track (186.28mm,-1.99mm)(186.28mm,0.55mm) on Top Overlay 
+Rule Violations :4
+
+Processing Rule : Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals'))
+   Violation between Room Definition: Between DIP Component U3-W5500_LITE (178.66mm,13.25mm) on Top Layer And Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SIP Component J3-MSD-1-A (142.25mm,96.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SIP Component P6-61900411121 (167.4mm,99mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SIP Component P7-61900411121 (185.47mm,98.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component C17-0.1uF (126.2mm,100.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component D5-SM712-02HTG (167.35mm,94.955mm) on Bottom Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component D6-ESD5Z2.5T1G (166.797mm,71.731mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component D7-ESD5Z2.5T1G (169.3mm,72.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component D8-ESD5Z2.5T1G (165.21mm,71.731mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component R16-RC0805FR-071KL (171.6mm,91.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component R17-CRCW0805120RFKEA (167.3mm,91.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component R18-RC0805FR-071KL (162.8mm,91.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component R19-RC0805FR-074K7L (185.1mm,73.9mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component R20-RC0805FR-074K7L (183.9mm,76.8mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component R21-RC0805FR-074K7L (183.9mm,89mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component R22-RC0805FR-074K7L (185.1mm,92mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SMT Small Component R23-RC0805FR-074K7L (117.3mm,95.3mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SOIC Component U4-ISO3088DWR (167.4mm,83mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SOIC Component U5-TCA9517DR (185.5mm,83.2mm) on Top Layer 
+   Violation between Room Definition: Between Room Peripherals (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Peripherals')) And SOIC Component U6-W25Q16JVSNIQ TR (124.5mm,96mm) on Top Layer 
+Rule Violations :20
+
+Processing Rule : Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply'))
+   Violation between Room Definition: Between Component U8-TPS60400DBVR (185.988mm,61.88mm) on Top Layer And Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And Small Component F2-0473003.YRT1L (62.2mm,19.9mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And Small Component J4-1729128 (13mm,7.2mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT SIP Component U7-MIC29302WU-TR (9.6mm,29.7mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C18-C0805C106K8PACTU (185.206mm,66.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C19-08051C104K4T2A (185.156mm,69.2mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C20-08051C104K4T2A (192.156mm,62.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C21-C0805C106K8PACTU (189.356mm,62.2mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C22-C0805C106K8PACTU (186.256mm,58.3mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C23-08051C104K4T2A (31.1mm,16.3mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C24-EEE-HA1H100P (32.8mm,8.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C25-C1206C106K3RACAUTO (20.3mm,40.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C26-C1206C106K3RACAUTO (20.3mm,43.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C27-C1206C104F3GACAUTO (20.3mm,46.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C28-CAP 22uF 16V 1206(3216) (8.2mm,53.3mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C29-CAP 22uF 16V 1206(3216) (8.2mm,51mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C30-CAP 22uF 16V 1206(3216) (8.2mm,48.7mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C31-C1206C104F3GACAUTO (10.2mm,41.8mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C32-C1206C106K3RACAUTO (46.8mm,8mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C33-C1206C106K3RACAUTO (44.1mm,8mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C34-C1206C104F3GACAUTO (41.2mm,8mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C35-CAP 22uF 16V 1206(3216) (40.5mm,15.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C36-CAP 22uF 16V 1206(3216) (40.5mm,17.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C37-CAP 22uF 16V 1206(3216) (40.5mm,19.7mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C38-C1206C104F3GACAUTO (53.7mm,15.9mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C39-C1206C106K3RACAUTO (17.1mm,51.3mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C40-C1206C106K3RACAUTO (17.1mm,53.9mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C41-C1206C104F3GACAUTO (17.1mm,56.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C42-CAP 22uF 16V 1206(3216) (7.4mm,67.7mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C43-CAP 22uF 16V 1206(3216) (7.4mm,70mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C44-CAP 22uF 16V 1206(3216) (7.4mm,72.3mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C45-C1206C104F3GACAUTO (10.05mm,60.681mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C46-CAP 100nF 16V 1206(3216) (69mm,34.3mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C47-C1206C330M4GACTU (69mm,37mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C48-CAP 10pF 16V 1206(3216) (69.1mm,39.8mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C49-CAP 100nF 16V 1206(3216) (61.8mm,34.3mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C50-C1206C330M4GACTU (61.8mm,36.9mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C51-CAP 10pF 16V 1206(3216) (61.9mm,39.7mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C52-EEEFK1C101P (70.5mm,28.3mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component C53-EEEFK1C101P (59.6mm,28.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component D10-SML-LX0805SRC-TR (30.673mm,21.8mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component D11-SMBJ33A (22.9mm,8.2mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component D12-SML-LX0805SRC-TR (192.156mm,69.2mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component D13-SML-LX0805SRC-TR (4.1mm,50.3mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component D14-SML-LX0805SRC-TR (58.6mm,11.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component D15-MMSZ4V7T1G (67.4mm,13.9mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component D16-SML-LX0805SRC-TR (3.8mm,68.6mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component D9-SS34-E3/9AT (23mm,16.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component F1-1812L150/24MR (13.1mm,16.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component FB1-BLM21AG121SN1D (125.6mm,63mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component L2-IFSC1515AHER2R2M01 (6.4mm,41.8mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component L3-IFSC1515AHER2R2M01 (46.1mm,13.575mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component L4-IFSC1515AHER2R2M01 (5.8mm,60.825mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R24-CRGCQ0603J1K0 (192.156mm,65.973mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R25-CRCW080551K0FKEA (18.1mm,22.6mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R26-12K (24.8mm,34.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R27-CRCW0805470RJNEAHP (24.3mm,30.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R28-CR0805-FX-4702ELF (21.5mm,34.4mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R29-CRGCQ0603J1K0 (34.073mm,21.9mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R30-CRCW060310K0FKED (13.8mm,42.2mm) on Bottom Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R31-CRCW060332K4FHEAP (7.485mm,45.7mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R32-CRCW060310K0FKED (51mm,7.8mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R33-CRCW060332K4FHEAP (46.815mm,17.6mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R34-CRCW060310K0FKED (11.615mm,45.6mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R35-CRGCQ0603J1K0 (4.1mm,54.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R36-CRCW060310K0FKED (46.7mm,20.5mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R37-CRGCQ0603J1K0 (58.6mm,7.8mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R38-CRCW060310K0FKED (14.31mm,60.591mm) on Bottom Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R39-CRCW060332K4FHEAP (6.7mm,64.7mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R40-CRCW060310K0FKED (10.9mm,64.7mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SMT Small Component R41-CRGCQ0603J1K0 (3.8mm,71.9mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SOIC Component U10-TPS563200DDCR (52.1mm,12.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SOIC Component U11-TPS563200DDCR (14.35mm,60.681mm) on Top Layer 
+   Violation between Room Definition: Between Room Power_supply (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Power_supply')) And SOIC Component U9-TPS563200DDCR (13.8mm,41.8mm) on Top Layer 
+Rule Violations :74
+
+Processing Rule : Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD'))
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SIP Component J5-SIM8066-6-1-14-01-A (83.2mm,8mm) on Top Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component C54-C0805C103K2RACTU (115mm,5.1mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component C55-08051A102J4T2A (105.3mm,47mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component C56-08051A102J4T2A (125.7mm,46.5mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component C57-C1206C330M4GACTU (98mm,17.2mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component C58-C1206C330M4GACTU (93.6mm,13.3mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component C59-C1206C330M4GACTU (97.7mm,12mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component D17-ESD5Z2.5T1G (85.005mm,18.776mm) on Top Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component D18-ESD5Z2.5T1G (79.603mm,20.79mm) on Top Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component D19-ESD5Z2.5T1G (78.3mm,20.8mm) on Top Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component D20-ESD5Z2.5T1G (80.9mm,20.8mm) on Top Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component D21-ESD5Z2.5T1G (83.444mm,20.8mm) on Top Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component Q4-MMBT3904 (114mm,46.8mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component Q5-MMBT3904 (118.9mm,5.9mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component Q6-MMBT3904 (118.025mm,46.8mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component Q7-MMBT3904 (105.4mm,5.2mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component R42-RC0805FR-0710KL (113.1mm,43.2mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component R43-CRG0805F1K0 (124.024mm,6.9mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component R44-CRG0805F1K0 (109.6mm,46.9mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component R45-RC0805FR-0710KL (124mm,4.2mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component R46-RC0805FR-0710KL (118.9mm,50.2mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component R47-CRG0805F1K0 (122.3mm,46.7mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component R48-CRG0805F1K0 (98.3mm,5.3mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component R49-RC0805FR-0710KL (101.8mm,5.2mm) on Bottom Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component R50-RC0805FR-0710KL (97.2mm,16.5mm) on Top Layer 
+   Violation between Room Definition: Between Room SIM CARD (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('SIM CARD')) And SMT Small Component R51-CRCW080551K0FKEA (95.2mm,21.4mm) on Top Layer 
+Rule Violations :26
+
+Processing Rule : Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP'))
+   Violation between Room Definition: Between LCC Component U12-MAX31865ATP+ (33.4mm,82.1mm) on Top Layer And Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) 
+   Violation between Room Definition: Between LCC Component U13-MAX31865ATP+ (65.4mm,82.1mm) on Top Layer And Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SIP Component P8-691317510004 (34.64mm,96.4mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SIP Component P9-691317510004 (66.2mm,96.2mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component C60-0.1uF (37mm,76.401mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component C61-0.1uF (34.7mm,76.375mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component C62-0.1uF (33.7mm,86.9mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component C63-0.1uF (66.7mm,76mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component C64-0.1uF (69.1mm,76mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component C65-0.1uF (65.7mm,87.3mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component D22-LTST-C191TBKT (32.1mm,72.8mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component D23-LTST-C191TBKT (64.4mm,73.5mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component R52-AC0603JR-0710ML (51.2mm,81.1mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component R53-CRGCQ0603F1K2 (32.097mm,76.296mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component R54-DNP (42.6mm,81.2mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component R55-DNP (45.5mm,81.2mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component R56-4K (48.4mm,81.2mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component R57-AC0603JR-0710ML (82.1mm,81.1mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component R58-CRGCQ0603F1K2 (64.4mm,76.9mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component R59-DNP (72.2mm,81.1mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component R60-DNP (75.6mm,81.1mm) on Top Layer 
+   Violation between Room Definition: Between Room TEMP (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('TEMP')) And SMT Small Component R61-4K (79.1mm,81.1mm) on Top Layer 
+Rule Violations :22
+
+Processing Rule : Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU'))
+   Violation between Room Definition: Between Component J7-10104110-0001LF (106.45mm,99.275mm) on Top Layer And Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) 
+   Violation between Room Definition: Between Component SW1-EVP-BB2A9B000 (109.7mm,52.3mm) on Top Layer And Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) 
+   Violation between Room Definition: Between Component Y1-ABM8-25.000MHZ-B2-T3 (119.2mm,55.3mm) on Top Layer And Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) 
+   Violation between Room Definition: Between LCC Component U2-STM32F407VGT6 (119mm,76.975mm) on Top Layer And Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SIP Component BT1-S8411-45R (10.9mm,90.6mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SIP Component J6-315-43-106-41-001000 (92.3mm,100.4mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And Small Component P5-Header 3 (135.4mm,62.1mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C10-C0603C104K8PAC7867 (108.3mm,68.6mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C11-CC0603KRX7R6BB105 (127mm,59.8mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C12-CC0603KRX7R6BB103 (129.2mm,59.8mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C13-C0603C104K8PAC7867 (131.5mm,59.9mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C14-CC0603KPX5R5BB225 (133.6mm,81.9mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C15-CC0603KPX5R5BB225 (108.3mm,87.1mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C16-C0603C104K8PAC7867 (109mm,55mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C5-CC0603KRX5R8BB475 (106.1mm,87.1mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C66-VJ0603A180JXAAC (115.5mm,55.2mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C67-VJ0603A180JXAAC (123mm,55.3mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C68-C0603C120C5GAC7867 (104mm,59.2mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C69-C0603C120C5GAC7867 (104mm,62.6mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C6-CC0603KRX7R6BB105 (133.6mm,84.3mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C7-CC0603KRX7R6BB103 (130.6mm,71.3mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C8-C0603C104K8PAC7867 (124.7mm,59.9mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component C9-C0603C104K8PAC7867 (118.1mm,64.5mm) on Bottom Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component R13-CRCW060310K0FKED (98.815mm,73.9mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component R14-CRCW060310K0FKED (98.8mm,76.6mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component R15-CRCW060310K0FKED (102.8mm,54.9mm) on Top Layer 
+   Violation between Room Definition: Between Room MCU (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('MCU')) And SMT Small Component Y2-ABS09-32.768KHZ-1-T (107.8mm,60.9mm) on Top Layer 
+Rule Violations :27
+
+Processing Rule : Room GSM (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM'))
+   Violation between Room Definition: Between BGA Component U1-EC200U (118.3mm,24.7mm) on Top Layer And Room GSM (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM')) 
+Rule Violations :1
+
+Processing Rule : Room Communication_with_IO (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Communication_with_IO'))
+   Violation between Room Definition: Between DIP Component P1-Header 10X2 (158.26mm,51.96mm) on Top Layer And Room Communication_with_IO (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Communication_with_IO')) 
+   Violation between Room Definition: Between Room Communication_with_IO (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Communication_with_IO')) And SIP Component P2-Header 20 (49.02mm,53.1mm) on Top Layer 
+   Violation between Room Definition: Between Room Communication_with_IO (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('Communication_with_IO')) And SIP Component P3-Header 14 (49.02mm,56.979mm) on Top Layer 
+Rule Violations :3
+
+Processing Rule : Room ANT (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANT'))
+   Violation between Room Definition: Between Room ANT (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANT')) And SMT Small Component C1-NA (155.2mm,10.1mm) on Top Layer 
+   Violation between Room Definition: Between Room ANT (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANT')) And SMT Small Component C2-NA (155.2mm,16.9mm) on Top Layer 
+   Violation between Room Definition: Between Room ANT (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANT')) And SMT Small Component C3-GRM21BR71H104KA01L (137.6mm,5.4mm) on Top Layer 
+   Violation between Room Definition: Between Room ANT (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANT')) And SMT Small Component C4-C0805C101J1GACTU (144.6mm,11.7mm) on Top Layer 
+   Violation between Room Definition: Between Room ANT (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANT')) And SMT Small Component J1-U.FL-R-SMT(10) (156.024mm,5.175mm) on Top Layer 
+   Violation between Room Definition: Between Room ANT (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANT')) And SMT Small Component J2-U.FL-R-SMT(10) (144.575mm,5mm) on Top Layer 
+   Violation between Room Definition: Between Room ANT (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANT')) And SMT Small Component L1-LQW18AN47NG00D (140.3mm,6.5mm) on Top Layer 
+   Violation between Room Definition: Between Room ANT (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANT')) And SMT Small Component R1-0R (156.1mm,13.5mm) on Top Layer 
+   Violation between Room Definition: Between Room ANT (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('ANT')) And SMT Small Component R2-0R (155.1mm,19.6mm) on Top Layer 
+Rule Violations :9
+
+Processing Rule : Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION'))
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component D1-KP-3216PBC-A (192.238mm,34.999mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component D2-KP-3216PBC-A (192.238mm,38.942mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component D3-KP-3216PBC-A (192.3mm,31.1mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component D4-KP-3216PBC-A (192.138mm,43.126mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component Q1-MMBT3904 (177.9mm,35mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component Q2-MMBT3904 (177.8mm,38.95mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component Q3-MMBT3904 (177.8mm,43.1mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component R10-CRCW08052K20FKEA (185.5mm,43.1mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component R11-CRG0805F1K0 (167.8mm,43.996mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component R12-RC0805FR-0710KL (171.8mm,43.1mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component R3-CRCW08052K20FKEA (185.5mm,35mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component R4-CRCW08052K20FKEA (185.5mm,38.908mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component R5-CRG0805F1K0 (167.8mm,35.9mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component R6-CRG0805F1K0 (167.8mm,39.846mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component R7-RC0805FR-0710KL (171.8mm,35mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component R8-RC0805FR-0710KL (171.8mm,38.942mm) on Top Layer 
+   Violation between Room Definition: Between Room GSM_INDICATION (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('GSM_INDICATION')) And SMT Small Component R9-CRCW08052K20FKEA (186.251mm,31.1mm) on Top Layer 
+Rule Violations :17
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 266
+Waived Violations : 0
+PCB Health Issues : 0
+Time Elapsed        : 00:00:02

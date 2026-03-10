@@ -1,0 +1,157 @@
+Removed Member From Class: ClassName=Peripherals Member=C18
+Removed Member From Class: ClassName=Peripherals Member=J5
+Removed Member From Class: ClassName=Power_supply Member=J5
+Removed Member From Class: ClassName=GSM Member=P6
+Removed Member From Class: ClassName=MCU Member=P6
+Removed Member From Class: ClassName=MCU Member=R12
+Removed Member From Class: ClassName=Peripherals Member=R13
+Removed Member From Class: ClassName=Peripherals Member=R14
+Removed Member From Class: ClassName=Peripherals Member=R15
+Removed Member From Class: ClassName=Power_supply Member=R19
+Removed Member From Class: ClassName=Power_supply Member=R21
+Removed Member From Class: ClassName=SIM CARD Member=R40
+Removed Member From Class: ClassName=TEMP Member=R45
+Removed Member From Class: ClassName=TEMP Member=R47
+Removed Member From Class: ClassName=Peripherals Member=U7
+Change Component Footprint: Designator=P4 Old Footprint=61900411121 New Footprint=61900411121
+Change Component Footprint: Designator=P? Old Footprint=61900411121 New Footprint=61900411121
+Change Component Footprint: Designator=P8 Old Footprint=691317510004 New Footprint=691317510004
+Change Component Footprint: Designator=P9 Old Footprint=691317510004 New Footprint=691317510004
+Change Component Footprint: Designator=U6 Old Footprint=FP-W25Q16JVSNIQ_TR-IPC_A New Footprint=FP-W25Q16JVSNIQ_TR-IPC_A
+Change Component Designator: OldDesignator=P? NewDesignator=P10
+Add Component: Footprint Not Found XCVR_EC200U
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U1-21
+Add Pin To Net: Unknown Pin: Pin U1-22
+Add Pin To Net: Unknown Pin: Pin U1-36
+Add Pin To Net: Unknown Pin: Pin U1-46
+Add Pin To Net: Unknown Pin: Pin U1-47
+Add Pin To Net: Unknown Pin: Pin U1-48
+Add Pin To Net: Unknown Pin: Pin U1-49
+Add Pin To Net: Unknown Pin: Pin U1-50
+Add Pin To Net: Unknown Pin: Pin U1-51
+Add Pin To Net: Unknown Pin: Pin U1-52
+Add Pin To Net: Unknown Pin: Pin U1-53
+Add Pin To Net: Unknown Pin: Pin U1-54
+Add Pin To Net: Unknown Pin: Pin U1-56
+Add Pin To Net: Unknown Pin: Pin U1-57
+Add Pin To Net: Unknown Pin: Pin U1-58
+Add Pin To Net: Unknown Pin: Pin U1-59
+Add Pin To Net: Unknown Pin: Pin U1-60
+Add Pin To Net: Unknown Pin: Pin U1-61
+Add Pin To Net: Unknown Pin: Pin U1-67
+Add Pin To Net: Unknown Pin: Pin U1-68
+Add Pin To Net: Unknown Pin: Pin U1-72
+Add Pin To Net: Unknown Pin: Pin U1-76
+Add Pin To Net: Unknown Pin: Pin U1-85
+Add Pin To Net: Unknown Pin: Pin U1-86
+Add Pin To Net: Unknown Pin: Pin U1-87
+Add Pin To Net: Unknown Pin: Pin U1-88
+Add Pin To Net: Unknown Pin: Pin U1-89
+Add Pin To Net: Unknown Pin: Pin U1-90
+Add Pin To Net: Unknown Pin: Pin U1-91
+Add Pin To Net: Unknown Pin: Pin U1-92
+Add Pin To Net: Unknown Pin: Pin U1-93
+Add Pin To Net: Unknown Pin: Pin U1-94
+Add Pin To Net: Unknown Pin: Pin U1-95
+Add Pin To Net: Unknown Pin: Pin U1-96
+Add Pin To Net: Unknown Pin: Pin U1-97
+Add Pin To Net: Unknown Pin: Pin U1-98
+Add Pin To Net: Unknown Pin: Pin U1-99
+Add Pin To Net: Unknown Pin: Pin U1-100
+Add Pin To Net: Unknown Pin: Pin U1-101
+Add Pin To Net: Unknown Pin: Pin U1-102
+Add Pin To Net: Unknown Pin: Pin U1-103
+Add Pin To Net: Unknown Pin: Pin U1-104
+Add Pin To Net: Unknown Pin: Pin U1-105
+Add Pin To Net: Unknown Pin: Pin U1-106
+Add Pin To Net: Unknown Pin: Pin U1-107
+Add Pin To Net: Unknown Pin: Pin U1-108
+Add Pin To Net: Unknown Pin: Pin U1-109
+Add Pin To Net: Unknown Pin: Pin U1-110
+Add Pin To Net: Unknown Pin: Pin U1-111
+Add Pin To Net: Unknown Pin: Pin U1-112
+Added Member To Class: ClassName=Peripherals Member=Component C17 0.1uF
+Added Member To Class: ClassName=Power_supply Member=Component C18 C0805C106K8PACTU
+Added Member To Class: ClassName=Power_supply Member=Component C19 08051C104K4T2A
+Added Member To Class: ClassName=Power_supply Member=Component C21 C0805C106K8PACTU
+Added Member To Class: ClassName=Power_supply Member=Component C23 08051C104K4T2A
+Added Member To Class: ClassName=Power_supply Member=Component C25 C1206C106K3RACAUTO
+Added Member To Class: ClassName=Power_supply Member=Component C27 C1206C104F3GACAUTO
+Added Member To Class: ClassName=Power_supply Member=Component C29 CAP 22uF 16V 1206(3216)
+Added Member To Class: ClassName=Power_supply Member=Component C31 C1206C104F3GACAUTO
+Added Member To Class: ClassName=Power_supply Member=Component C33 C1206C106K3RACAUTO
+Added Member To Class: ClassName=Power_supply Member=Component C35 CAP 22uF 16V 1206(3216)
+Added Member To Class: ClassName=Power_supply Member=Component C37 CAP 22uF 16V 1206(3216)
+Added Member To Class: ClassName=Power_supply Member=Component C39 C1206C106K3RACAUTO
+Added Member To Class: ClassName=Power_supply Member=Component C41 C1206C104F3GACAUTO
+Added Member To Class: ClassName=Power_supply Member=Component C43 CAP 22uF 16V 1206(3216)
+Added Member To Class: ClassName=Power_supply Member=Component C44 CAP 22uF 16V 1206(3216)
+Added Member To Class: ClassName=Power_supply Member=Component C46 CAP 100nF 16V 1206(3216)
+Added Member To Class: ClassName=Power_supply Member=Component C47 C1206C330M4GACTU
+Added Member To Class: ClassName=Power_supply Member=Component C49 CAP 100nF 16V 1206(3216)
+Added Member To Class: ClassName=Power_supply Member=Component C51 CAP 10pF 16V 1206(3216)
+Added Member To Class: ClassName=Power_supply Member=Component C52 EEEFK1C101P
+Added Member To Class: ClassName=SIM CARD Member=Component C54 C0805C103K2RACTU
+Added Member To Class: ClassName=SIM CARD Member=Component C55 08051A102J4T2A
+Added Member To Class: ClassName=SIM CARD Member=Component C57 C1206C330M4GACTU
+Added Member To Class: ClassName=SIM CARD Member=Component C58 C1206C330M4GACTU
+Added Member To Class: ClassName=SIM CARD Member=Component C59 C1206C330M4GACTU
+Added Member To Class: ClassName=TEMP Member=Component C60 0.1uF
+Added Member To Class: ClassName=TEMP Member=Component C61 0.1uF
+Added Member To Class: ClassName=Peripherals Member=Component J3 MSD-1-A
+Added Member To Class: ClassName=Power_supply Member=Component J4 1729128
+Added Member To Class: ClassName=GSM Member=Component P4 61900411121
+Added Member To Class: ClassName=MCU Member=Component P5 Header 3
+Added Member To Class: ClassName=Peripherals Member=Component P6 61900411121
+Added Member To Class: ClassName=SIM CARD Member=Component Q5 MMBT3904
+Added Member To Class: ClassName=SIM CARD Member=Component Q7 MMBT3904
+Added Member To Class: ClassName=ANT Member=Component R1 0R
+Added Member To Class: ClassName=ANT Member=Component R2 0R
+Added Member To Class: ClassName=GSM_INDICATION Member=Component R3 CRCW08052K20FKEA
+Added Member To Class: ClassName=GSM_INDICATION Member=Component R4 CRCW08052K20FKEA
+Added Member To Class: ClassName=GSM_INDICATION Member=Component R5 CRG0805F1K0
+Added Member To Class: ClassName=GSM_INDICATION Member=Component R8 RC0805FR-0710KL
+Added Member To Class: ClassName=GSM_INDICATION Member=Component R9 CRCW08052K20FKEA
+Added Member To Class: ClassName=GSM_INDICATION Member=Component R10 CRCW08052K20FKEA
+Added Member To Class: ClassName=GSM_INDICATION Member=Component R11 CRG0805F1K0
+Added Member To Class: ClassName=GSM_INDICATION Member=Component R12 RC0805FR-0710KL
+Added Member To Class: ClassName=MCU Member=Component R15 CRCW060310K0FKED
+Added Member To Class: ClassName=Peripherals Member=Component R16 RC0805FR-071KL
+Added Member To Class: ClassName=Peripherals Member=Component R18 RC0805FR-071KL
+Added Member To Class: ClassName=Peripherals Member=Component R20 RC0805FR-074K7L
+Added Member To Class: ClassName=Peripherals Member=Component R21 RC0805FR-074K7L
+Added Member To Class: ClassName=Peripherals Member=Component R22 RC0805FR-074K7L
+Added Member To Class: ClassName=Peripherals Member=Component R23 RC0805FR-074K7L
+Added Member To Class: ClassName=Power_supply Member=Component R40 CRCW060310K0FKED
+Added Member To Class: ClassName=Power_supply Member=Component R41 CRGCQ0603J1K0
+Added Member To Class: ClassName=SIM CARD Member=Component R42 RC0805FR-0710KL
+Added Member To Class: ClassName=SIM CARD Member=Component R44 CRG0805F1K0
+Added Member To Class: ClassName=SIM CARD Member=Component R46 RC0805FR-0710KL
+Added Member To Class: ClassName=SIM CARD Member=Component R48 CRG0805F1K0
+Added Member To Class: ClassName=SIM CARD Member=Component R49 RC0805FR-0710KL
+Added Member To Class: ClassName=SIM CARD Member=Component R50 RC0805FR-0710KL
+Added Member To Class: ClassName=SIM CARD Member=Component R51 CRCW080551K0FKEA
+Added Member To Class: ClassName=TEMP Member=Component R53 CRGCQ0603F1K2
+Added Member To Class: ClassName=TEMP Member=Component R55 DNP
+Added Member To Class: ClassName=TEMP Member=Component R57 AC0603JR-0710ML
+Added Member To Class: ClassName=TEMP Member=Component R59 DNP
+Add Class Member: Failed to add class member : Component U1 EC200U
+Added Member To Class: ClassName=Peripherals Member=Component U6 W25Q16JVSNIQ TR
+Added Member To Class: ClassName=Power_supply Member=Component U7 MIC29302WU-TR
+Added Member To Class: ClassName=Power_supply Member=Component U8 TPS60400DBVR
+Added Member To Class: ClassName=Power_supply Member=Component U10 TPS563200DDCR

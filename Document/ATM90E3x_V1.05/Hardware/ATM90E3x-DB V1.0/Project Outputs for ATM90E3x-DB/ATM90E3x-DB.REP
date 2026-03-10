@@ -1,0 +1,355 @@
+*************************************************************
+FileName = ATM90E3x-DB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Courtyard
+      File : ATM90E3x-DB.GM15
+
+    Adding Layer      : Top Courtyard
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : ATM90E3x-DB.GM13
+
+    Adding Layer      : Top 3D Body
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : ATM90E3x-DB.GM11
+
+    Adding Layer      : Top Component Outline
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : ATM90E3x-DB.GM3
+
+    Adding Layer      : Top Designator
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ATM90E3x-DB.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ATM90E3x-DB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ATM90E3x-DB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ATM90E3x-DB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ATM90E3x-DB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ATM90E3x-DB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ATM90E3x-DB.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ATM90E3x-DB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ATM90E3x-DB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 12
+
+
+Used DCodes :
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ATM90E3x-DB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D45
+    D48
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ATM90E3x-DB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 12
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D45
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ATM90E3x-DB.GD1
+
+    Adding Layer      : Mechanical 12
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D64
+    D65
+    D66
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ATM90E3x-DB.GG1
+
+    Adding Layer      : Mechanical 12
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D64
+*************************************************************
+

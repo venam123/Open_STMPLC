@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=R16-2
+Removed Pin From Net: NetName=+5 Pin=R18-1
+Added Pin To Net: NetName=+5 Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Room: Name=ANT
+Added Room: Name=Communication_with_IO
+Added Room: Name=GSM
+Added Room: Name=GSM_INDICATION
+Added Room: Name=MCU
+Added Room: Name=Peripherals
+Added Room: Name=Power_supply
+Added Room: Name=SIM CARD
+Added Room: Name=TEMP

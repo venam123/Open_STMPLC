@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VBAT Pin=D1-1
+Removed Pin From Net: NetName=VBAT Pin=D2-1
+Removed Pin From Net: NetName=VBAT Pin=D3-1
+Removed Pin From Net: NetName=VBAT Pin=D4-1
+Added Pin To Net: NetName=VBAT_BB Pin=D1-1
+Added Pin To Net: NetName=VBAT_BB Pin=D2-1
+Added Pin To Net: NetName=VBAT_BB Pin=D3-1
+Added Pin To Net: NetName=VBAT_BB Pin=D4-1
+Added Room: Name=ANT
+Added Room: Name=Communication_with_IO
+Added Room: Name=GSM
+Added Room: Name=GSM_INDICATION
+Added Room: Name=MCU
+Added Room: Name=Peripherals
+Added Room: Name=Power_supply
+Added Room: Name=SIM CARD
+Added Room: Name=TEMP

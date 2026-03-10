@@ -1,0 +1,36 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Universal_PLC.PrjPcb]
+   Generated File[Universal_PCB.GTO]
+   Generated File[Universal_PCB.GTP]
+   Generated File[Universal_PCB.GTS]
+   Generated File[Universal_PCB.GTL]
+   Generated File[Universal_PCB.GBL]
+   Generated File[Universal_PCB.GBS]
+   Generated File[Universal_PCB.GBP]
+   Generated File[Universal_PCB.GBO]
+   Generated File[Universal_PCB.GM1]
+   Generated File[Universal_PCB.GM2]
+   Generated File[Universal_PCB.GM3]
+   Generated File[Universal_PCB.GM4]
+   Generated File[Universal_PCB.GM5]
+   Generated File[Universal_PCB.GM11]
+   Generated File[Universal_PCB.GM13]
+   Generated File[Universal_PCB.GM15]
+   Generated File[Universal_PCB.GM16]
+   Generated File[Universal_PCB.GM20]
+   Generated File[Universal_PCB.GM21]
+   Generated File[Universal_PCB.GM23]
+   Generated File[Universal_PCB.GM24]
+   Generated File[Universal_PCB.GKO]
+   Generated File[Universal_PCB.GPT]
+   Generated File[Universal_PCB.GPB]
+   Generated File[Universal_PCB.RUL]
+   Generated File[Universal_PCB.EXTREP]
+   Generated File[Universal_PCB.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 9:53:16 AM On 10/14/2025

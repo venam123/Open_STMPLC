@@ -1,0 +1,535 @@
+*************************************************************
+FileName = Universal_PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : Universal_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D36
+    D37
+    D38
+    D61
+    D62
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : Universal_PCB.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : Universal_PCB.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : Universal_PCB.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Universal_PCB.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : Universal_PCB.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D13
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Universal_PCB.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Universal_PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D36
+    D37
+    D38
+    D61
+    D62
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Universal_PCB.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : Universal_PCB.GM4
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Universal_PCB.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Universal_PCB.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D10
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Universal_PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Universal_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D61
+    D62
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Universal_PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Universal_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D95
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Universal_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D36
+    D37
+    D38
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Universal_PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Universal_PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Universal_PCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D61
+    D62
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : Universal_PCB.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : Universal_PCB.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Universal_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D45
+    D46
+    D55
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D87
+    D88
+    D91
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Universal_PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D27
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D40
+    D41
+    D42
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+

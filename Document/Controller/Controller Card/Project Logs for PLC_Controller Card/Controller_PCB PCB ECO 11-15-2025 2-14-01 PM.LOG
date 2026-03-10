@@ -1,0 +1,73 @@
+Added Component: Designator=U1(XCVR_EC200U)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EC200U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NET_MODE Pin=U1-5
+Added Pin To Net: NetName=NET_STATUS Pin=U1-6
+Added Pin To Net: NetName=VDD_EXT Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=NetP4_3 Pin=U1-11
+Added Pin To Net: NetName=NetP4_2 Pin=U1-12
+Added Pin To Net: NetName=USIM_DET Pin=U1-13
+Added Pin To Net: NetName=USIM_VDD Pin=U1-14
+Added Pin To Net: NetName=USIM_DATA Pin=U1-15
+Added Pin To Net: NetName=USIM_CLK Pin=U1-16
+Added Pin To Net: NetName=USIM_RST Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-19
+Added Pin To Net: NetName=RESET_KEY Pin=U1-20
+Added Pin To Net: NetName=POWER_KEY Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-36
+Added Pin To Net: NetName=GND Pin=U1-46
+Added Pin To Net: NetName=ANT_GNSS Pin=U1-47
+Added Pin To Net: NetName=GND Pin=U1-48
+Added Pin To Net: NetName=ANT_MAIN Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-50
+Added Pin To Net: NetName=GND Pin=U1-51
+Added Pin To Net: NetName=GND Pin=U1-52
+Added Pin To Net: NetName=GND Pin=U1-53
+Added Pin To Net: NetName=GND Pin=U1-54
+Added Pin To Net: NetName=GND Pin=U1-56
+Added Pin To Net: NetName=VBAT_BB Pin=U1-57
+Added Pin To Net: NetName=VBAT_BB Pin=U1-58
+Added Pin To Net: NetName=VBAT_BB Pin=U1-59
+Added Pin To Net: NetName=VBAT_BB Pin=U1-60
+Added Pin To Net: NetName=STATUS Pin=U1-61
+Added Pin To Net: NetName=MAIN_TXD Pin=U1-67
+Added Pin To Net: NetName=MAIN_RXD Pin=U1-68
+Added Pin To Net: NetName=GND Pin=U1-72
+Added Pin To Net: NetName=GND Pin=U1-76
+Added Pin To Net: NetName=GND Pin=U1-85
+Added Pin To Net: NetName=GND Pin=U1-86
+Added Pin To Net: NetName=GND Pin=U1-87
+Added Pin To Net: NetName=GND Pin=U1-88
+Added Pin To Net: NetName=GND Pin=U1-89
+Added Pin To Net: NetName=GND Pin=U1-90
+Added Pin To Net: NetName=GND Pin=U1-91
+Added Pin To Net: NetName=GND Pin=U1-92
+Added Pin To Net: NetName=GND Pin=U1-93
+Added Pin To Net: NetName=GND Pin=U1-94
+Added Pin To Net: NetName=GND Pin=U1-95
+Added Pin To Net: NetName=GND Pin=U1-96
+Added Pin To Net: NetName=GND Pin=U1-97
+Added Pin To Net: NetName=GND Pin=U1-98
+Added Pin To Net: NetName=GND Pin=U1-99
+Added Pin To Net: NetName=GND Pin=U1-100
+Added Pin To Net: NetName=GND Pin=U1-101
+Added Pin To Net: NetName=GND Pin=U1-102
+Added Pin To Net: NetName=GND Pin=U1-103
+Added Pin To Net: NetName=GND Pin=U1-104
+Added Pin To Net: NetName=GND Pin=U1-105
+Added Pin To Net: NetName=GND Pin=U1-106
+Added Pin To Net: NetName=GND Pin=U1-107
+Added Pin To Net: NetName=GND Pin=U1-108
+Added Pin To Net: NetName=GND Pin=U1-109
+Added Pin To Net: NetName=GND Pin=U1-110
+Added Pin To Net: NetName=GND Pin=U1-111
+Added Pin To Net: NetName=GND Pin=U1-112
+Added Member To Class: ClassName=GSM Member=Component U1 EC200U

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=A_IOUT_MOSI Pin=P5-1
+Removed Pin From Net: NetName=A_IOUT_CS Pin=P5-3
+Removed Pin From Net: NetName=A_IOUT_SCLK Pin=P5-5
+Removed Pin From Net: NetName=A_IOUT_LDAC Pin=P5-7
+Removed Pin From Net: NetName=A_IOUT_SHDN Pin=P5-9
+Removed Pin From Net: NetName=A_VOUT_MOSI Pin=P5-11
+Removed Pin From Net: NetName=A_VOUT_CS Pin=P5-13
+Removed Pin From Net: NetName=A_VOUT_SCLK Pin=P5-15
+Removed Pin From Net: NetName=A_VOUT_LDAC Pin=P5-17
+Removed Pin From Net: NetName=A_VOUT_SHDN Pin=P5-19
+Add Component: Footprint Not Found W5500
+Added Pin To Net: NetName=A_IOUT_SHDN Pin=P5-1
+Added Pin To Net: NetName=A_IOUT_LDAC Pin=P5-3
+Added Pin To Net: NetName=A_IOUT_MOSI Pin=P5-5
+Added Pin To Net: NetName=A_IOUT_SCLK Pin=P5-7
+Added Pin To Net: NetName=A_IOUT_CS Pin=P5-9
+Added Pin To Net: NetName=A_VOUT_SHDN Pin=P5-11
+Added Pin To Net: NetName=A_VOUT_LDAC Pin=P5-13
+Added Pin To Net: NetName=A_VOUT_MOSI Pin=P5-15
+Added Pin To Net: NetName=A_VOUT_SCLK Pin=P5-17
+Added Pin To Net: NetName=A_VOUT_CS Pin=P5-19
+Add Pin To Net: Unknown Pin: Pin U48-1
+Add Pin To Net: Unknown Pin: Pin U48-2
+Add Pin To Net: Unknown Pin: Pin U48-3
+Add Pin To Net: Unknown Pin: Pin U48-4
+Add Pin To Net: Unknown Pin: Pin U48-5
+Add Pin To Net: Unknown Pin: Pin U48-6
+Add Pin To Net: Unknown Pin: Pin U48-7
+Add Pin To Net: Unknown Pin: Pin U48-8
+Add Pin To Net: Unknown Pin: Pin U48-10
+Add Pin To Net: Unknown Pin: Pin U48-11
+Add Pin To Net: Unknown Pin: Pin U48-12
+Add Class Member: Failed to add class member : Component U48 W5500_LITE

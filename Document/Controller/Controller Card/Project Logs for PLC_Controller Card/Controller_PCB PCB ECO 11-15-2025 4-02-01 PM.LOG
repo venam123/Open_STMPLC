@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=BT1 Old Footprint=FP-BU2032SM-BT-GTR-MFG New Footprint=FP-S8411-45R-MFG
+Change Component Comment : Designator=BT1 Old Comment=BU2032SM-BT-GTR New Comment=S8411-45R
+Change Managed Component Library Link : Designator=BT1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A8155797-80DA-44F8-B23F-692CDE719365 New ItemGUID=92D64699-E109-46DC-B29F-983E2EB1929A Old RevisionGUID=05ACD1D9-4B8B-4012-8026-6BFA30C1C94A New RevisionGUID=F382E4BF-F630-41BA-880E-CE5930C679DA
+Change component parameters: Designator = "BT1" ("BT1"); Footprint = "FP-BU2032SM-BT-GTR-MFG"; UniqueID = "\UEGANKEI" ("\UEGANKEI")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Polyphenylene"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Batteries"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Cells"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "500"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"

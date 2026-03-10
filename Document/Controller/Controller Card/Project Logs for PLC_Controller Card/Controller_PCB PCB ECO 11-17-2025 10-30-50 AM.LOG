@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=FORCE+1 Pin=C65-2
+Added Pin To Net: NetName=RTDIN+1 Pin=C65-1
+Added Pin To Net: NetName=RTCIN-1 Pin=C65-2

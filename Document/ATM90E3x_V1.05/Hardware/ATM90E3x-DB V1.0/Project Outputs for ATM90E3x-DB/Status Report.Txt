@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ATM90E3x-DB.PrjPcb]
+   Generated File[ATM90E3x-DB.GTO]
+   Generated File[ATM90E3x-DB.GTP]
+   Generated File[ATM90E3x-DB.GTS]
+   Generated File[ATM90E3x-DB.GTL]
+   Generated File[ATM90E3x-DB.GBL]
+   Generated File[ATM90E3x-DB.GBS]
+   Generated File[ATM90E3x-DB.GBO]
+   Generated File[ATM90E3x-DB.GM1]
+   Generated File[ATM90E3x-DB.GM3]
+   Generated File[ATM90E3x-DB.GM11]
+   Generated File[ATM90E3x-DB.GM13]
+   Generated File[ATM90E3x-DB.GM15]
+   Generated File[ATM90E3x-DB.GKO]
+   Generated File[ATM90E3x-DB.GPT]
+   Generated File[ATM90E3x-DB.GPB]
+   Generated File[ATM90E3x-DB.GD1]
+   Generated File[ATM90E3x-DB.GG1]
+   Generated File[ATM90E3x-DB.RUL]
+   Generated File[ATM90E3x-DB.EXTREP]
+   Generated File[ATM90E3x-DB.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 3:45:13 PM On 10/15/2025

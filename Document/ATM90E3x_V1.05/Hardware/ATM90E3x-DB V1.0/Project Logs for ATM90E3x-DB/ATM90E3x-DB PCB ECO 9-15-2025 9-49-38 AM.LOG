@@ -1,0 +1,235 @@
+Removed Pin From Net: NetName=N Pin=C1-1
+Removed Pin From Net: NetName=N Pin=C2-2
+Removed Pin From Net: NetName=N Pin=C2-2
+Removed Pin From Net: NetName=N Pin=C3-2
+Removed Pin From Net: NetName=N Pin=C4-2
+Removed Pin From Net: NetName=N Pin=C5-1
+Removed Pin From Net: NetName=N Pin=C6-1
+Removed Pin From Net: NetName=N Pin=C7-1
+Removed Pin From Net: NetName=N Pin=C8-1
+Removed Pin From Net: NetName=N Pin=D3-K
+Removed Pin From Net: NetName=N Pin=J3-2
+Removed Pin From Net: NetName=IAP Pin=J5-1
+Removed Pin From Net: NetName=IAN Pin=J5-2
+Removed Pin From Net: NetName=IBP Pin=J6-1
+Removed Pin From Net: NetName=IBN Pin=J6-2
+Removed Pin From Net: NetName=ICP Pin=J7-1
+Removed Pin From Net: NetName=ICN Pin=J7-2
+Removed Pin From Net: NetName=INP Pin=J8-1
+Removed Pin From Net: NetName=INN Pin=J8-2
+Removed Pin From Net: NetName=N Pin=J-U-4
+Removed Pin From Net: NetName=UC Pin=JP1-1
+Removed Pin From Net: NetName=DVDD33 Pin=JP2-2
+Removed Pin From Net: NetName=VDD_EXT Pin=JP3-2
+Removed Pin From Net: NetName=N Pin=PW1-2
+Removed Pin From Net: NetName=N Pin=PW1-3
+Removed Pin From Net: NetName=N Pin=R21-1
+Removed Pin From Net: NetName=N Pin=RV1-1
+Removed Pin From Net: NetName=N Pin=TP1-1
+Removed Pin From Net: NetName=N Pin=TP2-1
+Removed Pin From Net: NetName=N Pin=TP3-1
+Removed Pin From Net: NetName=N Pin=TP4-1
+Removed Pin From Net: NetName=N Pin=TP5-1
+Removed Pin From Net: NetName=N Pin=TP6-1
+Removed Pin From Net: NetName=N Pin=TP7-1
+Removed Pin From Net: NetName=N Pin=TP8-1
+Removed Pin From Net: NetName=N Pin=U1-3
+Removed Pin From Net: NetName=N Pin=U1-6
+Removed Pin From Net: NetName=N Pin=U2-2
+Removed Pin From Net: NetName=N Pin=U2-2
+Removed Pin From Net: NetName=VAP Pin=VAP-1
+Removed Pin From Net: NetName=VBP Pin=VBP-1
+Removed Pin From Net: NetName=VCP Pin=VCP-1
+Removed Pin From Net: NetName=DVDD33 Pin=VDD-1
+Removed Pin From Net: NetName=NetC22_2 Pin=VREF-1
+Removed Member From Class: ClassName=ATM90E3x-DB Member=3.3V
+Removed Member From Class: ClassName=ATM90E3x-DB Member=C1
+Removed Member From Class: ClassName=ATM90E3x-DB Member=C2
+Removed Member From Class: ClassName=ATM90E3x-DB Member=C3
+Removed Member From Class: ClassName=ATM90E3x-DB Member=C4
+Removed Member From Class: ClassName=ATM90E3x-DB Member=C5
+Removed Member From Class: ClassName=ATM90E3x-DB Member=C6
+Removed Member From Class: ClassName=ATM90E3x-DB Member=C7
+Removed Member From Class: ClassName=ATM90E3x-DB Member=C8
+Removed Member From Class: ClassName=ATM90E3x-DB Member=D1
+Removed Member From Class: ClassName=ATM90E3x-DB Member=D2
+Removed Member From Class: ClassName=ATM90E3x-DB Member=D3
+Removed Member From Class: ClassName=ATM90E3x-DB Member=J3
+Removed Member From Class: ClassName=ATM90E3x-DB Member=J5
+Removed Member From Class: ClassName=ATM90E3x-DB Member=J6
+Removed Member From Class: ClassName=ATM90E3x-DB Member=J7
+Removed Member From Class: ClassName=ATM90E3x-DB Member=J8
+Removed Member From Class: ClassName=ATM90E3x-DB Member=JP6
+Removed Member From Class: ClassName=ATM90E3x-DB Member=JP7
+Removed Member From Class: ClassName=ATM90E3x-DB Member=JP8
+Removed Member From Class: ClassName=ATM90E3x-DB Member=PW1
+Removed Member From Class: ClassName=ATM90E3x-DB Member=R1
+Removed Member From Class: ClassName=ATM90E3x-DB Member=RV1
+Removed Member From Class: ClassName=ATM90E3x-DB Member=TP1
+Removed Member From Class: ClassName=ATM90E3x-DB Member=TP2
+Removed Member From Class: ClassName=ATM90E3x-DB Member=TP3
+Removed Member From Class: ClassName=ATM90E3x-DB Member=TP4
+Removed Member From Class: ClassName=ATM90E3x-DB Member=TP5
+Removed Member From Class: ClassName=ATM90E3x-DB Member=TP6
+Removed Member From Class: ClassName=ATM90E3x-DB Member=TP7
+Removed Member From Class: ClassName=ATM90E3x-DB Member=TP8
+Removed Member From Class: ClassName=ATM90E3x-DB Member=U1
+Removed Member From Class: ClassName=ATM90E3x-DB Member=U2
+Removed Member From Class: ClassName=ATM90E3x-DB Member=VAP
+Removed Member From Class: ClassName=ATM90E3x-DB Member=VBP
+Removed Member From Class: ClassName=ATM90E3x-DB Member=VCC
+Removed Member From Class: ClassName=ATM90E3x-DB Member=VCP
+Removed Member From Class: ClassName=ATM90E3x-DB Member=VDD
+Removed Member From Class: ClassName=ATM90E3x-DB Member=VREF
+Change Component Designator: OldDesignator=C9 NewDesignator=C85
+Change Component Designator: OldDesignator=C10 NewDesignator=C91
+Change Component Designator: OldDesignator=C11 NewDesignator=C92
+Change Component Designator: OldDesignator=C12 NewDesignator=C86
+Change Component Designator: OldDesignator=C13 NewDesignator=C93
+Change Component Designator: OldDesignator=C14 NewDesignator=C94
+Change Component Designator: OldDesignator=C15 NewDesignator=C88
+Change Component Designator: OldDesignator=C16 NewDesignator=C89
+Change Component Designator: OldDesignator=C17 NewDesignator=C90
+Change Component Designator: OldDesignator=C18 NewDesignator=C95
+Change Component Designator: OldDesignator=C19 NewDesignator=C96
+Change Component Designator: OldDesignator=C20 NewDesignator=C99
+Change Component Designator: OldDesignator=C21 NewDesignator=C100
+Change Component Designator: OldDesignator=C22 NewDesignator=C97
+Change Component Designator: OldDesignator=C23 NewDesignator=C98
+Change Component Designator: OldDesignator=C24 NewDesignator=C101
+Change Component Designator: OldDesignator=C25 NewDesignator=C102
+Change Component Designator: OldDesignator=C26 NewDesignator=C103
+Change Component Designator: OldDesignator=C27 NewDesignator=C104
+Change Component Designator: OldDesignator=C28 NewDesignator=C105
+Change Component Designator: OldDesignator=C29 NewDesignator=C106
+Change Component Designator: OldDesignator=C30 NewDesignator=C87
+Change Component Designator: OldDesignator=D4 NewDesignator=D46
+Change Component Designator: OldDesignator=D5 NewDesignator=D47
+Change Component Designator: OldDesignator=D6 NewDesignator=D48
+Change Component Designator: OldDesignator=D7 NewDesignator=D49
+Change Component Designator: OldDesignator=J2 NewDesignator=J36
+Change Component Designator: OldDesignator=J4 NewDesignator=J37
+Change Component Designator: OldDesignator=J-IA NewDesignator=J-IA1
+Change Component Designator: OldDesignator=J-IB NewDesignator=J-IB1
+Change Component Designator: OldDesignator=J-IC NewDesignator=J-IC1
+Change Component Designator: OldDesignator=J-IN NewDesignator=J-IN1
+Change Component Designator: OldDesignator=J-U NewDesignator=J-U1
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP8 NewDesignator=JP1
+Change Component Designator: OldDesignator=R2 NewDesignator=R235
+Change Component Designator: OldDesignator=R3 NewDesignator=R236
+Change Component Designator: OldDesignator=R4 NewDesignator=R233
+Change Component Designator: OldDesignator=R5 NewDesignator=R234
+Change Component Designator: OldDesignator=R10 NewDesignator=R239
+Change Component Designator: OldDesignator=R11 NewDesignator=R240
+Change Component Designator: OldDesignator=R12 NewDesignator=R238
+Change Component Designator: OldDesignator=R13 NewDesignator=R237
+Change Component Designator: OldDesignator=R14 NewDesignator=R242
+Change Component Designator: OldDesignator=R15 NewDesignator=R243
+Change Component Designator: OldDesignator=R16 NewDesignator=R241
+Change Component Designator: OldDesignator=R17 NewDesignator=R244
+Change Component Designator: OldDesignator=R18 NewDesignator=R247
+Change Component Designator: OldDesignator=R19 NewDesignator=R248
+Change Component Designator: OldDesignator=R20 NewDesignator=R245
+Change Component Designator: OldDesignator=R21 NewDesignator=R246
+Change Component Designator: OldDesignator=R22 NewDesignator=R250
+Change Component Designator: OldDesignator=R23 NewDesignator=R249
+Change Component Designator: OldDesignator=R24 NewDesignator=R252
+Change Component Designator: OldDesignator=R25 NewDesignator=R253
+Change Component Designator: OldDesignator=R26 NewDesignator=R254
+Change Component Designator: OldDesignator=R27 NewDesignator=R255
+Change Component Designator: OldDesignator=R28 NewDesignator=R256
+Change Component Designator: OldDesignator=R29 NewDesignator=R257
+Change Component Designator: OldDesignator=R30 NewDesignator=R258
+Change Component Designator: OldDesignator=R31 NewDesignator=R259
+Change Component Designator: OldDesignator=R32 NewDesignator=R251
+Change Component Designator: OldDesignator=R33 NewDesignator=R260
+Change Component Designator: OldDesignator=R34 NewDesignator=R261
+Change Component Designator: OldDesignator=R35 NewDesignator=R262
+Change Component Designator: OldDesignator=R36 NewDesignator=R263
+Change Component Designator: OldDesignator=R37 NewDesignator=R264
+Change Component Designator: OldDesignator=R38 NewDesignator=R265
+Change Component Designator: OldDesignator=R39 NewDesignator=R266
+Change Component Designator: OldDesignator=R40 NewDesignator=R267
+Change Component Designator: OldDesignator=R41 NewDesignator=R268
+Change Component Designator: OldDesignator=R42 NewDesignator=R269
+Change Component Designator: OldDesignator=R43 NewDesignator=R270
+Change Component Designator: OldDesignator=R44 NewDesignator=R271
+Change Component Designator: OldDesignator=R45 NewDesignator=R272
+Change Component Designator: OldDesignator=R46 NewDesignator=R273
+Change Component Designator: OldDesignator=R47 NewDesignator=R274
+Change Component Designator: OldDesignator=R48 NewDesignator=R275
+Change Component Designator: OldDesignator=R49 NewDesignator=R276
+Change Component Designator: OldDesignator=R50 NewDesignator=R277
+Change Component Designator: OldDesignator=U3 NewDesignator=U52
+Change Component Designator: OldDesignator=U4 NewDesignator=U53
+Change Component Designator: OldDesignator=U5 NewDesignator=U54
+Change Component Designator: OldDesignator=U6 NewDesignator=U56
+Change Component Designator: OldDesignator=U7 NewDesignator=U55
+Change Net Name : Old Net Name=DVDD33 New Net Name=VCC
+Change Net Name : Old Net Name=N New Net Name=GND
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC85_2
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC86_1
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC97_2
+Change Net Name : Old Net Name=NetD4_K New Net Name=NetD46_K
+Change Net Name : Old Net Name=NetD5_K New Net Name=NetD47_K
+Change Net Name : Old Net Name=NetD6_K New Net Name=NetD48_K
+Change Net Name : Old Net Name=NetD7_K New Net Name=NetD49_K
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ37_1
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetJ37_2
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ37_3
+Change Net Name : Old Net Name=NetJ4_4 New Net Name=NetJ37_4
+Change Net Name : Old Net Name=NetJ4_5 New Net Name=NetJ37_5
+Change Net Name : Old Net Name=NetJ4_6 New Net Name=NetJ37_6
+Change Net Name : Old Net Name=NetJ4_7 New Net Name=NetJ37_7
+Change Net Name : Old Net Name=NetJ4_8 New Net Name=NetJ37_8
+Change Net Name : Old Net Name=NetJ-IA_1 New Net Name=NetJ-IA1_1
+Change Net Name : Old Net Name=NetJ-IA_2 New Net Name=NetJ-IA1_2
+Change Net Name : Old Net Name=NetJ-IB_1 New Net Name=NetJ-IB1_1
+Change Net Name : Old Net Name=NetJ-IB_2 New Net Name=NetJ-IB1_2
+Change Net Name : Old Net Name=NetJ-IC_1 New Net Name=NetJ-IC1_1
+Change Net Name : Old Net Name=NetJ-IC_2 New Net Name=NetJ-IC1_2
+Change Net Name : Old Net Name=NetJ-IN_1 New Net Name=NetJ-IN1_1
+Change Net Name : Old Net Name=NetJ-IN_2 New Net Name=NetJ-IN1_2
+Change Net Name : Old Net Name=NetJP4_2 New Net Name=NetJP2_2
+Change Net Name : Old Net Name=NetJP5_2 New Net Name=NetJP3_2
+Change Net Name : Old Net Name=NetJP6_2 New Net Name=NetJP4_2
+Change Net Name : Old Net Name=NetJP7_2 New Net Name=NetJP5_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR235_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR236_1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR234_2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR239_2
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR240_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR242_1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR243_1
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR241_2
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR247_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR248_1
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR245_2
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR250_1
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR249_2
+Change Net Name : Old Net Name=NetR24_2 New Net Name=NetR252_2
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR253_1
+Change Net Name : Old Net Name=NetR26_2 New Net Name=NetR254_2
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR255_1
+Change Net Name : Old Net Name=NetR28_2 New Net Name=NetR256_2
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR260_2
+Change Net Name : Old Net Name=NetR34_1 New Net Name=NetR261_1
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR262_2
+Change Net Name : Old Net Name=NetR36_1 New Net Name=NetR263_1
+Change Net Name : Old Net Name=NetR37_2 New Net Name=NetR264_2
+Change Net Name : Old Net Name=NetR38_1 New Net Name=NetR265_1
+Change Net Name : Old Net Name=NetR42_2 New Net Name=NetR269_2
+Change Net Name : Old Net Name=NetR43_1 New Net Name=NetR270_1
+Change Net Name : Old Net Name=NetR44_2 New Net Name=NetR271_2
+Change Net Name : Old Net Name=NetR45_1 New Net Name=NetR272_1
+Change Net Name : Old Net Name=NetR46_2 New Net Name=NetR273_2
+Change Net Name : Old Net Name=NetR47_1 New Net Name=NetR274_1
+Change Net Name : Old Net Name=NetU7_20 New Net Name=NetU55_20
+Change Net Name : Old Net Name=NetU7_21 New Net Name=NetU55_21
+Added Pin To Net: NetName=N Pin=J-U1-4
+Added Net: Name=N
+Added Room: Name=ATM90E3x-DB

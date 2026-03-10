@@ -1,0 +1,204 @@
+Removed Pin From Net: NetName=USIM_GND Pin=BT1-1
+Removed Pin From Net: NetName=VBAT Pin=BT1-2
+Removed Pin From Net: NetName=USIM_GND Pin=C72-1
+Removed Pin From Net: NetName=USIM_GND Pin=C73-1
+Removed Pin From Net: NetName=USIM_GND Pin=C74-1
+Removed Pin From Net: NetName=VCC Pin=C74-2
+Removed Pin From Net: NetName=USIM_GND Pin=C76-2
+Removed Pin From Net: NetName=USIM_GND Pin=C81-2
+Removed Pin From Net: NetName=USIM_GND Pin=C82-2
+Removed Pin From Net: NetName=USIM_GND Pin=C83-2
+Removed Pin From Net: NetName=USIM_GND Pin=C84-2
+Removed Pin From Net: NetName=VBAT Pin=D37-1
+Removed Pin From Net: NetName=VBAT Pin=D38-1
+Removed Pin From Net: NetName=VBAT Pin=D39-1
+Removed Pin From Net: NetName=VBAT Pin=D40-1
+Removed Pin From Net: NetName=USIM_GND Pin=D41-2
+Removed Pin From Net: NetName=USIM_GND Pin=D42-2
+Removed Pin From Net: NetName=USIM_GND Pin=D43-2
+Removed Pin From Net: NetName=USIM_GND Pin=D44-2
+Removed Pin From Net: NetName=USIM_GND Pin=D45-2
+Removed Pin From Net: NetName=USIM_GND Pin=J33-2
+Removed Pin From Net: NetName=USIM_GND Pin=J33-3
+Removed Pin From Net: NetName=USIM_GND Pin=J34-2
+Removed Pin From Net: NetName=USIM_GND Pin=J34-3
+Removed Pin From Net: NetName=USIM_GND Pin=J35-1
+Removed Pin From Net: NetName=USIM_GND Pin=J35-2
+Removed Pin From Net: NetName=USIM_GND Pin=J35-3
+Removed Pin From Net: NetName=USIM_GND Pin=J35-4
+Removed Pin From Net: NetName=USIM_GND Pin=J35-C5
+Removed Pin From Net: NetName=VCC Pin=L4-2
+Removed Pin From Net: NetName=USIM_GND Pin=Q15-2
+Removed Pin From Net: NetName=USIM_GND Pin=Q16-2
+Removed Pin From Net: NetName=USIM_GND Pin=Q17-2
+Removed Pin From Net: NetName=GSM_TX Pin=Q18-2
+Removed Pin From Net: NetName=GPS_TX Pin=Q19-2
+Removed Pin From Net: NetName=USIM_GND Pin=Q20-2
+Removed Pin From Net: NetName=GSM_RX Pin=Q21-3
+Removed Pin From Net: NetName=GPS_RX Pin=Q22-3
+Removed Pin From Net: NetName=USIM_GND Pin=Q23-2
+Removed Pin From Net: NetName=USIM_GND Pin=Q24-2
+Removed Pin From Net: NetName=USIM_GND Pin=R208-1
+Removed Pin From Net: NetName=USIM_GND Pin=R209-1
+Removed Pin From Net: NetName=USIM_GND Pin=R210-1
+Removed Pin From Net: NetName=USIM_GND Pin=R213-1
+Removed Pin From Net: NetName=GSM_PWR Pin=R217-2
+Removed Pin From Net: NetName=USIM_GND Pin=R220-1
+Removed Pin From Net: NetName=GSM_RX Pin=R221-1
+Removed Pin From Net: NetName=VCC Pin=R221-2
+Removed Pin From Net: NetName=GPS_RX Pin=R222-1
+Removed Pin From Net: NetName=VCC Pin=R222-2
+Removed Pin From Net: NetName=GSM_RST Pin=R225-2
+Removed Pin From Net: NetName=USIM_GND Pin=R227-1
+Removed Pin From Net: NetName=GNSS_PWR_CTRL Pin=R230-2
+Removed Pin From Net: NetName=USIM_GND Pin=R231-1
+Removed Pin From Net: NetName=USIM_GND Pin=U51-2
+Removed Pin From Net: NetName=USIM_GND Pin=U51-17
+Removed Pin From Net: NetName=USIM_GND Pin=U51-18
+Removed Pin From Net: NetName=USIM_GND Pin=U51-29
+Removed Pin From Net: NetName=USIM_GND Pin=U51-39
+Removed Pin From Net: NetName=USIM_GND Pin=U51-45
+Removed Pin From Net: NetName=USIM_GND Pin=U51-46
+Removed Pin From Net: NetName=USIM_GND Pin=U51-54
+Removed Pin From Net: NetName=VBAT Pin=U51-55
+Removed Pin From Net: NetName=VBAT Pin=U51-56
+Removed Pin From Net: NetName=VBAT Pin=U51-57
+Removed Pin From Net: NetName=USIM_GND Pin=U51-58
+Removed Pin From Net: NetName=USIM_GND Pin=U51-59
+Removed Pin From Net: NetName=USIM_GND Pin=U51-61
+Removed Pin From Net: NetName=USIM_GND Pin=U51-62
+Removed Pin From Net: NetName=USIM_GND Pin=U51-63
+Removed Pin From Net: NetName=USIM_GND Pin=U51-64
+Removed Pin From Net: NetName=USIM_GND Pin=U51-65
+Removed Pin From Net: NetName=USIM_GND Pin=U51-69
+Removed Pin From Net: NetName=USIM_GND Pin=U51-70
+Removed Pin From Net: NetName=USIM_GND Pin=U51-71
+Removed Pin From Net: NetName=USIM_GND Pin=U51-72
+Removed Pin From Net: NetName=USIM_GND Pin=U51-73
+Removed Pin From Net: NetName=USIM_GND Pin=U51-74
+Removed Pin From Net: NetName=USIM_GND Pin=U51-75
+Removed Pin From Net: NetName=USIM_GND Pin=U51-76
+Removed Pin From Net: NetName=USIM_GND Pin=U51-77
+Removed Pin From Net: NetName=USIM_GND Pin=U51-78
+Removed Pin From Net: NetName=USIM_GND Pin=U51-79
+Removed Pin From Net: NetName=USIM_GND Pin=U51-80
+Removed Pin From Net: NetName=USIM_GND Pin=U51-81
+Removed Pin From Net: NetName=USIM_GND Pin=U51-82
+Removed Pin From Net: NetName=USIM_GND Pin=U51-83
+Removed Pin From Net: NetName=USIM_GND Pin=U51-84
+Removed Pin From Net: NetName=USIM_GND Pin=U51-85
+Removed Pin From Net: NetName=USIM_GND Pin=U51-86
+Removed Pin From Net: NetName=USIM_GND Pin=U51-87
+Removed Pin From Net: NetName=USIM_GND Pin=U51-88
+Removed Pin From Net: NetName=USIM_GND Pin=U51-89
+Removed Pin From Net: NetName=USIM_GND Pin=U51-91
+Removed Pin From Net: NetName=USIM_GND Pin=U51-92
+Removed Pin From Net: NetName=USIM_GND Pin=U51-94
+Removed Pin From Net: NetName=VBAT Pin=U51-116
+Added Component: Designator=P5(HDR2X10)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR1X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P8(HDR1X14)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found W5500
+Added Pin To Net: NetName=A_IOUT_MOSI Pin=P5-1
+Added Pin To Net: NetName=+5 Pin=P5-2
+Added Pin To Net: NetName=A_IOUT_CS Pin=P5-3
+Added Pin To Net: NetName=-5 Pin=P5-4
+Added Pin To Net: NetName=A_IOUT_SCLK Pin=P5-5
+Added Pin To Net: NetName=ANALOG_INPUT4 Pin=P5-6
+Added Pin To Net: NetName=A_IOUT_LDAC Pin=P5-7
+Added Pin To Net: NetName=ANALOG_INPUT3 Pin=P5-8
+Added Pin To Net: NetName=A_IOUT_SHDN Pin=P5-9
+Added Pin To Net: NetName=ANALOG_INPUT2 Pin=P5-10
+Added Pin To Net: NetName=A_VOUT_MOSI Pin=P5-11
+Added Pin To Net: NetName=ANALOG_INPUT1 Pin=P5-12
+Added Pin To Net: NetName=A_VOUT_CS Pin=P5-13
+Added Pin To Net: NetName=TEMP1 Pin=P5-14
+Added Pin To Net: NetName=A_VOUT_SCLK Pin=P5-15
+Added Pin To Net: NetName=TEMP1_FAULT Pin=P5-16
+Added Pin To Net: NetName=A_VOUT_LDAC Pin=P5-17
+Added Pin To Net: NetName=TEMP2 Pin=P5-18
+Added Pin To Net: NetName=A_VOUT_SHDN Pin=P5-19
+Added Pin To Net: NetName=TEMP2_FAULT Pin=P5-20
+Added Pin To Net: NetName=DIGITAL_INPUT1 Pin=P7-1
+Added Pin To Net: NetName=DIGITAL_INPUT2 Pin=P7-2
+Added Pin To Net: NetName=DIGITAL_INPUT3 Pin=P7-3
+Added Pin To Net: NetName=DIGITAL_INPUT4 Pin=P7-4
+Added Pin To Net: NetName=DIGITAL_INPUT5 Pin=P7-5
+Added Pin To Net: NetName=DIGITAL_INPUT6 Pin=P7-6
+Added Pin To Net: NetName=DIGITAL_INPUT7 Pin=P7-7
+Added Pin To Net: NetName=DIGITAL_INPUT8 Pin=P7-8
+Added Pin To Net: NetName=DIGITAL_INPUT9 Pin=P7-9
+Added Pin To Net: NetName=DIGITAL_INPUT10 Pin=P7-10
+Added Pin To Net: NetName=DIGITAL_INPUT11 Pin=P7-11
+Added Pin To Net: NetName=DIGITAL_INPUT12 Pin=P7-12
+Added Pin To Net: NetName=DIGITAL_INPUT13 Pin=P7-13
+Added Pin To Net: NetName=DIGITAL_INPUT14 Pin=P7-14
+Added Pin To Net: NetName=DIGITAL_INPUT15 Pin=P7-15
+Added Pin To Net: NetName=DIGITAL_INPUT16 Pin=P7-16
+Added Pin To Net: NetName=DIGITAL_INPUT17 Pin=P7-17
+Added Pin To Net: NetName=DIGITAL_INPUT18 Pin=P7-18
+Added Pin To Net: NetName=VCC Pin=P7-19
+Added Pin To Net: NetName=USIM_GND Pin=P7-20
+Added Pin To Net: NetName=+24VDC Pin=P8-13
+Added Pin To Net: NetName=USIM_GND Pin=P8-14
+Add Pin To Net: Unknown Pin: Pin U48-1
+Add Pin To Net: Unknown Pin: Pin U48-2
+Add Pin To Net: Unknown Pin: Pin U48-3
+Add Pin To Net: Unknown Pin: Pin U48-4
+Add Pin To Net: Unknown Pin: Pin U48-5
+Add Pin To Net: Unknown Pin: Pin U48-6
+Add Pin To Net: Unknown Pin: Pin U48-7
+Add Pin To Net: Unknown Pin: Pin U48-8
+Add Pin To Net: Unknown Pin: Pin U48-10
+Add Pin To Net: Unknown Pin: Pin U48-11
+Add Pin To Net: Unknown Pin: Pin U48-12
+Change Net Name : Old Net Name=USIM_GND New Net Name=GND
+Added Pin To Net: NetName=DIGITAL_OUTPUT1 Pin=P8-6
+Added Net: Name=DIGITAL_OUTPUT1
+Added Pin To Net: NetName=DIGITAL_OUTPUT2 Pin=P8-5
+Added Net: Name=DIGITAL_OUTPUT2
+Added Pin To Net: NetName=DIGITAL_OUTPUT3 Pin=P8-4
+Added Net: Name=DIGITAL_OUTPUT3
+Added Pin To Net: NetName=DIGITAL_OUTPUT4 Pin=P8-3
+Added Net: Name=DIGITAL_OUTPUT4
+Added Pin To Net: NetName=DIGITAL_OUTPUT5 Pin=P8-2
+Added Net: Name=DIGITAL_OUTPUT5
+Added Pin To Net: NetName=DIGITAL_OUTPUT6 Pin=P8-1
+Added Net: Name=DIGITAL_OUTPUT6
+Added Pin To Net: NetName=DIGITAL_OUTPUT7 Pin=P8-9
+Added Net: Name=DIGITAL_OUTPUT7
+Added Pin To Net: NetName=DIGITAL_OUTPUT8 Pin=P8-8
+Added Net: Name=DIGITAL_OUTPUT8
+Added Pin To Net: NetName=DIGITAL_OUTPUT9 Pin=P8-10
+Added Net: Name=DIGITAL_OUTPUT9
+Added Pin To Net: NetName=DIGITAL_OUTPUT10 Pin=P8-12
+Added Net: Name=DIGITAL_OUTPUT10
+Added Pin To Net: NetName=DIGITAL_OUTPUT11 Pin=P8-11
+Added Net: Name=DIGITAL_OUTPUT11
+Added Pin To Net: NetName=DIGITAL_OUTPUT12 Pin=P8-7
+Added Net: Name=DIGITAL_OUTPUT12
+Added Member To Class: ClassName=Temp_sensors Input Member=Component P5 Header 10X2
+Added Member To Class: ClassName=Temp_sensors Input Member=Component P7 Header 20
+Added Member To Class: ClassName=Temp_sensors Input Member=Component P8 Header 14
+Add Class Member: Failed to add class member : Component U48 W5500_LITE
+Added Room: Name=ANALOG_INPUT
+Added Room: Name=ANALOG_IOUTPUT
+Added Room: Name=ANALOG_VOUTPUT
+Added Room: Name=Digital_Input2
+Added Room: Name=Digital_Input3
+Added Room: Name=Digital_Input
+Added Room: Name=DIGITAL_OUTPUT1
+Added Room: Name=DIGITAL_OUTPUT
+Added Room: Name=MCU
+Added Room: Name=Peripherals
+Added Room: Name=Power_supply
+Added Room: Name=Temp_sensors Input

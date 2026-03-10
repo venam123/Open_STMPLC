@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT4 Pin=R95-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT1 Pin=R97-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT5 Pin=R105-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT2 Pin=R107-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT3 Pin=R115-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT6 Pin=R117-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT7 Pin=R125-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT10 Pin=R127-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT8 Pin=R135-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT11 Pin=R137-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT9 Pin=R145-1
+Removed Pin From Net: NetName=DIGITAL_OUOTPUT12 Pin=R147-1
+Add Component: Footprint Not Found W5500
+Added Pin To Net: NetName=DIGITAL_OUTPUT4 Pin=R95-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT1 Pin=R97-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT5 Pin=R105-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT2 Pin=R107-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT3 Pin=R115-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT6 Pin=R117-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT7 Pin=R125-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT10 Pin=R127-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT8 Pin=R135-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT11 Pin=R137-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT9 Pin=R145-1
+Added Pin To Net: NetName=DIGITAL_OUTPUT12 Pin=R147-1
+Add Pin To Net: Unknown Pin: Pin U48-1
+Add Pin To Net: Unknown Pin: Pin U48-2
+Add Pin To Net: Unknown Pin: Pin U48-3
+Add Pin To Net: Unknown Pin: Pin U48-4
+Add Pin To Net: Unknown Pin: Pin U48-5
+Add Pin To Net: Unknown Pin: Pin U48-6
+Add Pin To Net: Unknown Pin: Pin U48-7
+Add Pin To Net: Unknown Pin: Pin U48-8
+Add Pin To Net: Unknown Pin: Pin U48-10
+Add Pin To Net: Unknown Pin: Pin U48-11
+Add Pin To Net: Unknown Pin: Pin U48-12
+Add Class Member: Failed to add class member : Component U48 W5500_LITE

@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Universal_PCB.PcbDoc   10/14/2025  9:37:08 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Universal_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.45mm (18mil)                                            Round             83        PTH        959.02mm (37.76inch)
+T2      0.7mm (28mil)                                             Round             12        PTH        61.75mm (2.43inch)
+T3      0.711mm (28mil)                                           Round             12        PTH        310.82mm (12.24inch)
+T4      0.9mm (35mil)                                             Round             54        PTH        275.75mm (10.86inch)
+T5      1.1mm (43mil)                                             Round             18        PTH        163.84mm (6.45inch)
+T6      1.3mm (51mil)                                             Round             50        PTH        353.76mm (13.93inch)
+T7      1.4mm (55mil)                                             Round             4         PTH        13.58mm (0.53inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              233
+
+Total Processing Time (hh:mm:ss) : 00:00:00

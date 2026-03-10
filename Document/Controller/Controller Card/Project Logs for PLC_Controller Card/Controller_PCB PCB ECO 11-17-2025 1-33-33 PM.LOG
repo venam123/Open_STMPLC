@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=E_CS Pin=R62-1
+Removed Pin From Net: NetName=TEMP1 Pin=R62-2
+Removed Pin From Net: NetName=DIGITAL_INPUT8 Pin=R63-1
+Removed Pin From Net: NetName=TEMP2 Pin=R63-2
+Removed Pin From Net: NetName=TEMP1_FAULT Pin=R64-2
+Removed Pin From Net: NetName=TEMP2_FAULT Pin=R65-2
+Removed Member From Class: ClassName=MCU Member=R62
+Removed Member From Class: ClassName=MCU Member=R63
+Removed Member From Class: ClassName=MCU Member=R64
+Removed Member From Class: ClassName=MCU Member=R65
+Change Component Footprint: Designator=J6 Old Footprint=FP-315-43-106-41-001000-MFG New Footprint=FP-315-43-106-41-001000-MFG

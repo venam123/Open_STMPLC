@@ -1,0 +1,37 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PLC_Controller Card.PrjPcb]
+   Generated File[Controller_PCB.GTO]
+   Generated File[Controller_PCB.GTP]
+   Generated File[Controller_PCB.GTS]
+   Generated File[Controller_PCB.GTL]
+   Generated File[Controller_PCB.GBL]
+   Generated File[Controller_PCB.GBS]
+   Generated File[Controller_PCB.GBP]
+   Generated File[Controller_PCB.GBO]
+   Generated File[Controller_PCB.GM1]
+   Generated File[Controller_PCB.GM2]
+   Generated File[Controller_PCB.GM3]
+   Generated File[Controller_PCB.GM4]
+   Generated File[Controller_PCB.GM5]
+   Generated File[Controller_PCB.GM6]
+   Generated File[Controller_PCB.GM11]
+   Generated File[Controller_PCB.GM13]
+   Generated File[Controller_PCB.GM15]
+   Generated File[Controller_PCB.GM16]
+   Generated File[Controller_PCB.GM20]
+   Generated File[Controller_PCB.GM21]
+   Generated File[Controller_PCB.GM23]
+   Generated File[Controller_PCB.GM24]
+   Generated File[Controller_PCB.GKO]
+   Generated File[Controller_PCB.GPT]
+   Generated File[Controller_PCB.GPB]
+   Generated File[Controller_PCB.RUL]
+   Generated File[Controller_PCB.EXTREP]
+   Generated File[Controller_PCB.REP]
+
+
+Files Generated   : 28
+Documents Printed : 0
+
+Finished Output Generation At 1:15:31 PM On 11/21/2025

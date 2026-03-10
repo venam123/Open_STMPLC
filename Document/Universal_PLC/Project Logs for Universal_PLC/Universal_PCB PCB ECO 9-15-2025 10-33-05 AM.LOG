@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=P3 Old Footprint=61900411121 New Footprint=61900411121
+Change Component Footprint: Designator=P4 Old Footprint=61900411121 New Footprint=61900411121
+Change Component Footprint: Designator=P1 Old Footprint=691701340002B New Footprint=691701340002B
+Change Component Footprint: Designator=P2 Old Footprint=691701340002B New Footprint=691701340002B
+Change Component Footprint: Designator=R199 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R200 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R206 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R207 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R212 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R214 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R217 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R218 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R219 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R223 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R224 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R225 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R226 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=R230 Old Footprint=FP-CRG0805-IPC_A New Footprint=FP-CRG0805-IPC_A
+Change Component Footprint: Designator=U57 Old Footprint=FP-LQFP100-1L-IPC_A New Footprint=FP-LQFP100-1L-IPC_A
+Change Component Footprint: Designator=J35 Old Footprint=FP-SIM8066-6-1-14-01-A-MFG New Footprint=FP-SIM8066-6-1-14-01-A-MFG
+Add Component: Footprint Not Found W5500
+Add Pin To Net: Unknown Pin: Pin U48-1
+Add Pin To Net: Unknown Pin: Pin U48-2
+Add Pin To Net: Unknown Pin: Pin U48-3
+Add Pin To Net: Unknown Pin: Pin U48-4
+Add Pin To Net: Unknown Pin: Pin U48-5
+Add Pin To Net: Unknown Pin: Pin U48-6
+Add Pin To Net: Unknown Pin: Pin U48-7
+Add Pin To Net: Unknown Pin: Pin U48-8
+Add Pin To Net: Unknown Pin: Pin U48-10
+Add Pin To Net: Unknown Pin: Pin U48-11
+Add Pin To Net: Unknown Pin: Pin U48-12
+Add Class Member: Failed to add class member : Component U48 W5500_LITE
+Added Room: Name=A7672S
+Added Room: Name=ANALOG_IOUTPUT
+Added Room: Name=ANT
+Added Room: Name=GSM_INDICATION
+Added Room: Name=Peripherals
+Added Room: Name=Power_supply
+Added Room: Name=SIM CARD
+Added Room: Name=Temp_sensors Input
