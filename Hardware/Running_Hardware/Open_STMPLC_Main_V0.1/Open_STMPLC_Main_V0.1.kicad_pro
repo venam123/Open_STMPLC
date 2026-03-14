@@ -412,6 +412,18 @@
     [
       "0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c",
       "Root"
+    ],
+    [
+      "1c269d9f-0c0e-42ea-89fb-0599906affeb",
+      "GSM_Module"
+    ],
+    [
+      "21ad94cf-4af7-4b6b-aa04-2f2b067e37f0",
+      "Microcontroller"
+    ],
+    [
+      "c3a0ed11-13ce-413f-9435-444eace14876",
+      "Digital_Inputs"
     ]
   ],
   "text_variables": {}

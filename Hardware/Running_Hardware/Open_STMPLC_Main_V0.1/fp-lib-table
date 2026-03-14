@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "EC200CU")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Footprints/EC200CU.pretty")(options "")(descr ""))
+)

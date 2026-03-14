@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EC200CU")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Symbols/EC200CU.kicad_sym")(options "")(descr ""))
+  (lib (name "Flash_Memory")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Symbols/Flash_Memory.kicad_sym")(options "")(descr ""))
+  (lib (name "UCC23153")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Symbols/UCC23153.kicad_sym")(options "")(descr ""))
+)
