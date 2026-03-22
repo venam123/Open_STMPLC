@@ -250,7 +250,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Open_STMPLC_Main_V0.1.kicad_pro",
+    "filename": "Open_STMPLC_IO_V0.1.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -410,12 +410,8 @@
   },
   "sheets": [
     [
-      "0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c",
+      "4d6787b6-1f4f-4098-b70b-d936e584350b",
       "Root"
-    ],
-    [
-      "21ad94cf-4af7-4b6b-aa04-2f2b067e37f0",
-      "Microcontroller"
     ]
   ],
   "text_variables": {}
