@@ -412,6 +412,18 @@
     [
       "4d6787b6-1f4f-4098-b70b-d936e584350b",
       "Root"
+    ],
+    [
+      "14439578-ba67-46a0-8d60-ec0dac961d93",
+      "DIG_HS_OUT_1"
+    ],
+    [
+      "c578cb66-fdf8-4281-9d22-afb8b8874264",
+      "Temp_Sensor"
+    ],
+    [
+      "67295186-84e3-49ab-a644-f9c32c5d05f9",
+      "DIG_OUT"
     ]
   ],
   "text_variables": {}
