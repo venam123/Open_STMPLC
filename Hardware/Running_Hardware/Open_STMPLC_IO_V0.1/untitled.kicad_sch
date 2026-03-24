@@ -2694,12 +2694,6 @@
 		(uuid "f1ee528c-91e7-4495-8e73-61fb994b5e7a")
 	)
 	(junction
-		(at 199.39 121.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f257e1c1-791a-45e4-beae-75d6dfd7311d")
-	)
-	(junction
 		(at 151.13 93.98)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2907,7 +2901,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 121.92) (xy 200.66 121.92)
+			(xy 194.31 121.92) (xy 200.66 121.92)
 		)
 		(stroke
 			(width 0)
@@ -2997,16 +2991,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 118.11) (xy 199.39 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "620bef42-d4ca-42fd-8182-f1b40cbfd19d")
-	)
-	(wire
-		(pts
 			(xy 125.73 115.57) (xy 127 115.57)
 		)
 		(stroke
@@ -3054,16 +3038,6 @@
 			(type default)
 		)
 		(uuid "670d502d-9780-491d-a73c-e28ae0073569")
-	)
-	(wire
-		(pts
-			(xy 199.39 110.49) (xy 199.39 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e84d55a-8ff3-49f5-ac19-4e3a25220751")
 	)
 	(wire
 		(pts
@@ -3557,16 +3531,6 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 121.92) (xy 199.39 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe476efd-f366-4d36-81f6-2aa17eae523a")
-	)
-	(wire
-		(pts
 			(xy 167.64 113.03) (xy 171.45 113.03)
 		)
 		(stroke
@@ -3948,72 +3912,6 @@
 			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/14439578-ba67-46a0-8d60-ec0dac961d93"
 					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+24V")
-		(at 199.39 110.49 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3d340710-2e46-4df8-a192-92a082d66bf3")
-		(property "Reference" "#PWR010"
-			(at 199.39 114.3 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+24V"
-			(at 199.39 105.41 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 199.39 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 199.39 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 199.39 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "602380da-edc2-4e15-8c86-443e40721b7c")
-		)
-		(instances
-			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/14439578-ba67-46a0-8d60-ec0dac961d93"
-					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -4426,73 +4324,6 @@
 			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/14439578-ba67-46a0-8d60-ec0dac961d93"
 					(reference "Q2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D_Schottky_Small")
-		(at 199.39 115.57 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "632a0131-fa35-479b-b0e5-c029cd69b975")
-		(property "Reference" "D2"
-			(at 194.056 115.57 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Value" "SS54"
-			(at 196.596 115.57 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 199.39 115.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 199.39 115.57 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Schottky diode, small symbol"
-			(at 199.39 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8abb92da-1098-4a22-8f75-8f937c8c0188")
-		)
-		(pin "2"
-			(uuid "81fec56e-2faa-445b-b92e-8fe94657752c")
-		)
-		(instances
-			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/14439578-ba67-46a0-8d60-ec0dac961d93"
-					(reference "D2")
 					(unit 1)
 				)
 			)

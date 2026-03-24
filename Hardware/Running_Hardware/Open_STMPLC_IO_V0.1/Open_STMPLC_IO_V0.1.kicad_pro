@@ -424,6 +424,10 @@
     [
       "67295186-84e3-49ab-a644-f9c32c5d05f9",
       "DIG_OUT"
+    ],
+    [
+      "738a861d-6b6d-42fb-b998-3bab1f0f1dc1",
+      "DIG_IN"
     ]
   ],
   "text_variables": {}

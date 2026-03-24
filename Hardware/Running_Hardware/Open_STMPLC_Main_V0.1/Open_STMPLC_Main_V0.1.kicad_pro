@@ -416,6 +416,18 @@
     [
       "21ad94cf-4af7-4b6b-aa04-2f2b067e37f0",
       "Microcontroller"
+    ],
+    [
+      "117701a1-c9dd-4026-b4eb-9c6f532b2064",
+      "MODBUS"
+    ],
+    [
+      "f588ad9e-c3ee-47de-a6ce-f4b62dab25c8",
+      "Storage"
+    ],
+    [
+      "2c4ca765-43c3-4f95-8835-dba7f06999bb",
+      "Ethernet"
     ]
   ],
   "text_variables": {}
