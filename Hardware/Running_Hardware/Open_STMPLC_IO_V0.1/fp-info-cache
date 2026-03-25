@@ -1,4 +1,4 @@
-27238042387017861
+27145878553367932
 0678D0800-02
 FUSC9830X318N
 
@@ -20,6 +20,13 @@ TE_1775838-2
 0
 54
 54
+2199230-4
+TE_21992304
+
+
+0
+69
+69
 A9G
 A9G
 
@@ -34,6 +41,13 @@ Integrated Circuit
 0
 10
 10
+A4988
+QFN50P500X500X90-29N
+
+
+0
+29
+29
 A7672x
 A7672X
 A7672X-1
@@ -55,13 +69,6 @@ A7672_MODULE
 0
 14
 14
-ADAU7002ACBZ-R7
-CB_8_6_ADI
-
-ADAU7002ACBZ-R7 
-0
-8
-8
 ADUCM355BCCZ
 ADUCM355BCCZ
 
@@ -69,27 +76,13 @@ ADUCM355BCCZ
 0
 72
 72
-AHT20
-AHT20
+Antenna
+RF_13.56MHz
 
 
 0
-6
-6
-AS7331
-AS7331
-
-
-0
-16
-16
-AXK7L24223G
-AXK7L24223G
-
-
-0
-28
-25
+5
+3
 Audio_Jack
 CUI_SJ1-3525NG-GR
 
@@ -132,20 +125,13 @@ CONV_B0505S-1WR3
 0
 4
 4
-BA56
-BA56
-
-BA56-12SRWA 
-0
-12
-12
-BA56
-LED_BA56-12SRWA
+B560C
+Diodes-B560C-13-F-0
 
 
 0
-12
-12
+2
+2
 BD62110AEFJ-E2
 SOIC127P600X100-9N
 HTSOP-J8
@@ -160,13 +146,6 @@ Integrated Circuit
 0
 14
 14
-BQ25672
-IC_BQ25672RQMR
-
-
-0
-29
-29
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -546,7 +525,7 @@ battery CR-3032 coin cell vertical
 2
 2
 Battery_Holder
-CR2032_BatteryHolder_Vertical
+CR2032_Vertical
 
 
 0
@@ -559,6 +538,20 @@ Fuse
 0
 2
 2
+Blade_Connectors
+Blade_Female_P2.50_4Pin
+
+
+0
+6
+4
+Blade_Connectors
+Blade_Male_P2.50_4Pin
+
+
+0
+4
+4
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -2764,6 +2757,13 @@ SPDT endstop limit switch vertical hook lever XKB DM1-16UP-1
 0
 3
 3
+Buzzer
+Buzzer_P15_D23
+
+
+0
+2
+2
 Buzzer_Beeper
 Buzzer_12x9.5RM7.6
 Generic Buzzer, D12mm height 9.5mm with RM7.6mm
@@ -3009,6 +3009,13 @@ speaker CUI
 0
 2
 2
+BxxxxS-3W
+BxxxxS-3W
+
+
+0
+4
+4
 CF_Sensor_Library
 ABP-Series-Pressure
 
@@ -3016,6 +3023,20 @@ ABP-Series-Pressure
 0
 6
 6
+CH224K
+CH224K
+10-Lead SSOP, 3.9 x 4.9mm body, 1.00mm pitch (http://www.st.com/resource/en/datasheet/viper01.pdf)
+SSOP 3.9 4.9 1.00
+0
+12
+11
+CH224K
+SSOP-10-1EP_3.9x4.9mm_P1.00mm
+10-Lead SSOP, 3.9 x 4.9mm body, 1.00mm pitch (http://www.st.com/resource/en/datasheet/viper01.pdf)
+SSOP 3.9 4.9 1.00
+0
+12
+11
 CH224K
 SSOP-11_3.9x4.9mm_P1.00mm
 10-Lead SSOP, 3.9 x 4.9mm body, 1.00mm pitch (http://www.st.com/resource/en/datasheet/viper01.pdf)
@@ -7174,6 +7195,27 @@ capacitor tantalum
 0
 2
 2
+Coil
+Coil
+
+
+0
+4
+2
+Coil
+Coil_1
+
+
+0
+4
+2
+Common mode choke
+FC-DLSF2515-1.0mH_30A-L
+
+
+0
+8
+4
 Common mode choke
 SSHB10HSR11100
 SSHB10HS-R11100-1
@@ -46689,6 +46731,20 @@ SATA
 0
 24
 23
+Connector_SOM
+DF40C-24DS-0.4V_51
+
+
+0
+24
+24
+Connector_SOM
+DF40C-100DS-0.4V_51
+
+
+0
+100
+100
 Connector_Samtec
 Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical
 http://suddendocs.samtec.com/prints/asp-134486-01-mkt.pdf
@@ -56265,6 +56321,20 @@ ACDC-Converter 3W ZETTLER ZPI
 0
 4
 4
+Converter_ACDC_User
+IRM-30-xx
+IRM-30 Series
+Power Supply
+0
+4
+4
+Converter_ACDC_User
+IRM-45-xx
+
+
+0
+4
+4
 Converter_DCDC
 Converter_DCDC_Artesyn_ATA_SMD
 DCDC-Converter, Artesyn, ATA Series, 3W Single and Dual Output, 1500VDC Isolation, 24.0x13.7x8.0mm https://www.artesyn.com/power/assets/ata_series_ds_01apr2015_79c25814fd.pdf https://www.artesyn.com/power/assets/trn_dc-dc_ata_3w_series_releas1430412818_techref.pdf
@@ -58505,13 +58575,6 @@ ceramic
 0
 3
 3
-D7S
-D7S
-
-D7S-A0001 
-0
-10
-10
 DFR0299
 DFR0299
 
@@ -58519,6 +58582,13 @@ DFR0299
 0
 16
 16
+DHT22
+DHT22
+Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
+Temperature and humidity module
+0
+4
+4
 DRV
 DRV8874PWPR
 HTSSOP_16-
@@ -58540,6 +58610,20 @@ IDRV8876PWPR_1
 0
 17
 17
+DRV8823
+DRV8823_HTSSOP-48
+DCA (R-PDSO-G48)_2021
+Integrated Circuit
+0
+49
+49
+DRV8825
+IC_TPS61196PWPRQ1
+
+
+0
+50
+50
 DTC143ZEBTL
 SOTFL50P160X85-3N
 EMT3F_2
@@ -60592,12 +60676,19 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 Dummy
-Reference
+Dummy
 
 
 0
 0
 0
+EA40-S12
+EA40-S12
+
+
+0
+9
+8
 EC200TEUHA-N06-MN0AA
 XCVR_EC200TEUHA-N06-MN0AA
 
@@ -60612,6 +60703,13 @@ SAMTEC_EHF-105-01-L-D
 0
 10
 10
+EPC2207
+EPC2207
+EPC2207-3
+Transistor
+0
+6
+6
 ESP-07S
 XCVR_ESP-07S
 
@@ -60619,55 +60717,6 @@ XCVR_ESP-07S
 0
 16
 16
-ESP32
-ESP32-A1S
-
-
-0
-39
-38
-ESP32
-ESP32-C3-MINI-1-N4
-
-
-0
-61
-61
-ESP32
-ESP32-S3-WROOM-1N8R2
-ESP32-S3-WROOM-1-N8R2-3
-Integrated Circuit
-0
-49
-49
-ESP32
-ESP32-WROOM-32
-Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
-Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
-0
-48
-39
-ESP32
-ESP32-WROOM-32_ex
-Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
-Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
-0
-49
-49
-ESP32
-ESP32-WROVER-I
-
-
-0
-39
-39
-ESP32
-ESP32_DEVKIT_V1
-
-
-0
-30
-30
 ESP32-A1S
 ESP32-A1S
 
@@ -60675,13 +60724,6 @@ ESP32-A1S
 0
 39
 38
-ESP32-C3-MINI-N4
-XCVR_ESP32-C3-MINI-1-N4
-
-
-0
-61
-61
 ESP32-DEVKIT-V1
 MODULE_ESP32_DEVKIT_V1
 
@@ -60689,27 +60731,6 @@ MODULE_ESP32_DEVKIT_V1
 0
 30
 30
-ESP32-S3-WROOM-1U-N4
-ESP32-S3-WROOM-1U
-
-
-0
-61
-61
-ESP32-WROOM
-ESP32-WROOM-32_ex
-Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
-Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
-0
-49
-49
-ESP32-WROOM-32D_EX
-ESP32-WROOM-32_ex
-Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
-Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
-0
-39
-39
 FSC-BT1026E
 FSCBT1026E
 FSC-BT1026E-1
@@ -60717,13 +60738,6 @@ Integrated Circuit
 0
 52
 52
-FUSB340
-X2-QFN-18
-
-
-0
-19
-19
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -61837,13 +61851,6 @@ HALL_SENSOR_FOOTPRINT
 0
 4
 4
-HDMI
-HDMI_Mini
-
-
-0
-23
-20
 HF49FD_005-1H12T
 HF49FD0121H12T
 HF49FD/012-1H12T-1
@@ -62096,13 +62103,6 @@ heatsink
 0
 0
 0
-ICM-42688-P
-IIM42352
-14 Lead LGA (2.5x3x0.91)_1
-Integrated Circuit
-0
-14
-14
 ICS-43434
 MIC_ICS-43434
 
@@ -62110,34 +62110,6 @@ MIC_ICS-43434
 0
 6
 6
-IDC_2mm
-SAMTEC_EHT-105-01-S-D
-
-
-0
-10
-10
-IDC_2mm
-SAMTEC_STMM-105-02-G-D-P
-
-
-0
-10
-10
-ISC-nRF52840-MODULE-F
-ISC-nRF52840-MODULE-F
-
-
-0
-55
-55
-ISC-nRF52840-MODULE-F
-ISC-nRF52840-MODULE-F_1
-
-
-0
-55
-55
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -69027,12 +68999,40 @@ THT
 4
 2
 InventIndia_Logo
+Dayro_Logo_13x4.9
+
+
+0
+0
+0
+InventIndia_Logo
+II_Logo_20x13.6
+
+
+0
+0
+0
+InventIndia_Logo
+II_Logo_30x20.4
+
+
+0
+0
+0
+InventIndia_Logo
 InventIndia_Logo
 
 
 0
 0
 0
+J1B1211CCD
+J1B1211CCD
+<b>J1B1211CCD</b><br>
+
+0
+14
+14
 JQC-3F-_T73_-1Z-12VDC
 JQC3FT731Z12VDC
 JQC-3F-(T73)-1Z-12VDC-1
@@ -69250,13 +69250,6 @@ solder jumper open
 0
 3
 3
-KCDX5SN
-KCDX5SN
-KCDX-5S-N-2
-Connector
-0
-7
-7
 KMR223GLFG
 KMR223GLFG
 KMR223GLFG-3
@@ -69264,13 +69257,6 @@ Switch
 0
 5
 5
-LCD-20X4B
-LCD_LCD-20X4B
-
-
-0
-20
-20
 LD10-23B24R2
 LD10-23B24R2
 
@@ -69278,6 +69264,13 @@ LD10-23B24R2
 0
 4
 4
+LED_Matrix_8x8
+DISPLAY_31.7x31.7
+
+
+0
+16
+16
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -70559,6 +70552,13 @@ LGA12R50P4X4_200X200X70
 0
 12
 12
+LMG1210
+IC_LMG1210RVRR
+
+
+0
+25
+25
 Limit_Switch
 Limit_SW
 
@@ -70566,6 +70566,20 @@ Limit_SW
 0
 3
 3
+Limit_Switch
+SW_D2F-FL
+
+
+0
+3
+3
+Limit_Switch
+TS-103
+
+
+0
+4
+2
 Little fuse
 80711250000
 80711250000-2
@@ -70573,13 +70587,6 @@ Fuse
 0
 2
 2
-LoRa-E5
-LoRa-E5
-
-
-0
-28
-28
 LoRa_Modules
 TarangMini_SM25LR01
 
@@ -70587,48 +70594,6 @@ TarangMini_SM25LR01
 0
 12
 12
-M5KiCad
-STAMP-C3
-https://docs.m5stack.com/en/core/stamp_c3
-stamp-c3,stamp-c3u,esp32-c3
-0
-45
-22
-M5KiCad
-STAMP-PICO
-https://docs.m5stack.com/en/core/stamp_pico
-stamp-pico,esp32-pico-d4
-0
-36
-21
-M5KiCad
-STAMP-S3-1_27-SOCKET
-https://docs.m5stack.com/en/core/StampS3, https://shop.m5stack.com/products/1-27-header-bus-socket-smd-for-m5stamps3-10-sets
-stamp-s3,esp32-s3
-0
-28
-28
-M5KiCad
-STAMP-S3-DIP
-https://docs.m5stack.com/en/core/StampS3
-stamp-s3,esp32-s3
-0
-28
-28
-M5KiCad
-STAMP-S3-SMD
-https://docs.m5stack.com/en/core/StampS3
-stamp-s3,esp32-s3
-0
-31
-31
-M5Stack
-CoreS3
-
-
-0
-30
-30
 M7
 M7
 
@@ -72534,9 +72499,23 @@ Mounting M2.5 9774005151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H0.5mm_9774005151R
+Mounting Hardware, inside through hole M2.5, height 0.5, Wuerth electronics 9774005151R (https://www.we-online.com/components/products/datasheet/9774005151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774005151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H1.5mm_9774015151
 Mounting Hardware, inside through hole M2.5, height 1.5, Wuerth electronics 9774015151 (https://www.we-online.com/components/products/datasheet/9774015151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774015151
+0
+8
+1
+Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H1.5mm_9774015151R
+Mounting Hardware, inside through hole M2.5, height 1.5, Wuerth electronics 9774015151R (https://www.we-online.com/components/products/datasheet/9774015151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774015151R
 0
 8
 1
@@ -72548,9 +72527,23 @@ Mounting M2.5 9774010151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H1mm_9774010151R
+Mounting Hardware, inside through hole M2.5, height 1, Wuerth electronics 9774010151R (https://www.we-online.com/components/products/datasheet/9774010151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774010151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H2.5mm_9774025151
 Mounting Hardware, inside through hole M2.5, height 2.5, Wuerth electronics 9774025151 (https://www.we-online.com/components/products/datasheet/9774025151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774025151
+0
+8
+1
+Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H2.5mm_9774025151R
+Mounting Hardware, inside through hole M2.5, height 2.5, Wuerth electronics 9774025151R (https://www.we-online.com/components/products/datasheet/9774025151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774025151R
 0
 8
 1
@@ -72562,9 +72555,23 @@ Mounting M2.5 9774027151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H2.7mm_9774027151R
+Mounting Hardware, inside through hole M2.5, height 2.7, Wuerth electronics 9774027151R (https://www.we-online.com/components/products/datasheet/9774027151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774027151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H2mm_9774020151
 Mounting Hardware, inside through hole M2.5, height 2, Wuerth electronics 9774020151 (https://www.we-online.com/components/products/datasheet/9774020151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774020151
+0
+8
+1
+Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H2mm_9774020151R
+Mounting Hardware, inside through hole M2.5, height 2, Wuerth electronics 9774020151R (https://www.we-online.com/components/products/datasheet/9774020151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774020151R
 0
 8
 1
@@ -72576,9 +72583,23 @@ Mounting M2.5 9774035151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H3.5mm_9774035151R
+Mounting Hardware, inside through hole M2.5, height 3.5, Wuerth electronics 9774035151R (https://www.we-online.com/components/products/datasheet/9774035151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774035151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H3mm_9774030151
 Mounting Hardware, inside through hole M2.5, height 3, Wuerth electronics 9774030151 (https://www.we-online.com/components/products/datasheet/9774030151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774030151
+0
+8
+1
+Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H3mm_9774030151R
+Mounting Hardware, inside through hole M2.5, height 3, Wuerth electronics 9774030151R (https://www.we-online.com/components/products/datasheet/9774030151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774030151R
 0
 8
 1
@@ -72590,9 +72611,23 @@ Mounting M2.5 9774045151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H4.5mm_9774045151R
+Mounting Hardware, inside through hole M2.5, height 4.5, Wuerth electronics 9774045151R (https://www.we-online.com/components/products/datasheet/9774045151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774045151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H4mm_9774040151
 Mounting Hardware, inside through hole M2.5, height 4, Wuerth electronics 9774040151 (https://www.we-online.com/components/products/datasheet/9774040151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774040151
+0
+8
+1
+Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H4mm_9774040151R
+Mounting Hardware, inside through hole M2.5, height 4, Wuerth electronics 9774040151R (https://www.we-online.com/components/products/datasheet/9774040151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774040151R
 0
 8
 1
@@ -72604,9 +72639,23 @@ Mounting M2.5 9774055151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H5.5mm_9774055151R
+Mounting Hardware, inside through hole M2.5, height 5.5, Wuerth electronics 9774055151R (https://www.we-online.com/components/products/datasheet/9774055151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774055151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H5mm_9774050151
 Mounting Hardware, inside through hole M2.5, height 5, Wuerth electronics 9774050151 (https://www.we-online.com/components/products/datasheet/9774050151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774050151
+0
+8
+1
+Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H5mm_9774050151R
+Mounting Hardware, inside through hole M2.5, height 5, Wuerth electronics 9774050151R (https://www.we-online.com/components/products/datasheet/9774050151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774050151R
 0
 8
 1
@@ -72618,9 +72667,23 @@ Mounting M2.5 9774065151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H6.5mm_9774065151R
+Mounting Hardware, inside through hole M2.5, height 6.5, Wuerth electronics 9774065151R (https://www.we-online.com/components/products/datasheet/9774065151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774065151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H6mm_9774060151
 Mounting Hardware, inside through hole M2.5, height 6, Wuerth electronics 9774060151 (https://www.we-online.com/components/products/datasheet/9774060151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774060151
+0
+8
+1
+Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H6mm_9774060151R
+Mounting Hardware, inside through hole M2.5, height 6, Wuerth electronics 9774060151R (https://www.we-online.com/components/products/datasheet/9774060151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774060151R
 0
 8
 1
@@ -72632,9 +72695,23 @@ Mounting M2.5 9774075151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H7.5mm_9774075151R
+Mounting Hardware, inside through hole M2.5, height 7.5, Wuerth electronics 9774075151R (https://www.we-online.com/components/products/datasheet/9774075151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774075151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H7mm_9774070151
 Mounting Hardware, inside through hole M2.5, height 7, Wuerth electronics 9774070151 (https://www.we-online.com/components/products/datasheet/9774070151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774070151
+0
+8
+1
+Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H7mm_9774070151R
+Mounting Hardware, inside through hole M2.5, height 7, Wuerth electronics 9774070151R (https://www.we-online.com/components/products/datasheet/9774070151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774070151R
 0
 8
 1
@@ -72646,9 +72723,23 @@ Mounting M2.5 9774085151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H8.5mm_9774085151R
+Mounting Hardware, inside through hole M2.5, height 8.5, Wuerth electronics 9774085151R (https://www.we-online.com/components/products/datasheet/9774085151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774085151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H8mm_9774080151
 Mounting Hardware, inside through hole M2.5, height 8, Wuerth electronics 9774080151 (https://www.we-online.com/components/products/datasheet/9774080151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774080151
+0
+8
+1
+Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H8mm_9774080151R
+Mounting Hardware, inside through hole M2.5, height 8, Wuerth electronics 9774080151R (https://www.we-online.com/components/products/datasheet/9774080151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774080151R
 0
 8
 1
@@ -72660,6 +72751,13 @@ Mounting M2.5 9774095151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H9.5mm_9774095151R
+Mounting Hardware, inside through hole M2.5, height 9.5, Wuerth electronics 9774095151R (https://www.we-online.com/components/products/datasheet/9774095151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774095151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H9mm_9774090151
 Mounting Hardware, inside through hole M2.5, height 9, Wuerth electronics 9774090151 (https://www.we-online.com/components/products/datasheet/9774090151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774090151
@@ -72667,9 +72765,23 @@ Mounting M2.5 9774090151
 8
 1
 Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H9mm_9774090151R
+Mounting Hardware, inside through hole M2.5, height 9, Wuerth electronics 9774090151R (https://www.we-online.com/components/products/datasheet/9774090151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774090151R
+0
+8
+1
+Mounting_Wuerth
 Mounting_Wuerth_WA-SMSI-M2.5_H10mm_9774100151
 Mounting Hardware, inside through hole M2.5, height 10, Wuerth electronics 9774100151 (https://www.we-online.com/components/products/datasheet/9774100151R.pdf), generated with kicad-footprint-generator
 Mounting M2.5 9774100151
+0
+8
+1
+Mounting_Wuerth
+Mounting_Wuerth_WA-SMSI-M2.5_H10mm_9774100151R
+Mounting Hardware, inside through hole M2.5, height 10, Wuerth electronics 9774100151R (https://www.we-online.com/components/products/datasheet/9774100151R.pdf), generated with kicad-footprint-generator
+Mounting M2.5 9774100151R
 0
 8
 1
@@ -73611,6 +73723,41 @@ threaded screw
 0
 4
 1
+MouseBite
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+MouseBite
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+MouseBite
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+MouseBite
+mouse-bite-3mm-slot
+
+
+0
+0
+0
+MouseBite
+mouse-bite-5mm-slot
+
+
+0
+0
+0
 NRF52833
 NRF52833-QIAA-R
 
@@ -73625,6 +73772,13 @@ NTJD1155LT1G
 0
 6
 6
+NVTFS5124PLTAG
+WDFN-8_3.3X3.3_P0.65mm
+WDFN-8_3.3X3.3_P0.65mm
+Transistor
+0
+11
+5
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -73710,13 +73864,6 @@ net tie
 4
 4
 OGS_BASE
-ELT_CO2
-
-
-0
-14
-14
-OGS_BASE
 OGSB
 
 
@@ -73731,34 +73878,6 @@ OGSB_2MM
 8
 8
 OGS_BASE
-OGSB_FEMALE
-
-
-0
-6
-6
-OGS_BASE
-OGSB_FEMALE_IDC
-
-
-0
-16
-16
-OGS_BASE
-OGSB_FEMALE_IDC_90
-
-
-0
-16
-16
-OGS_BASE
-OGSB_FEMALE_NO_IDC_90
-
-
-0
-6
-6
-OGS_BASE
 OGSB_PIN
 
 
@@ -73772,62 +73891,6 @@ OGSB_PIN_CO2
 0
 22
 22
-OGS_BASE
-OGSB_SM
-
-
-0
-17
-17
-OGS_BASE
-OGSB_SM_A4
-
-
-0
-11
-11
-OGS_BASE
-PinSocket_2x05_P2.54mm_Vertical
-Through hole straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x05 2.54mm double row
-0
-10
-10
-OGS_BASE
-PinSocket_2x05_P2.54mm_Vertical-idc
-Through hole straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x05 2.54mm double row
-0
-10
-10
-OGS_BASE
-SEMEATECH_PIN
-
-
-0
-11
-11
-OGS_BASE
-SEMIATECH_PIN_A4
-
-
-0
-6
-6
-OGS_BASE
-SolderJumper-5
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
-solder jumper open
-0
-5
-5
-OIZOM_GAS_SENSOR
-ATH
-
-
-0
-4
-4
 OIZOM_GAS_SENSOR
 Alphasense-A4
 
@@ -73849,286 +73912,6 @@ NEVADA_NANO
 0
 5
 5
-OIZOM_GAS_SENSOR
-PID
-
-
-0
-3
-3
-OIZOM_GAS_SENSOR
-PID-AH2
-
-
-0
-3
-3
-OIZOM_GAS_SENSOR
-PRHT-A1
-
-
-0
-4
-4
-Oizom_Logo
-4-20mA
-
-
-0
-0
-0
-Oizom_Logo
-4-20mA-10mm
-
-
-0
-0
-0
-Oizom_Logo
-AirOwl_Holo
-
-
-0
-0
-0
-Oizom_Logo
-AirOwl_Solid
-
-
-0
-0
-0
-Oizom_Logo
-AirOwl_Solid1
-
-
-0
-0
-0
-Oizom_Logo
-AirOwl_Solid2
-
-
-0
-0
-0
-Oizom_Logo
-AirOwl_Solid30
-
-
-0
-0
-0
-Oizom_Logo
-AirOwl_Solid50
-
-
-0
-0
-0
-Oizom_Logo
-AirOwl_Solid70
-
-
-0
-0
-0
-Oizom_Logo
-BasedHardware
-
-
-0
-0
-0
-Oizom_Logo
-Buddi-10mm
-
-
-0
-0
-0
-Oizom_Logo
-Buddi-15mm
-
-
-0
-0
-0
-Oizom_Logo
-Buddi-20mm
-
-
-0
-0
-0
-Oizom_Logo
-Helilum_9mm
-
-
-0
-0
-0
-Oizom_Logo
-Helilum_15mm
-
-
-0
-0
-0
-Oizom_Logo
-Lightning_6mm
-
-
-0
-0
-0
-Oizom_Logo
-Lightning_8mm
-
-
-0
-0
-0
-Oizom_Logo
-LoRa_5mm
-
-
-0
-0
-0
-Oizom_Logo
-LoRa_20mm
-
-
-0
-0
-0
-Oizom_Logo
-Nano_SIM
-
-
-0
-0
-0
-Oizom_Logo
-Oizom_12mm
-
-
-0
-0
-0
-Oizom_Logo
-Oizom_15mm
-
-
-0
-0
-0
-Oizom_Logo
-Oizom_18mm
-
-
-0
-0
-0
-Oizom_Logo
-Oizom_20mm
-
-
-0
-0
-0
-Oizom_Logo
-Oizom_Horizontal_15mm
-
-
-0
-0
-0
-Oizom_Logo
-Oizom_Horizontal_18mm
-
-
-0
-0
-0
-Oizom_Logo
-Oizom_Horizontal_20mm
-
-
-0
-0
-0
-Oizom_Logo
-Solar_6mm
-
-
-0
-0
-0
-Oizom_Logo
-UV_4mm
-
-
-0
-0
-0
-Oizom_Logo
-UV_6mm
-
-
-0
-0
-0
-Oizom_Logo
-Wled
-
-
-0
-0
-0
-Oizom_Logo
-aky_SKT
-
-
-0
-0
-0
-Oizom_Logo
-baby_icon
-
-
-0
-0
-0
-Oizom_Logo
-heater
-
-
-0
-0
-0
-Oizom_Logo
-made_with_love
-
-
-0
-0
-0
-Oizom_Logo
-made_with_love10
-
-
-0
-0
-0
-Oizom_Logo
-microphone_1_5mm
-
-
-0
-0
-0
 OptoDevice
 ADNS-9800
 Laser Gaming Sensor ADNS-9800
@@ -93548,41 +93331,6 @@ TO-264-5 Vertical RM 3.81mm
 5
 5
 Pluggable-Connector
-15EDGRC-3.5-02P
-15EDGRC-3.81-04P-14-00A(H)
-Connector
-0
-2
-2
-Pluggable-Connector
-15EDGRC-3.5-04P
-15EDGRC-3.81-04P-14-00A(H)
-Connector
-0
-4
-4
-Pluggable-Connector
-PHOENIX_1755749
-
-
-0
-3
-3
-Pluggable-Connector
-PHOENIX_1755752
-
-
-0
-4
-4
-Pluggable-Connector
-PHOENIX_1924347
-
-
-0
-6
-6
-Pluggable-Connector
 TerminalBlock_bornier-3_P5.08mm-Pluggable
 simple 3-pin terminal block, pitch 5.08mm, revamped version of bornier3
 terminal block bornier3
@@ -94576,13 +94324,6 @@ Inductor
 0
 2
 2
-Quectel_GSM
-EC200UCNAA-N05-SGNSA
-
-
-0
-144
-144
 RF
 Skyworks_SKY13575_639LF
 http://www.skyworksinc.com/uploads/documents/SKY13575_639LF_203270D.pdf
@@ -95661,13 +95402,6 @@ nRF24L01 adapter breakout
 0
 8
 8
-RF_Module_User
-XCVR_NRF24L01P-MODULE-PCB
-
-
-0
-8
-8
 RF_Shielding
 Laird_Technologies_97-2002_25.40x25.40mm
 Laird Technologies 97-2002 EZ PEEL Shielding Cabinet One Piece SMD 25.40x25.40mm, http://cdn.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf
@@ -95885,13 +95619,6 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
-Radxa_CM3
-Radxa_CM3
-
-
-0
-304
-304
 Relay
 RELAY_JQC-3F-1C-24VDC
 
@@ -96872,6 +96599,13 @@ SPST SPDT DC TE0598-P2
 0
 7
 7
+Resistor_AluminiumCasing
+Resistor_50W
+
+
+0
+4
+2
 Resistor_SMD
 R_0201_0603Metric
 Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -98258,13 +97992,27 @@ SD_Card
 0
 13
 10
-SN65DSI85
-NFBGA_64P_5x5
-ZXH0064A
-Integrated Circuit
+SD_Card
+Untitled
+
+
 0
-64
-64
+0
+0
+SMBJ40CA
+DIOM4336X265N
+
+
+0
+2
+2
+SMBJ47
+DIOM4336X265N
+
+
+0
+2
+2
 SN74CB3Q3253PW
 SOP65P640X120-16N
 PW0016A HEIGHT 1.2
@@ -98307,6 +98055,13 @@ Relay or Contactor
 0
 3
 3
+SS34
+SS34
+
+
+0
+2
+2
 STS4X
 STS4X
 
@@ -98910,40 +98665,12 @@ MOLEX_47553-2001
 10
 10
 SimCard
-SIM8051-6-0-14-01-A_GCT
-
-SIM8051-6-0-14-01-A 
-0
-8
-8
-SimCard
 TE_2336582-1
 
 
 0
 11
-8
-Slide_sw
-EVQPUC02K
-EVQPUC02K-1
-Switch
-0
-4
-4
-Slide_sw
-SW_EVQ-P7J01P
-
-
-0
-4
-4
-Slide_sw
-SW_PCM12SMTR
-
-
-0
-7
-7
+11
 Slide_sw
 Slide_SW
 
@@ -98965,6 +98692,27 @@ Slide_Switch
 0
 3
 3
+Slot_Sensors
+ITR20403
+RPI-352
+Undefined or Miscellaneous
+0
+4
+4
+Slot_Sensors
+RPI-0352E
+
+
+0
+4
+4
+Slot_Sensors
+RPI352
+RPI-352
+Undefined or Miscellaneous
+0
+4
+4
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
@@ -99169,12 +98917,19 @@ SFH11-PBPC-D05-ST-BK
 10
 10
 Switch
-KCD1-103
+LED-Button
 
 
 0
-3
-3
+6
+4
+Switch
+SW_PUSH-12mm
+SW PUSH 12mm https://www.e-switch.com/system/asset/product_line/data_sheet/143/TL1100.pdf
+tact sw push 12mm
+0
+4
+2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -100673,19 +100428,33 @@ TE_1775838-2
 0
 54
 54
-TFT_Display
-T240B8-C10-08-T_Touchscreen
+TP4056
+SOP127P600X175-9N
 
 
 0
-20
+9
+9
+TP5100
+QFN65P400X400X90-17N-D
+16QFN_16
+Integrated Circuit
+0
 17
-TPS61088
-TPS61088RHLR
+17
+TPS7A24
+SOT95P280X145-5N
+DBV0005A SOT-23-A
+Integrated Circuit
+0
+5
+5
+TPS55340
+IC_TPS55340PWP
 
 
 0
-29
+21
 21
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
@@ -101961,6 +101730,13 @@ Dinkle DT-55-B01X Terminal Block  pitch 10.00mm
 0
 30
 30
+TerminalBlock_Dorabo
+DB128R-5.0_6P
+
+
+0
+6
+6
 TerminalBlock_MetzConnect
 TerminalBlock_MetzConnect_360271_1x01_Horizontal_ScrewM3.0_Boxed
 single screw terminal block Metz Connect 360271, block size 9x7.3mm, drill diameter 1.5mm, pad diameter 3mm, https://www.metz-connect.com/media/file/8a8a80ea6e17c2e6016e3b8ef7cd2d65.de.0/product_summary_u_contact_de_en_fr.pdf , script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MetzConnect
@@ -105608,34 +105384,13 @@ screw terminal thread redcube thr power connector
 0
 18
 1
-Terminal_SpringLoaded
-DB142R_P5.08_2P
-
-
-0
-4
-2
-Terminal_SpringLoaded
-DB142R_P5.08_3P
+Terminal_Connector
+VJ0661500000G
 
 
 0
 6
-3
-Terminal_SpringLoaded
-DB142V_P5.08_2P
-
-
-0
-4
-2
-Terminal_SpringLoaded
-DB142V_P5.08_3P
-
-
-0
 6
-3
 TestPoint
 TestPoint_2Pads_Pitch2.54mm_Drill0.8mm
 Test point with 2 pins, pitch 2.54mm, drill diameter 0.8mm
@@ -106125,6 +105880,27 @@ TestPointPads
 
 0
 6
+6
+Transformer
+EE25_6_transformer
+
+
+0
+10
+6
+Transformer
+EE40
+
+
+0
+12
+12
+Transformer
+Transformer_EE28
+
+
+0
+10
 6
 Transformer_SMD
 Pulse_P0926NL
@@ -106966,27 +106742,6 @@ igbt diode module
 0
 25
 25
-USB_Connectors
-GCT_USB4520-03-0-A_REVA
-
-
-0
-16
-16
-USB_Connectors
-MOLEX_2171780001
-
-
-0
-8
-8
-USB_Connectors
-USB-C_6P_Vertical_THT
-
-
-0
-8
-8
 USB_Connectors
 USB-C_16P_Vertical_THT
 
@@ -107834,48 +107589,6 @@ Integrated Circuit
 0
 5
 5
-WE-UCF_4TURNS
-WE-UCF_4TURNS
-<b>WE-UCF SMT Common Mode Line Filter<br>16.6mm X 12.5mm X 9.3mm, SMT
-
-0
-8
-8
-XIAO
-XIAO-ESP32C3-14P-2.54-21X17.8MM
-
-
-0
-23
-23
-XIAO
-XIAO-Generic-Hybrid-14P-2.54-21X17.8MM
-
-
-0
-14
-14
-XIAO
-XIAO-Generic-Thruhole-14P-2.54-21X17.8MM
-
-
-0
-14
-14
-XIAO
-XIAO-SAMD21-RP2040-14P-2.54-21X17.8MM (Seeeduino XIAO)
-
-
-0
-20
-20
-XIAO
-XIAO-nRF52840-Sense-14P-2.54-21X17.8MM
-
-
-0
-22
-22
 ZMPT101B
 XFMR_ZMPT101B
 
@@ -107939,94 +107652,3 @@ Tactile_side_press
 0
 2
 2
-teensy
-Teensy1.0
-11
-
-0
-27
-27
-teensy
-Teensy1.0++
-20
-
-0
-51
-51
-teensy
-Teensy2.0
-11
-
-0
-31
-31
-teensy
-Teensy2.0++
-20
-
-0
-52
-52
-teensy
-Teensy30_31_32_All_Pins
-Teensy 3.0/3.1/3.2 All Pins
-
-0
-54
-54
-teensy
-Teensy30_31_32_LC
-
-
-0
-39
-38
-teensy
-Teensy35_36
-
-
-0
-62
-62
-teensy
-Teensy35_36_All_Pins
-
-
-0
-88
-88
-teensy
-Teensy40
-
-
-0
-44
-44
-teensy
-Teensy40_SMT
-
-
-0
-54
-54
-teensy
-Teensy41
-
-
-0
-67
-67
-teensy
-Teensy_LC
-
-
-0
-39
-39
-user_switch
-TS24CA
-
-
-0
-4
-4

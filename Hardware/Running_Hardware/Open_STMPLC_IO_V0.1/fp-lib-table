@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NVTFS5124PLTAG")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Footprints/NVTFS5124PLTAG.pretty")(options "")(descr ""))
+)

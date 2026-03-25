@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "MOSFET")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Symbols/MOSFET.kicad_sym")(options "")(descr ""))
 )

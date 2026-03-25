@@ -359,12 +359,24 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -414,6 +426,10 @@
       "Root"
     ],
     [
+      "dbe29928-7395-4ef9-a75f-9ae2dbfd9b50",
+      "DIG_HS_OUT_2"
+    ],
+    [
       "14439578-ba67-46a0-8d60-ec0dac961d93",
       "DIG_HS_OUT_1"
     ],
@@ -426,8 +442,24 @@
       "DIG_OUT"
     ],
     [
-      "738a861d-6b6d-42fb-b998-3bab1f0f1dc1",
-      "DIG_IN"
+      "3432b972-975b-4fe5-ae46-1ec04a8ffd10",
+      "DIG_IN_GRP2"
+    ],
+    [
+      "fe484d4d-8fb4-4ffc-84b6-8b2681c7fc4c",
+      "DIG_HS_OUT_3"
+    ],
+    [
+      "893b5029-7450-4d12-87c5-e23e52a6c6a4",
+      "DIG_HS_OUT_4"
+    ],
+    [
+      "f7c9b278-9b22-4afd-8005-63d817d56c8b",
+      "DIG_IN_GRP1"
+    ],
+    [
+      "ff4674bb-93a2-43ea-b7b2-a9b7c3728844",
+      "DIG_IN_GRP3"
     ]
   ],
   "text_variables": {}

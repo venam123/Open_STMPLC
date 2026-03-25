@@ -7,12 +7,11 @@
 	(lib_symbols)
 	(sheet
 		(at 50.8 25.4)
-		(size 50.8 12.7)
+		(size 50.8 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -22,16 +21,18 @@
 		)
 		(uuid "14439578-ba67-46a0-8d60-ec0dac961d93")
 		(property "Sheetname" "DIG_HS_OUT_1"
-			(at 50.8 24.6884 0)
+			(at 51.054 29.21 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 50.8 38.6846 0)
+		(property "Sheetfile" "DIG_HS_OUT_1.kicad_sch"
+			(at 50.8 51.3846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -48,55 +49,12 @@
 		)
 	)
 	(sheet
-		(at 50.8 44.45)
-		(size 50.8 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 255 255 194 1.0000)
-		)
-		(uuid "67295186-84e3-49ab-a644-f9c32c5d05f9")
-		(property "Sheetname" "DIG_OUT"
-			(at 50.8 43.7384 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "DIG_OUT.kicad_sch"
-			(at 50.8 57.7346 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 114.3 76.2)
+		(at 176.53 59.69)
 		(size 50.8 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -104,18 +62,20 @@
 		(fill
 			(color 255 255 194 1.0000)
 		)
-		(uuid "738a861d-6b6d-42fb-b998-3bab1f0f1dc1")
-		(property "Sheetname" "DIG_IN"
-			(at 114.3 75.4884 0)
+		(uuid "3432b972-975b-4fe5-ae46-1ec04a8ffd10")
+		(property "Sheetname" "DIG_IN_GRP2"
+			(at 177.038 63.5 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "DIG_IN.kicad_sch"
-			(at 114.3 102.1846 0)
+		(property "Sheetfile" "DIG_IN_GRP2.kicad_sch"
+			(at 176.53 85.6746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -132,13 +92,98 @@
 		)
 	)
 	(sheet
-		(at 50.8 76.2)
+		(at 114.3 25.4)
+		(size 50.8 132.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "67295186-84e3-49ab-a644-f9c32c5d05f9")
+		(property "Sheetname" "DIG_OUT"
+			(at 114.808 29.21 0)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIG_OUT.kicad_sch"
+			(at 114.046 158.242 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 132.08)
 		(size 50.8 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "893b5029-7450-4d12-87c5-e23e52a6c6a4")
+		(property "Sheetname" "DIG_HS_OUT_4"
+			(at 51.054 135.89 0)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIG_HS_OUT_4.kicad_sch"
+			(at 50.8 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 176.53 127)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -148,16 +193,18 @@
 		)
 		(uuid "c578cb66-fdf8-4281-9d22-afb8b8874264")
 		(property "Sheetname" "Temp_Sensor"
-			(at 50.8 75.4884 0)
+			(at 177.038 130.81 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "Temp_Sensor.kicad_sch"
-			(at 50.8 102.1846 0)
+			(at 176.53 152.9846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -169,6 +216,178 @@
 			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 59.69)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "dbe29928-7395-4ef9-a75f-9ae2dbfd9b50")
+		(property "Sheetname" "DIG_HS_OUT_2"
+			(at 51.054 63.5 0)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIG_HS_OUT_2.kicad_sch"
+			(at 50.8 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 176.53 26.67)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "f7c9b278-9b22-4afd-8005-63d817d56c8b")
+		(property "Sheetname" "DIG_IN_GRP1"
+			(at 177.038 30.48 0)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIG_IN_GRP1.kicad_sch"
+			(at 176.53 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 95.25)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "fe484d4d-8fb4-4ffc-84b6-8b2681c7fc4c")
+		(property "Sheetname" "DIG_HS_OUT_3"
+			(at 51.054 99.06 0)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIG_HS_OUT_3.kicad_sch"
+			(at 50.8 121.2346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 176.53 91.44)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "ff4674bb-93a2-43ea-b7b2-a9b7c3728844")
+		(property "Sheetname" "DIG_IN_GRP3"
+			(at 177.038 95.25 0)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DIG_IN_GRP3.kicad_sch"
+			(at 176.53 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
+					(page "9")
 				)
 			)
 		)
