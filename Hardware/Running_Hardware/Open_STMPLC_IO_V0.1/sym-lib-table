@@ -1,4 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "MOSFET")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Symbols/MOSFET.kicad_sym")(options "")(descr ""))
+  (lib (name "XTR305")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Symbols/XTR305.kicad_sym")(options "")(descr ""))
+  (lib (name "AD4111")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Symbols/AD4111.kicad_sym")(options "")(descr ""))
 )

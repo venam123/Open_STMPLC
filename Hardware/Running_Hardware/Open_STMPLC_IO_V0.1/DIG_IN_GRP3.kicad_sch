@@ -4574,10 +4574,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R115")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R151")
 					(unit 1)
@@ -4644,10 +4640,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0114")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0150")
 					(unit 1)
@@ -4717,10 +4709,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "C39")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "C51")
 					(unit 1)
@@ -4808,10 +4796,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "U21")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "U33")
 					(unit 1)
@@ -4877,10 +4861,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0123")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0159")
 					(unit 1)
@@ -4946,10 +4926,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0116")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0152")
 					(unit 1)
@@ -5019,10 +4995,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D9")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D91")
 					(unit 1)
@@ -5096,10 +5068,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D57")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D93")
 					(unit 1)
@@ -5169,10 +5137,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D67")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D103")
 					(unit 1)
@@ -5240,10 +5204,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R113")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R149")
 					(unit 1)
@@ -5317,10 +5277,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D69")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D105")
 					(unit 1)
@@ -5387,10 +5343,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0120")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0156")
 					(unit 1)
@@ -5456,10 +5408,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0115")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0151")
 					(unit 1)
@@ -5533,10 +5481,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D62")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D98")
 					(unit 1)
@@ -5605,10 +5549,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D64")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D100")
 					(unit 1)
@@ -5678,10 +5618,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "C3")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "C46")
 					(unit 1)
@@ -5751,10 +5687,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D61")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D97")
 					(unit 1)
@@ -5821,10 +5753,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0118")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0154")
 					(unit 1)
@@ -5898,10 +5826,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D68")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D104")
 					(unit 1)
@@ -5967,10 +5891,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0110")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0146")
 					(unit 1)
@@ -6038,10 +5958,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R116")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R152")
 					(unit 1)
@@ -6110,10 +6026,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D59")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D95")
 					(unit 1)
@@ -6182,10 +6094,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D58")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D94")
 					(unit 1)
@@ -6253,10 +6161,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R123")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R159")
 					(unit 1)
@@ -6326,10 +6230,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "C35")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "C47")
 					(unit 1)
@@ -6396,10 +6296,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR039")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0144")
 					(unit 1)
@@ -6465,10 +6361,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0119")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0155")
 					(unit 1)
@@ -6536,10 +6428,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R125")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R161")
 					(unit 1)
@@ -6607,10 +6495,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R124")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R160")
 					(unit 1)
@@ -6684,10 +6568,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D63")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D99")
 					(unit 1)
@@ -6758,10 +6638,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "J20")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "J32")
 					(unit 1)
@@ -6829,10 +6705,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R118")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R154")
 					(unit 1)
@@ -6903,10 +6775,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "J18")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "J30")
 					(unit 1)
@@ -6974,10 +6842,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R119")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R155")
 					(unit 1)
@@ -7065,10 +6929,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "U23")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "U35")
 					(unit 1)
@@ -7136,10 +6996,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R121")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R157")
 					(unit 1)
@@ -7207,10 +7063,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R117")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R153")
 					(unit 1)
@@ -7276,10 +7128,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0113")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0149")
 					(unit 1)
@@ -7349,10 +7197,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "C38")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "C50")
 					(unit 1)
@@ -7421,10 +7265,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D70")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D106")
 					(unit 1)
@@ -7492,10 +7332,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R120")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R156")
 					(unit 1)
@@ -7562,10 +7398,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR06")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0142")
 					(unit 1)
@@ -7653,10 +7485,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "U12")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "U31")
 					(unit 1)
@@ -7724,10 +7552,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R22")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R146")
 					(unit 1)
@@ -7798,10 +7622,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "J3")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "J27")
 					(unit 1)
@@ -7869,10 +7689,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R127")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R163")
 					(unit 1)
@@ -7943,10 +7759,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "J17")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "J29")
 					(unit 1)
@@ -8034,10 +7846,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "U24")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "U36")
 					(unit 1)
@@ -8103,10 +7911,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR038")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0143")
 					(unit 1)
@@ -8174,10 +7978,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R122")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R158")
 					(unit 1)
@@ -8245,10 +8045,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R27")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R148")
 					(unit 1)
@@ -8318,10 +8114,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D66")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D102")
 					(unit 1)
@@ -8395,10 +8187,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D11")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D92")
 					(unit 1)
@@ -8465,10 +8253,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0112")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0148")
 					(unit 1)
@@ -8538,10 +8322,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D60")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D96")
 					(unit 1)
@@ -8629,10 +8409,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "U20")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "U32")
 					(unit 1)
@@ -8698,10 +8474,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0122")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0158")
 					(unit 1)
@@ -8771,10 +8543,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "C36")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "C48")
 					(unit 1)
@@ -8844,10 +8612,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D8")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D90")
 					(unit 1)
@@ -8917,10 +8681,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "C37")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "C49")
 					(unit 1)
@@ -8989,10 +8749,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D65")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D101")
 					(unit 1)
@@ -9080,10 +8836,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "U22")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "U34")
 					(unit 1)
@@ -9151,10 +8903,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R114")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R150")
 					(unit 1)
@@ -9225,10 +8973,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "J19")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "J31")
 					(unit 1)
@@ -9294,10 +9038,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0117")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0153")
 					(unit 1)
@@ -9365,10 +9105,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R25")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R147")
 					(unit 1)
@@ -9437,10 +9173,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "D71")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "D107")
 					(unit 1)
@@ -9506,10 +9238,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0121")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0157")
 					(unit 1)
@@ -9575,10 +9303,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0109")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0145")
 					(unit 1)
@@ -9649,10 +9373,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "J16")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "J28")
 					(unit 1)
@@ -9718,10 +9438,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "#PWR0111")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "#PWR0147")
 					(unit 1)
@@ -9789,10 +9505,6 @@
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/3432b972-975b-4fe5-ae46-1ec04a8ffd10"
-					(reference "R126")
-					(unit 1)
-				)
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/ff4674bb-93a2-43ea-b7b2-a9b7c3728844"
 					(reference "R162")
 					(unit 1)

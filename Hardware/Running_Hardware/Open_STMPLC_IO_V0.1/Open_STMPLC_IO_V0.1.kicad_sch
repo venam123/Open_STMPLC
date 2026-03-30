@@ -178,6 +178,49 @@
 		)
 	)
 	(sheet
+		(at 114.3 170.18)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "9484d068-112e-4f97-bb8e-f93d2b86f9c0")
+		(property "Sheetname" "ANALOG_IN"
+			(at 114.554 173.99 0)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ANALOG_IN.kicad_sch"
+			(at 114.3 196.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 176.53 127)
 		(size 50.8 25.4)
 		(exclude_from_sim no)
@@ -216,6 +259,49 @@
 			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 50.8 170.18)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "c9298d57-d356-4e79-8731-9f1e067c5c34")
+		(property "Sheetname" "ANALOG_OUT"
+			(at 51.054 173.99 0)
+			(effects
+				(font
+					(size 2 2)
+					(thickness 0.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ANALOG_OUT.kicad_sch"
+			(at 50.8 196.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b"
+					(page "10")
 				)
 			)
 		)
