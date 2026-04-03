@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "1f2fe9d8-a191-480c-a7b0-89fcb86e2b25")
 	(paper "A4")
+	(title_block
+		(title "Open_PLC_IO")
+		(date "2026-04-01")
+		(rev "0.1")
+	)
 	(lib_symbols
 		(symbol "AD4111:AD4111"
 			(exclude_from_sim no)
@@ -5249,7 +5254,7 @@
 		(at 82.55 72.39 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left)
 		)
@@ -5260,7 +5265,7 @@
 		(at 111.76 80.01 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left)
 		)
@@ -5271,7 +5276,7 @@
 		(at 82.55 74.93 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left)
 		)
@@ -5282,7 +5287,7 @@
 		(at 82.55 77.47 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left)
 		)
@@ -6027,7 +6032,7 @@
 			(at 30.48 53.086 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -6036,7 +6041,7 @@
 			(at 31.242 50.546 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -7512,7 +7517,7 @@
 			(at 92.202 148.336 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -7521,7 +7526,7 @@
 			(at 91.694 146.304 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -7581,7 +7586,7 @@
 			(at 30.48 58.166 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -7590,7 +7595,7 @@
 			(at 31.242 55.626 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -8253,7 +8258,7 @@
 			(at 30.48 68.326 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -8262,7 +8267,7 @@
 			(at 31.242 65.786 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -8729,7 +8734,7 @@
 			(at 96.52 40.132 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -8738,7 +8743,7 @@
 			(at 96.52 43.942 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -9007,7 +9012,7 @@
 			(at 91.948 124.46 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -9016,7 +9021,7 @@
 			(at 91.694 126.492 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -9144,7 +9149,7 @@
 			(at 102.87 64.262 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -9153,7 +9158,7 @@
 			(at 102.87 68.072 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -10182,7 +10187,7 @@
 			(at 80.01 48.514 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -10191,7 +10196,7 @@
 			(at 79.248 51.054 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -10651,7 +10656,7 @@
 			(at 90.17 40.132 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -10660,7 +10665,7 @@
 			(at 90.17 43.942 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -11071,7 +11076,7 @@
 			(at 102.616 131.572 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 			)
 		)
@@ -11079,7 +11084,7 @@
 			(at 104.648 133.604 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 			)
 		)
@@ -12017,7 +12022,7 @@
 			(at 30.48 63.246 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -12026,7 +12031,7 @@
 			(at 31.242 60.706 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)

@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "ce159064-d163-4f00-b721-f1d1e2494b17")
 	(paper "A4")
+	(title_block
+		(title "Open_PLC_IO")
+		(date "2026-04-01")
+		(rev "0.1")
+	)
 	(lib_symbols
 		(symbol "Connector:Screw_Terminal_01x02"
 			(pin_names
@@ -1935,6 +1940,18 @@
 		(uuid d0a93672-5c10-4e8f-a469-06c548f8ba5b)
 	)
 	(rectangle
+		(start 16.51 165.1)
+		(end 172.72 194.31)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e5c94116-e62d-4005-8520-280377bf61cb)
+	)
+	(rectangle
 		(start 194.31 15.24)
 		(end 279.4 86.36)
 		(stroke
@@ -2023,6 +2040,19 @@
 			(justify left)
 		)
 		(uuid "e781b0eb-3e1d-4ca4-b037-278fa0ca69c0")
+	)
+	(text "TO B2B CONNECTOR"
+		(exclude_from_sim no)
+		(at 17.526 168.402 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "f9db07ae-0310-4128-a9f3-2a50997722b4")
 	)
 	(junction
 		(at 154.94 49.53)
@@ -2348,6 +2378,60 @@
 		(at 261.62 124.46)
 		(uuid "fcd43008-c77f-4f3e-a62f-55891dc705a2")
 	)
+	(bus_entry
+		(at 80.01 190.5)
+		(size -2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bf18adf-14a6-4b7a-9759-78fabfb9ff59")
+	)
+	(bus_entry
+		(at 85.09 190.5)
+		(size -2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f4a826c-8c67-4ff4-a05d-b59137907702")
+	)
+	(bus_entry
+		(at 74.93 190.5)
+		(size -2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c1891f6-8d9e-4d3d-a4e8-1593ce519493")
+	)
+	(bus_entry
+		(at 87.63 190.5)
+		(size -2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c92f745-7cf1-4ff9-ac2e-560129ee4857")
+	)
+	(bus_entry
+		(at 82.55 190.5)
+		(size -2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d330359f-a9d3-425c-b4b7-151b7e362b7f")
+	)
+	(bus_entry
+		(at 77.47 190.5)
+		(size -2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0045688-99f0-4e7c-8372-805ef3117020")
+	)
 	(wire
 		(pts
 			(xy 237.49 138.43) (xy 237.49 127)
@@ -2400,7 +2484,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 128.27) (xy 87.63 128.27)
+			(xy 85.09 128.27) (xy 96.52 128.27)
 		)
 		(stroke
 			(width 0)
@@ -2558,6 +2642,16 @@
 		)
 		(uuid "1ae2e7d9-a37e-4711-9d7d-07638450c3b3")
 	)
+	(bus
+		(pts
+			(xy 87.63 190.5) (xy 96.52 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b82c106-84df-443c-9446-3c721b87239b")
+	)
 	(wire
 		(pts
 			(xy 165.1 36.83) (xy 165.1 38.1)
@@ -2670,6 +2764,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 173.99) (xy 74.93 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "222df0df-b5df-4449-bf4a-003ebd3e837b")
+	)
+	(wire
+		(pts
 			(xy 261.62 127) (xy 265.43 127)
 		)
 		(stroke
@@ -2740,7 +2844,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 52.07) (xy 179.07 52.07)
+			(xy 176.53 52.07) (xy 187.96 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3050,7 +3154,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 52.07) (xy 267.97 52.07)
+			(xy 265.43 52.07) (xy 276.86 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3087,6 +3191,16 @@
 			(type default)
 		)
 		(uuid "497caecc-d959-4447-8ad6-3425c3cca121")
+	)
+	(wire
+		(pts
+			(xy 72.39 173.99) (xy 72.39 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a19675e-6333-42c4-8aea-a03320b128dd")
 	)
 	(wire
 		(pts
@@ -3200,6 +3314,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 173.99) (xy 85.09 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55549087-ed20-45a1-a559-1d58383131ec")
+	)
+	(wire
+		(pts
 			(xy 254 38.1) (xy 254 41.91)
 		)
 		(stroke
@@ -3220,7 +3344,7 @@
 	)
 	(wire
 		(pts
-			(xy 265.43 127) (xy 267.97 127)
+			(xy 265.43 127) (xy 276.86 127)
 		)
 		(stroke
 			(width 0)
@@ -3318,6 +3442,16 @@
 		)
 		(uuid "63fe65bf-0768-4b81-a0cd-87ae0bf20ec9")
 	)
+	(bus
+		(pts
+			(xy 80.01 190.5) (xy 77.47 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "642aebbb-e2e0-4830-9484-22cbba2cbc91")
+	)
 	(wire
 		(pts
 			(xy 60.96 55.88) (xy 63.5 55.88)
@@ -3327,6 +3461,16 @@
 			(type default)
 		)
 		(uuid "6552de8d-aa6a-4d1c-a434-8759c005b7f8")
+	)
+	(wire
+		(pts
+			(xy 80.01 173.99) (xy 80.01 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65be1bbb-ea5c-4052-886e-c42d1d63041f")
 	)
 	(wire
 		(pts
@@ -3770,6 +3914,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 173.99) (xy 77.47 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ad946a0-850e-45bf-85c5-b8be9a47b1ad")
+	)
+	(wire
+		(pts
 			(xy 172.72 52.07) (xy 176.53 52.07)
 		)
 		(stroke
@@ -3890,13 +4044,23 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 53.34) (xy 87.63 53.34)
+			(xy 85.09 53.34) (xy 96.52 53.34)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "abc77dfa-d289-4032-b5a8-d77980e8af88")
+	)
+	(wire
+		(pts
+			(xy 82.55 173.99) (xy 82.55 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac1b64a7-ddc0-42f2-9171-b27aa999a046")
 	)
 	(wire
 		(pts
@@ -3910,7 +4074,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 127) (xy 179.07 127)
+			(xy 176.53 127) (xy 187.96 127)
 		)
 		(stroke
 			(width 0)
@@ -3947,6 +4111,16 @@
 			(type default)
 		)
 		(uuid "b14ea5e6-92e4-4ba8-a0a1-327b2cc74bce")
+	)
+	(bus
+		(pts
+			(xy 82.55 190.5) (xy 80.01 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b18ac1e2-26bf-4286-991c-6df0c6f22ad1")
 	)
 	(wire
 		(pts
@@ -4058,6 +4232,16 @@
 		)
 		(uuid "bcea8f13-6143-46b0-bdea-026de31b87af")
 	)
+	(bus
+		(pts
+			(xy 85.09 190.5) (xy 82.55 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be527cb6-f0ef-4731-af21-589dfe30efda")
+	)
 	(wire
 		(pts
 			(xy 241.3 43.18) (xy 243.84 43.18)
@@ -4118,6 +4302,16 @@
 		)
 		(uuid "c3b86952-3b4c-4e49-9c40-c54148bb0947")
 	)
+	(bus
+		(pts
+			(xy 77.47 190.5) (xy 74.93 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c57fa4b3-ff9d-4ade-8d50-57650338634d")
+	)
 	(wire
 		(pts
 			(xy 254 137.16) (xy 254 139.7)
@@ -4137,6 +4331,16 @@
 			(type default)
 		)
 		(uuid "c6287208-7234-4690-ae50-dba4e0d0f15b")
+	)
+	(bus
+		(pts
+			(xy 87.63 190.5) (xy 85.09 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd1a90ec-a507-4e06-be3f-939c4a89345b")
 	)
 	(wire
 		(pts
@@ -4448,71 +4652,136 @@
 		)
 		(uuid "fba44d52-8469-486e-8b24-d798b833a99f")
 	)
-	(hierarchical_label "DIG_IN_15"
-		(shape output)
-		(at 267.97 52.07 0)
+	(label "DIG_IN_15"
+		(at 77.47 173.99 270)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify left)
+			(justify right bottom)
 		)
-		(uuid "33ca400d-a9d6-4fac-94a5-44d32c7ce83e")
+		(uuid "026cf797-502b-45d9-9b23-59c0373e3cbc")
 	)
-	(hierarchical_label "DIG_IN_16"
-		(shape output)
-		(at 87.63 128.27 0)
+	(label "DIG_IN_18"
+		(at 85.09 173.99 270)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify left)
+			(justify right bottom)
 		)
-		(uuid "56c931e2-39e7-4d5f-835f-93fa69b3d1e7")
+		(uuid "07a9d897-6321-469f-afce-4ad521a178ec")
 	)
-	(hierarchical_label "DIG_IN_18"
-		(shape output)
-		(at 267.97 127 0)
+	(label "DIG_IN_14"
+		(at 187.96 52.07 180)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify left)
+			(justify right bottom)
 		)
-		(uuid "5da7b58c-6036-4f3c-9afc-34c22dd7201c")
+		(uuid "1bd78734-fae3-422f-9ec4-a1af3d71a077")
 	)
-	(hierarchical_label "DIG_IN_14"
-		(shape output)
-		(at 179.07 52.07 0)
+	(label "DIG_IN_18"
+		(at 276.86 127 180)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify left)
+			(justify right bottom)
 		)
-		(uuid "6d989a37-13c0-43de-b23e-bdfabc604f9b")
+		(uuid "246bc0de-1860-4767-9aa8-8ae9ac00bcc4")
 	)
-	(hierarchical_label "DIG_IN_17"
-		(shape output)
-		(at 179.07 127 0)
+	(label "DIG_IN_17"
+		(at 82.55 173.99 270)
 		(effects
 			(font
 				(size 1 1)
 			)
-			(justify left)
+			(justify right bottom)
 		)
-		(uuid "7f99836c-39d4-457f-a5c7-51651fab859d")
+		(uuid "32a9b27e-a5e1-4650-b72f-e5b268758788")
 	)
-	(hierarchical_label "DIG_IN_13"
+	(label "DIG_IN_16"
+		(at 80.01 173.99 270)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "84dbe13e-535b-4b11-9341-f37232894899")
+	)
+	(label "DIG_IN_16"
+		(at 96.52 128.27 180)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "8707188f-0550-4587-9a29-ba83df22df5e")
+	)
+	(label "DIG_IN_15"
+		(at 276.86 52.07 180)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "afc2b8bb-2774-4a1d-9f43-f400919c6119")
+	)
+	(label "DIG_IN_17"
+		(at 187.96 127 180)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "bb2483b5-98e0-4095-a9ab-e02800cdeebe")
+	)
+	(label "DIG_IN_14"
+		(at 74.93 173.99 270)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "d05f9595-84ad-4b26-b9ce-5564ac7eb427")
+	)
+	(label "DIG_IN_13"
+		(at 72.39 173.99 270)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "dbbf47ff-1228-4aa1-8bec-c5868531200c")
+	)
+	(label "DIG_IN_13"
+		(at 96.52 53.34 180)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "ea9550db-e29b-4357-aa70-72396cf63664")
+	)
+	(hierarchical_label "DIG_IN_[13..18]"
 		(shape output)
-		(at 87.63 53.34 0)
+		(at 96.52 190.5 0)
 		(effects
 			(font
 				(size 1 1)
 			)
 			(justify left)
 		)
-		(uuid "fc5e0d14-14c7-4adc-8de2-2157fff77cdd")
+		(uuid "553b4ea3-b3ac-442a-9138-69550f275555")
 	)
 	(symbol
 		(lib_id "Device:R_Small")
@@ -4567,10 +4836,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "c20bdc5d-70a3-4ca8-89e7-2633d53e78ac")
+			(uuid "dc8d6641-3ae2-423c-994d-c46f6aed0b84")
 		)
 		(pin "1"
-			(uuid "1af0f142-abaa-41dc-a836-6edff41c222b")
+			(uuid "93946ca5-b2ca-4433-a294-edb2949e02ec")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -4636,7 +4905,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "10a8b500-87d2-49fd-ac38-8a0247645afe")
+			(uuid "3ee59efa-53e8-4746-8f9b-dfcd71b5cba4")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -4702,10 +4971,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "35d6772f-06f8-4a13-99de-75c261c3e5a7")
+			(uuid "3d8bea21-3d7d-4eb2-9dd3-a13419ea47a5")
 		)
 		(pin "2"
-			(uuid "772ac5c5-70a3-4a25-a7c4-4fce5e0cbbde")
+			(uuid "77d8efac-5536-4723-aab9-be62607478aa")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -4771,28 +5040,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "0626842e-ce47-407e-91ad-0a2803e2a10e")
+			(uuid "57dbe21b-122a-4518-a8ed-258f5570ecda")
 		)
 		(pin "1"
-			(uuid "1ce157e9-ce7c-4079-96fc-b99d586b5252")
+			(uuid "149b6f66-ff0b-434e-8c3e-f7fbb319cdc0")
 		)
 		(pin "3"
-			(uuid "ea4cd1f1-9d36-441c-9b98-0f360ff5e5f5")
+			(uuid "cdf081dc-c21b-4bd5-b3d5-bc955a4557c3")
 		)
 		(pin "4"
-			(uuid "4f42b87d-8451-4012-afee-e7e764e67cca")
+			(uuid "e2cc136b-0c4f-43d5-94ee-44e235787417")
 		)
 		(pin "8"
-			(uuid "b2a4ede2-d7e9-4161-bbab-a1ac40dccec5")
+			(uuid "8f101f45-1dd4-4e06-8c3e-aded4fdb4784")
 		)
 		(pin "5"
-			(uuid "944d9f40-c725-4f6f-bc8e-118bdf0808b5")
+			(uuid "5c1bd1b5-cdb5-4281-8761-7b57ec24195d")
 		)
 		(pin "7"
-			(uuid "e44de674-e27f-405c-81f6-4a95cf430e75")
+			(uuid "12e65c22-b7ad-4c8d-9f07-8921f0bb2720")
 		)
 		(pin "6"
-			(uuid "fe77f132-045b-4f24-bc55-7a40a6d06d38")
+			(uuid "b02c6083-2b1f-431f-9e81-908a169a32f8")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -4857,7 +5126,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "40d95ca1-6a24-49ca-9b7f-237ebd806aa9")
+			(uuid "0f6c5671-34a6-463c-9f8a-b60e2e6a4675")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -4922,7 +5191,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "6f77090a-7484-47df-9471-63208a0d8bb2")
+			(uuid "d74045ff-a221-4c3b-a83f-daa60ba60af7")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -4988,10 +5257,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "ec88b0b9-3e93-4bbf-a0ee-2098307dca79")
+			(uuid "7e96e919-e440-4243-ba0b-fe112affb90b")
 		)
 		(pin "2"
-			(uuid "76a62f8b-6543-45bc-b9fc-07b673ee0e4c")
+			(uuid "c3cea47f-f27e-4c82-9906-5e73b1c390ba")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5055,16 +5324,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "53b291bf-346f-440e-b134-38285f8cc3ab")
+			(uuid "179d35b0-cc36-4c5b-8fcd-37cf7722ec0e")
 		)
 		(pin "4"
-			(uuid "75a21795-8b91-4b14-803c-e8f239881fee")
+			(uuid "4096c14f-6a6e-47df-bc64-b2735fb3dff2")
 		)
 		(pin "3"
-			(uuid "92daff18-7b59-4635-bdd7-9067a59c8f2e")
+			(uuid "33794754-a0d1-41ec-ba2a-f309e460ee18")
 		)
 		(pin "1"
-			(uuid "b3fde032-492e-4fac-928d-55e01e7236f6")
+			(uuid "4784221a-aa6f-4406-b015-d56658f530db")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5130,10 +5399,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "1f0392a9-1c4b-4482-bb75-06cba24f480b")
+			(uuid "988feec0-3c58-42fe-a04f-10a3e8a9d3f2")
 		)
 		(pin "2"
-			(uuid "801feaca-7605-48c9-a5e5-c3210e72fca0")
+			(uuid "42bc3983-234b-4415-acec-8af93c53b86f")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5197,10 +5466,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "939d0f5f-6201-45f0-a55f-e03539597358")
+			(uuid "2d6c7e58-57b6-4924-a5a7-6975ba34a99b")
 		)
 		(pin "1"
-			(uuid "566321ce-7d89-42a5-b660-ff02b920ac7f")
+			(uuid "d0d4eef2-4462-4d2c-9e4f-f34e05148034")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5264,16 +5533,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "14a09200-fd9e-40bc-95ab-199957416453")
+			(uuid "3f2a8fb3-407d-4bdc-ac76-203e58378af4")
 		)
 		(pin "4"
-			(uuid "1744fb1b-290b-4129-a582-95b0e61e942c")
+			(uuid "bdb0276d-da65-40f3-b2c1-d09973620c1c")
 		)
 		(pin "3"
-			(uuid "3d237bf9-88bf-4d2e-a4c5-70c44050c035")
+			(uuid "2ded442f-b6fb-499d-baf0-fbbd8b35ea44")
 		)
 		(pin "1"
-			(uuid "cf499f2b-51b5-45a7-820d-02f949eb0a54")
+			(uuid "171252ba-fe96-45a8-b68a-2b8c8aaec771")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5339,7 +5608,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f652483a-c649-41c3-adb5-3475fde3d065")
+			(uuid "7fc30d44-afbe-406e-ba6f-a3cb8e9eba01")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5404,7 +5673,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c90434b4-9a63-491d-a13d-7813cca41d7f")
+			(uuid "7efd7911-7d43-4fa9-9fe0-331cf75ce8cb")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5468,16 +5737,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "b815970c-c0f1-4400-b8a1-b30773c15a43")
+			(uuid "86d32b85-2d4e-4d7a-8f2f-b6c4a624a0cd")
 		)
 		(pin "4"
-			(uuid "62fb514a-0982-4438-896b-8e44b3e62f42")
+			(uuid "6e063dec-f683-4a8c-9835-8a1d1b88ceee")
 		)
 		(pin "3"
-			(uuid "6415e363-7d9a-475b-831e-79dbb704a259")
+			(uuid "05ffbb66-4192-4f7a-8165-10bef54df3f5")
 		)
 		(pin "1"
-			(uuid "eeb1d60c-aef3-49c2-81ee-9879b86d4bf1")
+			(uuid "e6c34ae4-2262-47b8-8477-fb847b01543a")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5542,10 +5811,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "3d6e7de8-ca46-45fa-84b9-f5d7ec947954")
+			(uuid "82a87f9c-de64-484d-bcbe-2e4cc75f118c")
 		)
 		(pin "2"
-			(uuid "354a49f7-47a3-4d05-88ac-18c04c1b2687")
+			(uuid "5ad3b0c3-e4c6-4be4-b971-014a18a6249b")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5611,10 +5880,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c7438fde-6722-4285-892f-7efbb079c3aa")
+			(uuid "78333d63-b2e0-49af-ad3e-825bff515961")
 		)
 		(pin "2"
-			(uuid "94a6477a-7156-437f-b07c-df085047a786")
+			(uuid "3918053a-3e3e-4632-a62f-33b7ac3f5dcc")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5680,10 +5949,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "4af63a73-4f14-438a-97aa-b1c998561fb6")
+			(uuid "a3ce1dea-a438-4dd0-904f-90f6f926f748")
 		)
 		(pin "2"
-			(uuid "2db68865-ff8e-4a42-bff3-1e81d648ab75")
+			(uuid "a08a7a9f-9333-4bcd-a92b-974fe2275442")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5749,7 +6018,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "531e755e-6edd-4acc-9a0c-215c4fd7d0ce")
+			(uuid "ce772c45-ec84-4514-b40d-ca1663a78a29")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5813,16 +6082,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "f15d6f94-1da7-4bfa-b8ae-440eeb2e5510")
+			(uuid "a5700f32-5ece-4db4-9094-675c796501fc")
 		)
 		(pin "4"
-			(uuid "ac883271-eeae-4d54-ba99-4a6a08001a5e")
+			(uuid "e2d87ffc-0325-4c4f-b9b3-b7f825536abf")
 		)
 		(pin "3"
-			(uuid "7a86e749-c77d-413f-96e1-8740d537be0a")
+			(uuid "85669750-dc4f-42bf-abe7-ca31160128b7")
 		)
 		(pin "1"
-			(uuid "0e29c266-31d2-4262-ad75-8b168665266a")
+			(uuid "1e285bbd-cc18-42cf-9da5-88a31350ac5b")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5887,7 +6156,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "373933c4-7d70-4188-b671-3096dd759760")
+			(uuid "c9105961-01f8-4460-9b2b-9592fe22d651")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -5951,10 +6220,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "aed7f673-c629-4733-a0ba-de0c855b32f9")
+			(uuid "b19ab631-7788-4475-bf81-59d8854673d5")
 		)
 		(pin "1"
-			(uuid "7cfd7dd2-7619-4e1d-870b-b4cd79931251")
+			(uuid "8b7def77-522d-4c56-9ba7-654bb8dc5927")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6019,10 +6288,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "acb0e550-032e-45fb-b57c-cd7d6a7b2cfb")
+			(uuid "ed35d331-eafe-40d9-931c-9347d17eef73")
 		)
 		(pin "2"
-			(uuid "1401677a-5500-48e2-85ca-68030fca057e")
+			(uuid "17a7668a-e884-4e38-bdbd-4fa1022fed94")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6087,10 +6356,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "d3afbe52-39e9-4d7e-a9f8-2f6dda696762")
+			(uuid "4ac55602-0f28-4b1d-9cca-546dbad095f9")
 		)
 		(pin "2"
-			(uuid "04308125-717a-4b89-9205-22f5e1bd95e1")
+			(uuid "ed907d39-4274-4913-8e6f-34e02cc2bdcf")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6154,10 +6423,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "ba91fa6c-62e8-40f3-b14f-cb4f7f31d479")
+			(uuid "18f4c95f-d5ac-48ed-a1f5-18849ccd6d45")
 		)
 		(pin "1"
-			(uuid "ea843bda-65fe-4edf-8000-c08ab4942c09")
+			(uuid "e4e90999-d6fa-427b-8622-1194f88ed1e6")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6223,10 +6492,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9818b562-a4b7-4ae6-9b35-9155095662ea")
+			(uuid "b3623351-b2a5-4f16-8302-eb4b71e22111")
 		)
 		(pin "2"
-			(uuid "0de0504b-1939-4c81-8578-c446a2769a40")
+			(uuid "96498f8b-94c7-4823-a755-8a9aa2ad6ec3")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6292,7 +6561,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3413f2c0-cf33-4df7-92e5-a1cd528961ff")
+			(uuid "0cd46049-a7d2-4511-aa88-1422dbe074ef")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6357,7 +6626,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "ea181192-1143-4c6b-b7f7-9ec8bfd221d6")
+			(uuid "ebc74a1b-8f37-4936-83cb-0b965092b6c6")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6421,10 +6690,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "4d2705aa-6db4-4fee-b571-98b54c896ce8")
+			(uuid "79e7c7bc-07b9-40d1-9980-b81a2ed8e9a6")
 		)
 		(pin "1"
-			(uuid "4dad59ca-874c-4404-a393-8fcaf41bb652")
+			(uuid "53c84554-92dd-4e6c-a85d-f7c090c9205a")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6488,10 +6757,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "1aa771d2-8f90-440e-a6ab-0a2c329c1121")
+			(uuid "c591db7f-9586-4061-b759-fdc008486e51")
 		)
 		(pin "1"
-			(uuid "f513bd61-8eca-4253-918c-f6efc831822e")
+			(uuid "29c5cb5a-9bb1-428a-81d1-8c93fa47ce85")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6555,16 +6824,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "ba6c8721-6907-4065-91de-d6e8d74498ed")
+			(uuid "ed1a6621-4f48-44f3-ae85-976c8c14acf7")
 		)
 		(pin "4"
-			(uuid "ecbbda5e-884d-42b5-830a-b13a3ed2ed7a")
+			(uuid "f1933a4b-e2fe-428e-a95c-ab7da9b1640a")
 		)
 		(pin "3"
-			(uuid "fcd41ed7-466f-4f2e-afe1-08c454a630d8")
+			(uuid "2cb59e75-bf46-409a-a61c-f5254637c540")
 		)
 		(pin "1"
-			(uuid "c647a169-702c-4422-bf08-ad1c30c032eb")
+			(uuid "78613643-41bf-4b46-90c7-28a2b2052c5b")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6631,10 +6900,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "946a3268-e0ec-4a1c-9cda-b83ac7e35840")
+			(uuid "b2c0a7a4-348a-41f6-8030-3a476072c553")
 		)
 		(pin "2"
-			(uuid "f7eb1a30-b96a-4b22-ba8d-8f6b94ca69b7")
+			(uuid "7ed66242-1424-4842-8252-86cc06456113")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6698,10 +6967,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "781579de-5da9-4ecd-b5f4-7b615c3ddaac")
+			(uuid "01e4f58b-2a81-4c56-9211-080a4baa8f03")
 		)
 		(pin "1"
-			(uuid "5948094c-6dbb-489b-8260-55d47667762a")
+			(uuid "210b06e8-fd58-41bf-b347-98e0e93e37c0")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6768,10 +7037,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "1967a334-c6ee-4f3b-a7de-c91aee52bb68")
+			(uuid "88f9507c-c3d7-437f-8ddc-7ec357bdb43b")
 		)
 		(pin "2"
-			(uuid "d06f8c7a-b8ed-4901-a656-4945f16ce495")
+			(uuid "2b4696d8-3119-4cd4-852c-0956ed0ba843")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6835,10 +7104,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e8a26644-f713-41f7-8511-a7043c396645")
+			(uuid "1e7bbfaf-a2f5-42f5-bdab-62b91968c794")
 		)
 		(pin "1"
-			(uuid "58ab73e1-e0f0-4e13-859c-c69a00676ee5")
+			(uuid "696b8b59-ef16-4e60-8567-5248890754ec")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6904,28 +7173,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "7d9372e7-95a2-4f15-b457-83bd11c85536")
+			(uuid "a8a5075e-30a0-4911-858c-5582d232e699")
 		)
 		(pin "1"
-			(uuid "6d36a613-03fb-4852-b226-89d6f2ad5356")
+			(uuid "e9d740d4-a142-4d1f-a444-40188d3e358a")
 		)
 		(pin "3"
-			(uuid "59c7d055-38db-4f39-942f-2fc52cf1dcdd")
+			(uuid "f53c82f6-6d85-4988-9789-d07a18384847")
 		)
 		(pin "4"
-			(uuid "87873b4c-d2c7-4e11-a88e-2ab4e21c6e30")
+			(uuid "e15e5149-ea59-42b8-b9d5-e357e9304f13")
 		)
 		(pin "8"
-			(uuid "ce452848-ce21-4bad-b8e9-5dbf6bbb2edb")
+			(uuid "3d24c208-b675-4481-9db4-ed342dc65191")
 		)
 		(pin "5"
-			(uuid "3530459d-a3fc-4ef0-a51b-22688d6f2473")
+			(uuid "345aa170-d55b-4060-85db-88f0fcc825a1")
 		)
 		(pin "7"
-			(uuid "142db3c9-2c02-44e8-b340-0a466f5c6e78")
+			(uuid "e75c30c0-b3c5-4ea3-b0c8-22edd9f2d3df")
 		)
 		(pin "6"
-			(uuid "a2a00628-452d-4dbd-b5e2-b381d3294707")
+			(uuid "d5e766ab-1783-4b81-a25d-17cc0284f775")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -6989,10 +7258,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "df7f2aad-00ed-4ea2-9731-c7f7c70d0e74")
+			(uuid "18dd30bf-e150-40a3-91cf-e13a2af3d4d3")
 		)
 		(pin "1"
-			(uuid "82ea6740-5ea7-448e-b886-e038397c5165")
+			(uuid "3e0ef628-1879-4647-b5d6-60d9a44df11f")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7056,10 +7325,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "d02860bc-4177-4789-b564-25a0bf7239cd")
+			(uuid "73202e61-ee01-4c0e-bb51-4b978abadfbc")
 		)
 		(pin "1"
-			(uuid "5bd579b0-4548-48e1-8e21-dd8765cd39c8")
+			(uuid "b13da652-b496-4f3c-ae35-e0225a134f4b")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7124,7 +7393,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1342709a-e4d7-4299-9c2f-68f4e23495b2")
+			(uuid "d661d809-2f75-46f4-b71b-33222ead3b5d")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7190,10 +7459,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "ef31c21b-92d6-4c8e-9cc0-233699c67f4a")
+			(uuid "681b2c28-c961-4525-95f0-846517581ef9")
 		)
 		(pin "2"
-			(uuid "57f16972-f825-4594-874a-2cdf825bdc46")
+			(uuid "73f6f88c-74a1-4914-b010-aad8097dcb8a")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7258,10 +7527,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "6ebaab16-41da-4bba-b878-486305742334")
+			(uuid "d0cb38e4-d200-4a81-b42a-ceef2713d221")
 		)
 		(pin "2"
-			(uuid "18363c1c-e83c-4f52-bfe3-b2ba29368b2b")
+			(uuid "9969d937-09db-4cd3-b003-81e93dfc2233")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7325,10 +7594,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "012ed168-161b-49e9-9660-f584f5dac849")
+			(uuid "e7d3e52f-3509-4b16-a997-9a5a3cc4633f")
 		)
 		(pin "1"
-			(uuid "72be03ea-9363-4d81-9690-ea85c9ff163e")
+			(uuid "487d510a-33ba-4b81-b2ef-6d0c2de124ae")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7394,7 +7663,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "820bd73c-21a8-41b4-8549-22864d0bd103")
+			(uuid "26d0e3c0-9954-45d3-a220-d6504e6284e8")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7460,28 +7729,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "47e2deef-5733-40ec-82a1-47b6d5737d13")
+			(uuid "3cabe61f-4a6c-41fb-9ecd-d1c32dd1fbf2")
 		)
 		(pin "1"
-			(uuid "86b7c1ff-92f5-46ba-8743-1c944be06510")
+			(uuid "59874cab-79fd-4b96-8967-1a9ae80e65db")
 		)
 		(pin "3"
-			(uuid "22234536-0bd0-4da5-a2f2-3815c9db146c")
+			(uuid "95429fa7-aa32-4788-9896-1ec2bbcab86b")
 		)
 		(pin "4"
-			(uuid "4c5a4f7f-d5e3-4cc5-bb52-40ade75a44c9")
+			(uuid "4e5f3d0e-9802-44ef-aeca-03f2945a051f")
 		)
 		(pin "8"
-			(uuid "8b241982-28be-43f4-9c9d-0e608ddb387d")
+			(uuid "f66e4ec2-57c7-4125-a9b7-5eeb38fc1d3b")
 		)
 		(pin "5"
-			(uuid "9634fc41-f58c-4605-8b73-4deee7ff86f8")
+			(uuid "98276949-d208-41f7-9d9d-0d90b13af598")
 		)
 		(pin "7"
-			(uuid "8dc1725a-ede7-4344-b379-47806dd90ae9")
+			(uuid "3a5cd101-c007-4f54-b249-b77fe19d1c6f")
 		)
 		(pin "6"
-			(uuid "d8b56adb-d28b-4046-86c1-f11c5b51f83e")
+			(uuid "617b9252-ee73-4aa6-a843-a1af700725f2")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7545,10 +7814,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "8f9e410c-c5cf-487f-b063-774daabc58b1")
+			(uuid "2947cc82-c0a0-4240-914d-a762cdb8057a")
 		)
 		(pin "1"
-			(uuid "0cfe6f5a-5ce9-4817-8e19-0ca3ad0e4424")
+			(uuid "ccee58fd-a52b-4352-985b-2c66bd175fef")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7615,10 +7884,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "777380e2-c094-48e8-870d-3375dfe09853")
+			(uuid "a4798e95-b1e9-4074-a5b0-846fe70496a1")
 		)
 		(pin "2"
-			(uuid "4ecffaa3-5dea-40b2-ac9c-9ffc936c4201")
+			(uuid "877b3da9-1191-465e-a889-93af9b5532e5")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7682,10 +7951,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "c52b1a82-88cf-4293-99a3-c1df555cd805")
+			(uuid "5bddc9ce-6364-4196-9db3-50bd75c7bb42")
 		)
 		(pin "1"
-			(uuid "fcd457b5-c7b2-4a85-b00b-87030669f590")
+			(uuid "9313bde5-442f-4b39-b819-f319ee003985")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7752,10 +8021,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e477c386-c98b-479f-b71f-a67bd77dc925")
+			(uuid "2eca95de-7db8-48ea-801e-0e6f08197bd3")
 		)
 		(pin "2"
-			(uuid "637f50bd-3864-412d-a9b8-e4493c767466")
+			(uuid "3e6a18d1-2906-4f32-b01f-e172b518b1dd")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7821,28 +8090,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "038c9361-3d55-424c-a48e-f3c90b2c3b39")
+			(uuid "f86141cf-0e4e-46e5-b312-4b3c27faef92")
 		)
 		(pin "1"
-			(uuid "3b11ac17-d3fe-4af8-bf0d-fab32b9c55d9")
+			(uuid "cc890c3f-cf27-4170-9870-a902f71b1a64")
 		)
 		(pin "3"
-			(uuid "d95bd70b-2e06-4a6d-be08-fce65b4e7350")
+			(uuid "a7a1c183-2916-461f-b090-4a9ef4cb1676")
 		)
 		(pin "4"
-			(uuid "9f0e580a-94f0-4962-bff7-73175f46e288")
+			(uuid "872f3337-7d61-415f-8034-340d51da931d")
 		)
 		(pin "8"
-			(uuid "36830254-51b9-4b81-8288-9eca22daecf1")
+			(uuid "edf94c64-daa5-4f87-b748-4f2931bb5a80")
 		)
 		(pin "5"
-			(uuid "4d9cf024-bd6e-4399-9cac-75d023ed1975")
+			(uuid "bb85b72e-d19e-4612-8b0a-4b071420fdde")
 		)
 		(pin "7"
-			(uuid "567cc6f6-d1e1-492b-a2e8-e2facf89667c")
+			(uuid "da489932-2ea4-4e86-8688-051c01ec83e7")
 		)
 		(pin "6"
-			(uuid "55a23818-6744-42bc-9e19-6778885c4027")
+			(uuid "441b92dc-f677-414b-90bc-2fd51c7b1c41")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7907,7 +8176,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "e294b3f7-d108-4280-910c-326bcdf2d46b")
+			(uuid "5a3f73dc-6236-40f0-9bfd-5160b41e4d65")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -7971,10 +8240,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e3313354-82d3-4a6e-aa4b-707b7dcfebab")
+			(uuid "e74f6344-9678-440e-9026-83c0fd1537e4")
 		)
 		(pin "1"
-			(uuid "6059cae3-8ebb-45cb-b868-5ea3d86260a5")
+			(uuid "e58ba1a0-5a9b-4ddc-ad68-47a915d87617")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8038,10 +8307,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "f06a4ad8-c956-4101-b2f5-209c4674ab37")
+			(uuid "5e74310b-fae9-4e89-ad55-d0427169ae31")
 		)
 		(pin "1"
-			(uuid "d98ff6dd-6217-4264-9ca3-c708e32e6c59")
+			(uuid "9e39f13e-4aa7-4ec8-b47f-3c99d02baead")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8107,10 +8376,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "c2e13978-d9d4-41fa-9ab0-199abbf378e4")
+			(uuid "7475ac18-dbb6-4f42-b591-5f66795e4d78")
 		)
 		(pin "2"
-			(uuid "ae6a15d6-9b35-44a6-a2ba-067dcedc5e11")
+			(uuid "e4ef3052-af05-4cf0-a807-110bb104a90d")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8174,16 +8443,16 @@
 			)
 		)
 		(pin "2"
-			(uuid "db511990-ec05-465f-82ec-99f3cab8a792")
+			(uuid "34b5127f-ad71-44cf-b20d-830f050714a7")
 		)
 		(pin "4"
-			(uuid "e3f36bfc-e272-4be9-bcac-4e79bc9cfce6")
+			(uuid "6d7331f5-0776-48f5-b0e6-b6655cf21558")
 		)
 		(pin "3"
-			(uuid "1a5e7f84-c6ff-4fa8-961d-a15224ef33e1")
+			(uuid "018c6c5d-20fe-440a-9a2e-351e9ea6e490")
 		)
 		(pin "1"
-			(uuid "e27cdfe6-67f2-4fd8-94a3-9255e92ae3fc")
+			(uuid "68779621-5d1d-4606-b4e2-374d35492d95")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8249,7 +8518,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7bc72c11-3fea-4a23-bbca-8a082868fba5")
+			(uuid "fbd7b24e-c60e-4073-8e60-3363f9eb466a")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8315,10 +8584,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e7de38ec-3bca-463d-8526-fce95a9926e6")
+			(uuid "b35fdf08-729e-4edf-9663-5c60bd3d36b0")
 		)
 		(pin "2"
-			(uuid "a0d8dc57-7903-4e39-9a22-d7453cae26c8")
+			(uuid "5b454777-4e7a-4643-ad14-2fa66911eff7")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8384,28 +8653,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "2da40896-8374-46f0-8cc1-f6e177e50cf5")
+			(uuid "c9fdbd8c-c57a-47b5-b3a6-609972a25086")
 		)
 		(pin "1"
-			(uuid "236097e8-e214-44b6-abb4-499033c1537b")
+			(uuid "1f40c02d-8e04-4d73-a12f-346c809849b9")
 		)
 		(pin "3"
-			(uuid "8a68708f-09ae-43e1-b1e9-b15ad96ea590")
+			(uuid "dc92f353-01b1-4252-82a7-875ae3c16d81")
 		)
 		(pin "4"
-			(uuid "cff2df4d-24f6-4ea8-a2d1-ee4ddd7dc991")
+			(uuid "1de9d50d-1502-4e92-af53-643ed93f9c9b")
 		)
 		(pin "8"
-			(uuid "24978b26-2eb9-4ccc-9fa0-66c7b611812f")
+			(uuid "1e3136e9-b3f4-410b-8582-ef82c11b9f57")
 		)
 		(pin "5"
-			(uuid "c9467ead-40fe-4ea6-8df1-a7cf33d2e620")
+			(uuid "df7c49c3-0988-4085-9e53-945a04910bf0")
 		)
 		(pin "7"
-			(uuid "075d11c5-ea54-416a-8128-269012d99e7d")
+			(uuid "2e9f5e3a-8047-40f3-8c55-21b51d7f8b34")
 		)
 		(pin "6"
-			(uuid "03c40047-4bac-490e-a569-f7565f21a80c")
+			(uuid "3df0e897-3688-437a-9117-e14f0d8353f3")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8470,7 +8739,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b28a50ac-3fab-47b7-a711-14bd46281349")
+			(uuid "3d4d8c84-f9df-46c0-ac54-fb2854802e83")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8536,10 +8805,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "ac196b57-8ba2-484e-98bb-6872c81343f5")
+			(uuid "2ed213bf-b4ec-40ce-9902-d6fe06874987")
 		)
 		(pin "2"
-			(uuid "3a86843e-d6e0-44b8-97d9-08e7ed7f5f77")
+			(uuid "df286034-b65a-4666-b673-9691f1b0a487")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8605,10 +8874,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "ef69d28b-0cb8-482c-bc9a-80fb53c561d5")
+			(uuid "cbcf6e7b-744d-4a77-9373-794dddfdabc5")
 		)
 		(pin "2"
-			(uuid "8b93b7a8-7676-40c9-a12d-d7d27ccd0b6d")
+			(uuid "c52b0ae0-8411-44e0-8af2-e5916ba291fe")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8674,10 +8943,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "d853976d-4844-46a9-a837-4eb6e0aefa2e")
+			(uuid "35ed0cc4-13ab-4649-afd2-3b35ab32be90")
 		)
 		(pin "2"
-			(uuid "fefa3e68-b3e9-4c64-879a-f38228625c90")
+			(uuid "a529a3ff-4cee-41c8-ab0e-0b47fe3d443a")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8742,10 +9011,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "3caa4059-bc7c-411a-9eb3-9325bef46bb3")
+			(uuid "05a9f7b3-987c-4575-af21-24d6bd7f03dd")
 		)
 		(pin "2"
-			(uuid "c2457f05-d715-4471-957f-6affb79cbc27")
+			(uuid "8bc8d23c-c962-4abe-bab8-187cb69ed82d")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8811,28 +9080,28 @@
 			)
 		)
 		(pin "2"
-			(uuid "4af94c38-1405-4f37-b69e-5fca9719efc9")
+			(uuid "6a642e1c-2293-4a83-b9dd-87dca1ce9fa1")
 		)
 		(pin "1"
-			(uuid "3c488c84-4e73-4604-bd8c-1adc4afae9f6")
+			(uuid "32a6deea-0b30-4ce9-82b5-aeeb840a9f9b")
 		)
 		(pin "3"
-			(uuid "dc9e1013-c587-473a-873e-ee2eb75c390e")
+			(uuid "aaf409c7-c81c-485a-b80b-cd37fe7b9c4d")
 		)
 		(pin "4"
-			(uuid "8aff5a66-85e7-472f-b389-f814bc7806d7")
+			(uuid "5477666b-6c04-4485-94d9-1d1ee511ee04")
 		)
 		(pin "8"
-			(uuid "62f68efe-0787-459c-8b34-26bc0f101a4f")
+			(uuid "61afa0fd-0d33-4948-931a-cfba1ef78631")
 		)
 		(pin "5"
-			(uuid "d262c288-4f9e-4744-998b-1c46682c9280")
+			(uuid "17cdf391-a233-42ae-a281-217420afecb4")
 		)
 		(pin "7"
-			(uuid "08623e8d-f94d-48ef-af1a-f842a63259e9")
+			(uuid "e9983418-e84a-4c84-be2e-c89e08ffadd1")
 		)
 		(pin "6"
-			(uuid "d1e7292a-8c9c-4089-808e-c27fc5d1d41f")
+			(uuid "681233df-6953-4b33-997a-3df07e30edf0")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8896,10 +9165,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "7997e30e-c0cc-4554-8396-9a3b86b0af70")
+			(uuid "ade2ca7b-cc3d-4d0e-b0c4-ba93a3b3feea")
 		)
 		(pin "1"
-			(uuid "49da8ceb-d20b-427b-8570-cf783d6e76be")
+			(uuid "40c572ec-1212-434d-a726-c8d79f4ee16f")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -8966,10 +9235,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "cf939669-7109-45c1-ba31-7c4d62744dd7")
+			(uuid "d827b216-8b0b-4fe8-93bb-511fc361f8c8")
 		)
 		(pin "2"
-			(uuid "157dc557-3b8a-493b-a806-47c7452b4a4c")
+			(uuid "13f7a367-d37f-4699-aa55-3127eba9a1bf")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -9034,7 +9303,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "1ce3adb0-ff6c-4777-a4c6-8fa1de394f1e")
+			(uuid "eb074767-ba2a-47aa-9bd5-0668706f70f3")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -9098,10 +9367,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "0273d3de-109d-4fda-8011-f20be1cac4fb")
+			(uuid "af415818-3495-4c56-89ab-604cbe21340b")
 		)
 		(pin "1"
-			(uuid "0b58491b-3444-4e86-9a5d-2df9879fe267")
+			(uuid "296f0fc2-6c13-498c-8b42-c13748d38c26")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -9166,10 +9435,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "55aedbd2-65d3-4bfe-a0c8-b52d7cd09b92")
+			(uuid "171fcec9-7ac0-4ba6-a2cc-58d2a3657421")
 		)
 		(pin "2"
-			(uuid "8af66ac1-c5ce-4adc-b8ec-903afb353f2d")
+			(uuid "57a3fbb2-67a8-4c44-a7b2-f3bb8e328caa")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -9234,7 +9503,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "052ecd41-aaa1-4982-ad06-77ad46594741")
+			(uuid "c971855c-da58-4c2d-8bf7-09092742607c")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -9299,7 +9568,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "e034cc8a-f101-4726-84cd-c8d0460c0ce9")
+			(uuid "88e73cee-8e02-4547-b077-4d6164ceda50")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -9366,10 +9635,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "99e53200-1e7d-4615-8eff-197febe9387a")
+			(uuid "69f0ca9e-be03-48bf-ac2d-186d809d5e03")
 		)
 		(pin "2"
-			(uuid "f88430c8-cbf0-446a-a8f4-2fd3fa560c4f")
+			(uuid "01381577-9a33-4de5-aba4-7cb742615aff")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -9434,7 +9703,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "07206b86-20f4-45e1-823b-47f8a638fb4d")
+			(uuid "ed912852-2580-495b-88e7-4ab6419fde74")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
@@ -9498,10 +9767,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "3ab8dec6-4824-43d8-9063-7272663407b2")
+			(uuid "935384db-97f7-4a72-aeab-4b348e629248")
 		)
 		(pin "1"
-			(uuid "34a61244-fb17-42d5-a767-b147649801a3")
+			(uuid "02f278ae-14e3-4a7c-9c00-f8cfb6e12998")
 		)
 		(instances
 			(project "Open_STMPLC_IO_V0.1"
