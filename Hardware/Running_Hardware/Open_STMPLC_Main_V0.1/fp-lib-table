@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "EC200CU")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Footprints/EC200CU.pretty")(options "")(descr ""))
+  (lib (name "Simcard_Nano")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Footprints/Simcard_Nano.pretty")(options "")(descr ""))
 )

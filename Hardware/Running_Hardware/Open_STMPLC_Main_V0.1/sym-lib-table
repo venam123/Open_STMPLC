@@ -4,4 +4,5 @@
   (lib (name "Flash_Memory")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Symbols/Flash_Memory.kicad_sym")(options "")(descr ""))
   (lib (name "UCC23153")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Symbols/UCC23153.kicad_sym")(options "")(descr ""))
   (lib (name "TPS1H200A")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Symbols/TPS1H200A.kicad_sym")(options "")(descr ""))
+  (lib (name "Simcard_Nano_SideEntry")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Symbols/Simcard_Nano_SideEntry.kicad_sym")(options "")(descr ""))
 )

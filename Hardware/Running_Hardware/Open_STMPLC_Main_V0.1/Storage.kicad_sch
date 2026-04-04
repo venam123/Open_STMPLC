@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "c3859b60-505b-456e-a2ce-43556aec7435")
 	(paper "A4")
+	(title_block
+		(title "Open_STMPLC_Main")
+		(date "2026-04-04")
+		(rev "0.1")
+	)
 	(lib_symbols
 		(symbol "Connector:Micro_SD_Card"
 			(pin_names

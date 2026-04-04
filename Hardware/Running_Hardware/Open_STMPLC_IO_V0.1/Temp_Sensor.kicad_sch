@@ -5,8 +5,8 @@
 	(uuid "b3b9202c-283c-46f1-bad4-7f02969650b6")
 	(paper "A4")
 	(title_block
-		(title "Open_PLC_IO")
-		(date "2026-04-01")
+		(title "Open_STMPLC_IO")
+		(date "2026-04-04")
 		(rev "0.1")
 	)
 	(lib_symbols
@@ -5722,7 +5722,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
 			(at 146.05 29.718 90)
 			(effects
 				(font
@@ -6256,7 +6256,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
 			(at 144.78 118.618 90)
 			(effects
 				(font
@@ -6525,7 +6525,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal"
 			(at 62.23 49.53 0)
 			(effects
 				(font
@@ -6863,7 +6863,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-4-5.08_1x04_P5.08mm_Horizontal"
 			(at 60.96 138.43 0)
 			(effects
 				(font
@@ -7143,7 +7143,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
 			(at 182.88 87.63 0)
 			(effects
 				(font
@@ -7276,7 +7276,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
 			(at 260.35 66.548 90)
 			(effects
 				(font

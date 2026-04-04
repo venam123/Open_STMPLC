@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "a6c8f6b3-fc0a-421e-acbf-43651994e187")
 	(paper "A4")
+	(title_block
+		(title "Open_STMPLC_Main")
+		(date "2026-04-04")
+		(rev "0.1")
+	)
 	(lib_symbols
 		(symbol "Connector:DE9_Pins"
 			(pin_names
@@ -3284,7 +3289,7 @@
 		(uuid "b8d7da22-6e14-4812-bf12-0f31ce21394f")
 	)
 	(hierarchical_label "RS485_RXD"
-		(shape input)
+		(shape output)
 		(at 111.76 90.17 180)
 		(effects
 			(font

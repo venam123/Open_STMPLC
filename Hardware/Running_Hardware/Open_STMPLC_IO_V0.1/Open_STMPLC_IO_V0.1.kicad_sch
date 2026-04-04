@@ -5,8 +5,8 @@
 	(uuid "4d6787b6-1f4f-4098-b70b-d936e584350b")
 	(paper "A4")
 	(title_block
-		(title "Open_PLC_IO")
-		(date "2026-04-01")
+		(title "Open_STMPLC_IO")
+		(date "2026-04-04")
 		(rev "0.1")
 	)
 	(lib_symbols)
@@ -1181,29 +1181,29 @@
 				(justify left top)
 			)
 		)
-		(pin "DIG_OUT_DIAG_[1..8]" output
-			(at 68.58 175.26 0)
-			(uuid "58aee33d-e9d4-4e71-9f59-bb4fab3c09aa")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "DIG_OUT_[1..8]" output
-			(at 68.58 172.72 0)
-			(uuid "286bcd18-3764-44ce-a58a-3f46aa95861c")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "DIG_OUT_~{FAULT}_[1..8]" output
 			(at 68.58 177.8 0)
 			(uuid "64a0d37f-85cf-4415-9e0a-1bfb47df6c42")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIG_OUT_DIAG_[1..8]" input
+			(at 68.58 175.26 0)
+			(uuid "337eba81-19f7-4b3b-aba5-d7cc899f63ef")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "DIG_OUT_[1..8]" input
+			(at 68.58 172.72 0)
+			(uuid "39a78758-7075-422e-8de7-ff587a4d4759")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1448,26 +1448,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-		(pin "DIG_OUT_DIAG_[1..8]" input
-			(at 113.03 139.7 180)
-			(uuid "ee353567-70d5-44a8-9ffa-c689791ed012")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "DIG_OUT_[1..8]" input
-			(at 113.03 137.16 180)
-			(uuid "47d36bb2-6f62-4e50-a00b-f95d23ca0e25")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 		(pin "DIG_OUT_~{FAULT}_[1..8]" input
@@ -1918,6 +1898,26 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "DIG_OUT_DIAG_[1..8]" output
+			(at 113.03 137.16 180)
+			(uuid "fcaf4976-50ee-46bf-a0d4-e6b2b2617cb1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DIG_OUT_[1..8]" output
+			(at 113.03 139.7 180)
+			(uuid "6daccb04-c10b-4032-ae8c-9068e1dc2e0b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
