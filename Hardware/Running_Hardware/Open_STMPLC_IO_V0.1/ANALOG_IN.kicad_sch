@@ -5673,7 +5673,7 @@
 			(uuid "b08ed1b1-4e72-4490-9f19-c187c89dc766")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/9484d068-112e-4f97-bb8e-f93d2b86f9c0"
 					(reference "U39")
 					(unit 1)
@@ -6111,7 +6111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-3-3.81_1x03_P3.81mm_Horizontal"
 			(at 257.81 113.03 0)
 			(effects
 				(font
@@ -6925,7 +6925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-3-3.81_1x03_P3.81mm_Horizontal"
 			(at 257.81 54.61 0)
 			(effects
 				(font
@@ -9206,7 +9206,7 @@
 			(uuid "30971cc0-085c-44bc-b7d4-1ff2e1795854")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/9484d068-112e-4f97-bb8e-f93d2b86f9c0"
 					(reference "D126")
 					(unit 1)
@@ -9420,7 +9420,7 @@
 			(uuid "41f0df92-e8c3-42a6-9b16-bd649a749f3d")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/9484d068-112e-4f97-bb8e-f93d2b86f9c0"
 					(reference "U40")
 					(unit 1)
@@ -9691,7 +9691,7 @@
 			(uuid "1eee6f3f-7455-43c2-bd30-b64c76db6ff0")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/9484d068-112e-4f97-bb8e-f93d2b86f9c0"
 					(reference "F1")
 					(unit 1)
@@ -9923,7 +9923,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-3-3.81_1x03_P3.81mm_Horizontal"
 			(at 181.61 113.03 0)
 			(effects
 				(font
@@ -10232,7 +10232,7 @@
 			(uuid "3d07136f-6fea-4e57-a0d7-baf956482813")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/9484d068-112e-4f97-bb8e-f93d2b86f9c0"
 					(reference "TP1")
 					(unit 1)
@@ -10949,7 +10949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3-5.08_1x03_P5.08mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-3-3.81_1x03_P3.81mm_Horizontal"
 			(at 181.61 54.61 0)
 			(effects
 				(font
@@ -10986,7 +10986,7 @@
 			(uuid "16a5cd3f-b70e-43c5-8439-bb2137ac7165")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/9484d068-112e-4f97-bb8e-f93d2b86f9c0"
 					(reference "J35")
 					(unit 1)
