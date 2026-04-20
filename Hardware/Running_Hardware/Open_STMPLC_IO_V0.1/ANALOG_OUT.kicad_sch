@@ -1577,30 +1577,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(rectangle
-		(start 149.86 13.97)
-		(end 281.94 162.56)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 0d5153ba-c5fb-4868-96ba-31bd89ae9cda)
-	)
-	(rectangle
-		(start 15.24 13.97)
-		(end 147.32 162.56)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 76c728d7-1291-4167-904b-59a4eda796c5)
-	)
 	(text "ANALOG OUTPUT 2"
 		(exclude_from_sim no)
 		(at 150.876 17.272 0)
@@ -4052,6 +4028,98 @@
 			(justify right)
 		)
 		(uuid "fefcc67a-0d4b-4876-acd9-159d1764f6c5")
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 15.24 13.97) (xy 147.32 13.97) (xy 147.32 162.56) (xy 15.24 162.56)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 39173226-2c86-444c-9b4c-95775a2213f9)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 149.86 13.97) (xy 281.94 13.97) (xy 281.94 162.56) (xy 149.86 162.56)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid d206c15d-f670-4c94-9bac-3b810f0371e2)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 78.74 162.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "74f24e5c-1f59-4a2c-bd04-90e0a5a04135")
+		(property "Netclass" ""
+			(at -240.03 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Component Class" "ANALOG_OUTOUT_1"
+			(at 79.4385 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 213.36 162.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b132038c-0583-4e43-a11d-8dd128eccefc")
+		(property "Netclass" ""
+			(at -105.41 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Component Class" "ANALOG_OUTOUT_2"
+			(at 214.0585 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:GND")
