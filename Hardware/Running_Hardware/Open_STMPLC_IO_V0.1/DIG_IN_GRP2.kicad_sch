@@ -6112,7 +6112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:SMDIP-8_W9.53mm_Clearance8mm"
 			(at 165.1 64.77 0)
 			(effects
 				(font
@@ -8612,7 +8612,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:SMDIP-8_W9.53mm_Clearance8mm"
 			(at 254 64.77 0)
 			(effects
 				(font
@@ -9376,7 +9376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:SMDIP-8_W9.53mm_Clearance8mm"
 			(at 73.66 66.04 0)
 			(effects
 				(font
@@ -9740,7 +9740,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:SMDIP-8_W9.53mm_Clearance8mm"
 			(at 254 139.7 0)
 			(effects
 				(font
@@ -10435,7 +10435,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:SMDIP-8_W9.53mm_Clearance8mm"
 			(at 73.66 140.97 0)
 			(effects
 				(font
@@ -11061,7 +11061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
+		(property "Footprint" "Package_DIP:SMDIP-8_W9.53mm_Clearance8mm"
 			(at 165.1 139.7 0)
 			(effects
 				(font
