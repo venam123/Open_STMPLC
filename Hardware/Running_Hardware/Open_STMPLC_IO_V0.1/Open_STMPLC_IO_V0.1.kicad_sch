@@ -234,16 +234,6 @@
 		)
 		(uuid "253b0a85-98d9-4cc8-a952-b0ea3ddcfabb")
 	)
-	(bus
-		(pts
-			(xy 185.42 49.53) (xy 203.2 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25b77847-c033-417b-8f94-64a3a990b085")
-	)
 	(wire
 		(pts
 			(xy 68.58 105.41) (xy 113.03 105.41)
@@ -394,16 +384,6 @@
 		)
 		(uuid "46cb6aad-7102-4ae3-9bb9-d4a2160e1823")
 	)
-	(bus
-		(pts
-			(xy 185.42 29.21) (xy 203.2 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d2f0bfe-a954-41d0-bb76-5b31555fe7da")
-	)
 	(wire
 		(pts
 			(xy 176.53 83.82) (xy 203.2 83.82)
@@ -426,7 +406,7 @@
 	)
 	(bus
 		(pts
-			(xy 185.42 40.64) (xy 176.53 40.64)
+			(xy 176.53 54.61) (xy 203.2 54.61)
 		)
 		(stroke
 			(width 0)
@@ -496,7 +476,7 @@
 	)
 	(bus
 		(pts
-			(xy 176.53 38.1) (xy 185.42 38.1)
+			(xy 176.53 38.1) (xy 203.2 38.1)
 		)
 		(stroke
 			(width 0)
@@ -563,16 +543,6 @@
 			(type default)
 		)
 		(uuid "7cf77112-a11c-4f02-956e-0350b611d529")
-	)
-	(bus
-		(pts
-			(xy 185.42 38.1) (xy 185.42 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f77e7fc-2161-41f6-929d-16a45d6c3c83")
 	)
 	(wire
 		(pts
@@ -876,16 +846,6 @@
 	)
 	(bus
 		(pts
-			(xy 185.42 49.53) (xy 185.42 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ee7d9f7f-d82f-498c-9e9b-ed88415c4779")
-	)
-	(bus
-		(pts
 			(xy 68.58 175.26) (xy 104.14 175.26)
 		)
 		(stroke
@@ -948,7 +908,7 @@
 			(at 265.43 125.7299 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -957,7 +917,7 @@
 			(at 265.43 128.2699 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1012,7 +972,7 @@
 			(at 265.43 132.0799 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1021,7 +981,7 @@
 			(at 265.43 134.6199 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1076,7 +1036,7 @@
 			(at 265.43 119.3799 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1085,7 +1045,7 @@
 			(at 265.43 121.9199 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1140,7 +1100,7 @@
 			(at 265.43 113.0299 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1149,7 +1109,7 @@
 			(at 265.43 115.5699 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1204,7 +1164,7 @@
 			(at 265.43 138.4299 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1213,7 +1173,7 @@
 			(at 265.43 140.9699 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1348,7 +1308,7 @@
 		)
 	)
 	(sheet
-		(at 203.2 43.18)
+		(at 203.2 48.26)
 		(size 50.8 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1363,7 +1323,7 @@
 		)
 		(uuid "3432b972-975b-4fe5-ae46-1ec04a8ffd10")
 		(property "Sheetname" "DIG_IN_GRP2"
-			(at 203.708 46.99 0)
+			(at 203.708 52.07 0)
 			(effects
 				(font
 					(size 2 2)
@@ -1374,7 +1334,7 @@
 			)
 		)
 		(property "Sheetfile" "DIG_IN_GRP2.kicad_sch"
-			(at 203.708 41.148 0)
+			(at 203.708 46.228 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1383,7 +1343,7 @@
 			)
 		)
 		(pin "DIG_IN_[7..12]" output
-			(at 203.2 49.53 180)
+			(at 203.2 54.61 180)
 			(uuid "1acb4fd5-a367-465a-83a7-8160ebc38e8e")
 			(effects
 				(font
@@ -1705,7 +1665,7 @@
 			)
 		)
 		(pin "DIG_IN_[7..12]" input
-			(at 176.53 40.64 0)
+			(at 176.53 54.61 0)
 			(uuid "eea3d99f-1ecf-45c6-bdd5-7dbaffbccd1b")
 			(effects
 				(font
@@ -2662,7 +2622,7 @@
 		)
 	)
 	(sheet
-		(at 203.2 22.86)
+		(at 203.2 31.75)
 		(size 50.8 8.89)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2677,7 +2637,7 @@
 		)
 		(uuid "f7c9b278-9b22-4afd-8005-63d817d56c8b")
 		(property "Sheetname" "DIG_IN_GRP1"
-			(at 203.708 26.67 0)
+			(at 203.708 35.56 0)
 			(effects
 				(font
 					(size 2 2)
@@ -2688,7 +2648,7 @@
 			)
 		)
 		(property "Sheetfile" "DIG_IN_GRP1.kicad_sch"
-			(at 203.454 20.574 0)
+			(at 203.454 29.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2697,7 +2657,7 @@
 			)
 		)
 		(pin "DIG_IN_[1..6]" output
-			(at 203.2 29.21 180)
+			(at 203.2 38.1 180)
 			(uuid "02be37fe-942e-44d2-8194-2afc09f6f650")
 			(effects
 				(font

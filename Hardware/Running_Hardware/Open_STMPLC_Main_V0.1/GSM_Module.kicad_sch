@@ -12199,7 +12199,7 @@
 			(uuid "e94bc5b4-2ede-4fce-a7ad-64b9dfbeb476")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "#PWR017")
 					(unit 1)
@@ -12658,7 +12658,7 @@
 			(uuid "e9602cae-ca00-461d-838d-645e7390dc43")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "#PWR046")
 					(unit 1)
@@ -13796,7 +13796,7 @@
 			(uuid "565128b6-08d8-4340-a974-e9a74d717617")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "U3")
 					(unit 1)
@@ -15237,7 +15237,7 @@
 			(uuid "565128b6-08d8-4340-a974-e9a74d717618")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "U3")
 					(unit 2)
@@ -16629,7 +16629,7 @@
 			(uuid "882e86a7-7761-4eb6-93eb-89faa0b27717")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "SW1")
 					(unit 1)
