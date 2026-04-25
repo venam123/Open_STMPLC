@@ -4947,6 +4947,96 @@
 		)
 		(uuid "eacbed16-166d-4ea3-b1ed-f4df9c5bb5e0")
 	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 15.24 19.05) (xy 166.37 19.05) (xy 166.37 97.79) (xy 15.24 97.79)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 4d511b0a-96ee-4ec8-a65c-5068a3c2957f)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 15.24 100.33) (xy 166.37 100.33) (xy 166.37 179.07) (xy 15.24 179.07)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid e507f894-1563-4303-baea-c42494922d5c)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 154.94 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ff8048e1-4913-42be-9e26-2f8bd9e209fe")
+		(property "Netclass" ""
+			(at -35.56 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Component Class" "RTD2"
+			(at 152.908 174.752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
+	(netclass_flag ""
+		(length 2.54)
+		(shape round)
+		(at 154.94 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ff8501d5-8a9f-465c-8085-160cd8cf0f08")
+		(property "Netclass" ""
+			(at -35.56 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Component Class" "RTD1"
+			(at 152.908 93.472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Device:R_Small")
 		(at 87.63 139.7 180)
@@ -7117,8 +7207,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 182.88 87.63 0)
-		(mirror y)
+		(at 182.88 90.17 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7126,7 +7215,7 @@
 		(dnp no)
 		(uuid "978d23a9-7f2d-4808-ac03-91587300a1c3")
 		(property "Reference" "J4"
-			(at 184.15 82.042 0)
+			(at 183.642 85.344 0)
 			(effects
 				(font
 					(size 1 1)
@@ -7135,7 +7224,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 195.58 84.074 0)
+			(at 189.23 93.472 0)
 			(effects
 				(font
 					(size 1 1)
@@ -7144,7 +7233,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-2-3.81_1x02_P3.81mm_Horizontal"
-			(at 182.88 87.63 0)
+			(at 182.88 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7153,7 +7242,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 182.88 87.63 0)
+			(at 182.88 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7162,7 +7251,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 182.88 87.63 0)
+			(at 182.88 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)

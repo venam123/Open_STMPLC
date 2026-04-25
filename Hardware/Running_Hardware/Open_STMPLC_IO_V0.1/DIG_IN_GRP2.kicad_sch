@@ -6373,8 +6373,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
-		(at 113.03 182.88 0)
-		(mirror x)
+		(at 113.03 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6382,7 +6381,7 @@
 		(dnp no)
 		(uuid "1c27a959-00b9-4739-92ab-dbf8b92134ba")
 		(property "Reference" "J3"
-			(at 111.76 171.704 0)
+			(at 111.76 191.516 0)
 			(effects
 				(font
 					(size 1 1)
@@ -6391,7 +6390,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x04"
-			(at 93.218 173.99 0)
+			(at 93.218 189.23 0)
 			(effects
 				(font
 					(size 1 1)
@@ -6400,7 +6399,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-4-3.81_1x04_P3.81mm_Horizontal"
-			(at 113.03 182.88 0)
+			(at 113.03 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6409,7 +6408,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.03 182.88 0)
+			(at 113.03 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6418,7 +6417,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 113.03 182.88 0)
+			(at 113.03 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7282,8 +7281,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
-		(at 147.32 182.88 0)
-		(mirror x)
+		(at 147.32 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7291,7 +7289,7 @@
 		(dnp no)
 		(uuid "391a804b-968d-4f01-bd82-43bd343c022b")
 		(property "Reference" "J8"
-			(at 146.05 171.704 0)
+			(at 146.05 191.516 0)
 			(effects
 				(font
 					(size 1 1)
@@ -7300,7 +7298,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x04"
-			(at 127.508 173.99 0)
+			(at 127.508 189.23 0)
 			(effects
 				(font
 					(size 1 1)
@@ -7309,7 +7307,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-4-3.81_1x04_P3.81mm_Horizontal"
-			(at 147.32 182.88 0)
+			(at 147.32 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7318,7 +7316,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 147.32 182.88 0)
+			(at 147.32 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7327,7 +7325,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 147.32 182.88 0)
+			(at 147.32 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
