@@ -1076,6 +1076,144 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Diode:SMF5V0A"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SMF5V0A"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Diode_SMD:D_SMF"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.vishay.com/doc?85881"
+				(at -1.27 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode TVS voltage suppressor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "D*SMF*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SMF5V0A_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy -1.27 1.27) (xy -1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SMF5V0A_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Sensor_Temperature:MAX31856"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2458,6 +2596,12 @@
 		(uuid "0d46fa8c-cbf1-4db2-b6ad-2f515c574486")
 	)
 	(junction
+		(at 52.07 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d8dbd2e-f07c-4f27-a09a-1a0ba401bd15")
+	)
+	(junction
 		(at 71.12 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2474,6 +2618,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1afe00f6-92f9-424a-ac79-e2e41a12b070")
+	)
+	(junction
+		(at 54.61 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "24ba05c4-89df-47ad-bd9b-32fee387dca6")
+	)
+	(junction
+		(at 48.26 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "26891039-1a91-421f-a0b7-05f8d0950c58")
 	)
 	(junction
 		(at 100.33 143.51)
@@ -2494,10 +2650,22 @@
 		(uuid "3269abce-6db3-4a7c-a07a-2c8049bbe65e")
 	)
 	(junction
+		(at 58.42 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32810630-a1f4-4e20-b370-fbf553e7790b")
+	)
+	(junction
 		(at 31.75 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "373f7e80-c72a-4229-b9d2-74b147c44357")
+	)
+	(junction
+		(at 55.88 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d4f85b4-bdef-415a-a9b7-37d3b593d917")
 	)
 	(junction
 		(at 101.6 57.15)
@@ -2510,6 +2678,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "44130249-a60e-4390-bd6e-574753ca2b01")
+	)
+	(junction
+		(at 48.26 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46ca2b33-2a1a-4e89-8d14-fbd1257de670")
 	)
 	(junction
 		(at 130.81 116.84)
@@ -2536,6 +2710,12 @@
 		(uuid "6aa174c7-2371-4511-8f5a-1e99a880c800")
 	)
 	(junction
+		(at 46.99 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6ac2a29b-aa8d-482d-a36b-3994ada39842")
+	)
+	(junction
 		(at 30.48 161.29)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2554,6 +2734,12 @@
 		(uuid "792162cd-091f-409b-9363-e3c1407bfb5d")
 	)
 	(junction
+		(at 55.88 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7d57ff55-495d-460b-be70-2f6ff743f622")
+	)
+	(junction
 		(at 138.43 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2566,16 +2752,34 @@
 		(uuid "86c9e68c-4b28-49cc-ae1c-87b51b895868")
 	)
 	(junction
+		(at 54.61 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b864d28-26bf-4911-bfa1-3154af4b1b19")
+	)
+	(junction
 		(at 69.85 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "92adebf7-f44d-4418-9eb6-83e9f7654942")
 	)
 	(junction
+		(at 50.8 127)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "967b8b71-2f7d-4a10-b30b-20b223524c98")
+	)
+	(junction
 		(at 124.46 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9a944fd6-83d6-46d5-9c7f-5e234e6cd463")
+	)
+	(junction
+		(at 52.07 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9bdd1923-d3d2-44ae-8ae9-4aee0242e150")
 	)
 	(junction
 		(at 132.08 27.94)
@@ -2606,6 +2810,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6552790-95c1-43cd-806c-05de62ac19aa")
+	)
+	(junction
+		(at 46.99 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9a2ae94-e74c-4454-900a-65b0e6900989")
 	)
 	(junction
 		(at 118.11 170.18)
@@ -2680,6 +2890,12 @@
 		(uuid "dcbfdb45-0f8b-47bd-9a52-d69c0c3b7d68")
 	)
 	(junction
+		(at 59.69 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de06107f-4986-4765-b184-8b8298ef59b9")
+	)
+	(junction
 		(at 238.76 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2690,6 +2906,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e1d9d78c-0da9-4560-a2d0-4c748365623f")
+	)
+	(junction
+		(at 50.8 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e560d422-1d01-479f-91d1-27cbc1d4a1c4")
 	)
 	(junction
 		(at 238.76 73.66)
@@ -2773,6 +2995,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 38.1) (xy 72.39 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0817ed3e-21aa-4c98-ab19-f0ab60248d67")
+	)
+	(wire
+		(pts
 			(xy 233.68 73.66) (xy 238.76 73.66)
 		)
 		(stroke
@@ -2783,7 +3015,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 44.45) (xy 77.47 83.82)
+			(xy 77.47 33.02) (xy 77.47 83.82)
 		)
 		(stroke
 			(width 0)
@@ -2793,7 +3025,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 52.07) (xy 69.85 62.23)
+			(xy 69.85 40.64) (xy 69.85 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2830,6 +3062,16 @@
 			(type default)
 		)
 		(uuid "0cc0818e-862f-49b2-aeb6-5cf03e58eda9")
+	)
+	(wire
+		(pts
+			(xy 48.26 40.64) (xy 48.26 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cf1acc3-396e-4f16-abb3-f8db59f49bb2")
 	)
 	(wire
 		(pts
@@ -2873,7 +3115,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 140.97) (xy 68.58 140.97)
+			(xy 44.45 129.54) (xy 46.99 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2890,6 +3132,16 @@
 			(type default)
 		)
 		(uuid "1681c37c-9086-41ff-a43e-885c25b6e635")
+	)
+	(wire
+		(pts
+			(xy 58.42 132.08) (xy 58.42 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17f5c00e-225f-496d-ae64-16b9627f66a9")
 	)
 	(wire
 		(pts
@@ -2923,6 +3175,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 50.8) (xy 52.07 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ca32034-cdff-4d3c-986c-3e2fee69fcd5")
+	)
+	(wire
+		(pts
 			(xy 88.9 48.26) (xy 88.9 46.99)
 		)
 		(stroke
@@ -2933,7 +3195,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 138.43) (xy 71.12 156.21)
+			(xy 71.12 127) (xy 71.12 156.21)
 		)
 		(stroke
 			(width 0)
@@ -2953,6 +3215,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 54.61) (xy 55.88 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f431a3d-952b-4fe3-8d6a-5c270ecaf10b")
+	)
+	(wire
+		(pts
 			(xy 36.83 67.31) (xy 36.83 59.69)
 		)
 		(stroke
@@ -2960,6 +3232,16 @@
 			(type default)
 		)
 		(uuid "22d5a079-f8ab-4195-9321-458b7884006b")
+	)
+	(wire
+		(pts
+			(xy 54.61 124.46) (xy 54.61 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23e7a2fe-9c09-4be2-874a-b3830fd17186")
 	)
 	(wire
 		(pts
@@ -3033,7 +3315,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 49.53) (xy 72.39 67.31)
+			(xy 72.39 38.1) (xy 72.39 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3093,7 +3375,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 52.07) (xy 69.85 52.07)
+			(xy 45.72 40.64) (xy 48.26 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3243,6 +3525,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 129.54) (xy 68.58 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3da0edc6-592d-4e09-bce5-8b3e5c63cb68")
+	)
+	(wire
+		(pts
 			(xy 190.5 85.09) (xy 195.58 85.09)
 		)
 		(stroke
@@ -3330,6 +3622,16 @@
 			(type default)
 		)
 		(uuid "4454515d-c786-4494-a89e-6d7221b9e5a9")
+	)
+	(wire
+		(pts
+			(xy 59.69 50.8) (xy 59.69 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4480299d-ff0b-4734-8873-4b65496ffbac")
 	)
 	(wire
 		(pts
@@ -3433,6 +3735,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 139.7) (xy 58.42 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d91691b-036d-412a-aaba-a3058fde5397")
+	)
+	(wire
+		(pts
 			(xy 87.63 143.51) (xy 100.33 143.51)
 		)
 		(stroke
@@ -3453,7 +3765,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 44.45) (xy 77.47 44.45)
+			(xy 45.72 33.02) (xy 59.69 33.02)
 		)
 		(stroke
 			(width 0)
@@ -3503,6 +3815,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 127) (xy 50.8 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "578dd67d-64e5-4217-8fe9-ed11fd8cf084")
+	)
+	(wire
+		(pts
 			(xy 25.4 72.39) (xy 31.75 72.39)
 		)
 		(stroke
@@ -3533,7 +3855,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 49.53) (xy 72.39 49.53)
+			(xy 45.72 38.1) (xy 52.07 38.1)
 		)
 		(stroke
 			(width 0)
@@ -3563,7 +3885,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 133.35) (xy 76.2 172.72)
+			(xy 76.2 121.92) (xy 76.2 172.72)
 		)
 		(stroke
 			(width 0)
@@ -3573,7 +3895,17 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 138.43) (xy 71.12 138.43)
+			(xy 50.8 127) (xy 71.12 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f2aa90c-63cf-4dc1-9fca-a7b4547be36d")
+	)
+	(wire
+		(pts
+			(xy 44.45 127) (xy 50.8 127)
 		)
 		(stroke
 			(width 0)
@@ -3613,6 +3945,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 143.51) (xy 46.99 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6467d0e8-805e-49cc-b465-11732fea4432")
+	)
+	(wire
+		(pts
 			(xy 252.73 64.77) (xy 252.73 66.04)
 		)
 		(stroke
@@ -3643,6 +3985,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 54.61) (xy 48.26 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "671e8096-87e1-495d-8996-e5132bb8ffa7")
+	)
+	(wire
+		(pts
 			(xy 24.13 148.59) (xy 30.48 148.59)
 		)
 		(stroke
@@ -3663,6 +4015,26 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 35.56) (xy 55.88 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "693c2f3e-0ba0-4c29-b5be-c06b2c7079df")
+	)
+	(wire
+		(pts
+			(xy 59.69 33.02) (xy 77.47 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69a42bbf-e750-4d5b-9b1c-c12f3605f61e")
+	)
+	(wire
+		(pts
 			(xy 25.4 68.58) (xy 25.4 72.39)
 		)
 		(stroke
@@ -3670,6 +4042,26 @@
 			(type default)
 		)
 		(uuid "6c2829fd-c09f-4431-acf2-d72d0ccc0079")
+	)
+	(wire
+		(pts
+			(xy 50.8 139.7) (xy 50.8 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ccd7617-c41a-47bf-a1e5-45d32fd6e23b")
+	)
+	(wire
+		(pts
+			(xy 58.42 121.92) (xy 76.2 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e241bbc-156d-43d0-91b6-33471da4423a")
 	)
 	(wire
 		(pts
@@ -3733,6 +4125,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 40.64) (xy 69.85 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72daf4c6-8cae-40f0-97f2-81d9f6e7ea6b")
+	)
+	(wire
+		(pts
 			(xy 74.93 72.39) (xy 106.68 72.39)
 		)
 		(stroke
@@ -3743,7 +4145,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 140.97) (xy 68.58 151.13)
+			(xy 68.58 129.54) (xy 68.58 151.13)
 		)
 		(stroke
 			(width 0)
@@ -3763,7 +4165,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 135.89) (xy 73.66 161.29)
+			(xy 73.66 124.46) (xy 73.66 161.29)
 		)
 		(stroke
 			(width 0)
@@ -3790,6 +4192,16 @@
 			(type default)
 		)
 		(uuid "7b344c48-f88e-4cff-aa03-90892fe0ce09")
+	)
+	(wire
+		(pts
+			(xy 54.61 139.7) (xy 54.61 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b75d8f0-e481-426a-b0b2-cd8134fec2b9")
 	)
 	(wire
 		(pts
@@ -3873,6 +4285,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 139.7) (xy 46.99 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "835dc207-a0de-4d0f-9f93-99ab2915cc8c")
+	)
+	(wire
+		(pts
 			(xy 35.56 156.21) (xy 35.56 148.59)
 		)
 		(stroke
@@ -3913,6 +4335,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 129.54) (xy 46.99 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b6133a5-eddf-469a-8b5e-0f86c1538055")
+	)
+	(wire
+		(pts
 			(xy 62.23 62.23) (xy 69.85 62.23)
 		)
 		(stroke
@@ -3920,6 +4352,16 @@
 			(type default)
 		)
 		(uuid "8c02ffa3-0ce6-432f-9d32-1550d8714d65")
+	)
+	(wire
+		(pts
+			(xy 52.07 38.1) (xy 52.07 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cb62379-d57c-4eef-8916-2a35fa913dbf")
 	)
 	(wire
 		(pts
@@ -3983,6 +4425,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 50.8) (xy 55.88 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95986600-a648-44b9-975b-94defdd7a31a")
+	)
+	(wire
+		(pts
 			(xy 52.07 64.77) (xy 53.34 64.77)
 		)
 		(stroke
@@ -3993,7 +4445,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 133.35) (xy 76.2 133.35)
+			(xy 44.45 121.92) (xy 58.42 121.92)
 		)
 		(stroke
 			(width 0)
@@ -4023,7 +4475,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 46.99) (xy 74.93 72.39)
+			(xy 74.93 35.56) (xy 74.93 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4263,6 +4715,16 @@
 	)
 	(wire
 		(pts
+			(xy 48.26 50.8) (xy 48.26 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0d9c398-b743-4e65-a6e7-c1d7a6f808ec")
+	)
+	(wire
+		(pts
 			(xy 207.01 92.71) (xy 212.09 92.71)
 		)
 		(stroke
@@ -4290,6 +4752,16 @@
 			(type default)
 		)
 		(uuid "b54b1052-66be-4a00-9dce-1967af1f836e")
+	)
+	(wire
+		(pts
+			(xy 55.88 35.56) (xy 74.93 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b96299ab-a274-4856-8f1e-c19aa9b3d92c")
 	)
 	(wire
 		(pts
@@ -4403,7 +4875,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 46.99) (xy 74.93 46.99)
+			(xy 45.72 35.56) (xy 55.88 35.56)
 		)
 		(stroke
 			(width 0)
@@ -4443,6 +4915,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 124.46) (xy 73.66 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cff2f0e8-eff3-4d04-bcef-1326dcc901e7")
+	)
+	(wire
+		(pts
 			(xy 137.16 52.07) (xy 142.24 52.07)
 		)
 		(stroke
@@ -4473,6 +4955,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 143.51) (xy 46.99 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5ce89f4-51be-46b8-a09d-eeb3cca372f9")
+	)
+	(wire
+		(pts
 			(xy 72.39 67.31) (xy 101.6 67.31)
 		)
 		(stroke
@@ -4493,6 +4985,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 54.61) (xy 59.69 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7af569b-b2bf-40cf-a926-92a047bc81c2")
+	)
+	(wire
+		(pts
 			(xy 123.19 130.81) (xy 123.19 127)
 		)
 		(stroke
@@ -4510,6 +5012,16 @@
 			(type default)
 		)
 		(uuid "d8ef1246-af39-4bd4-8460-fe318b8165f4")
+	)
+	(wire
+		(pts
+			(xy 59.69 43.18) (xy 59.69 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da29c9d2-5b3e-43fe-880a-dd327e55cf39")
 	)
 	(wire
 		(pts
@@ -4623,6 +5135,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 143.51) (xy 54.61 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7c2d51e-9a9c-40f1-b875-cb4f6558e1b8")
+	)
+	(wire
+		(pts
 			(xy 215.9 85.09) (xy 212.09 85.09)
 		)
 		(stroke
@@ -4630,6 +5152,16 @@
 			(type default)
 		)
 		(uuid "eabfb9d6-24c2-4fda-9ef6-d1d342a87a87")
+	)
+	(wire
+		(pts
+			(xy 52.07 54.61) (xy 48.26 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed54a30e-22c0-4e9f-b0cf-9d4df1b0b5ee")
 	)
 	(wire
 		(pts
@@ -4693,6 +5225,16 @@
 	)
 	(wire
 		(pts
+			(xy 54.61 143.51) (xy 58.42 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f97971fd-902c-4217-b9e8-3ae1d71ff631")
+	)
+	(wire
+		(pts
 			(xy 88.9 46.99) (xy 101.6 46.99)
 		)
 		(stroke
@@ -4743,7 +5285,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 135.89) (xy 73.66 135.89)
+			(xy 44.45 124.46) (xy 54.61 124.46)
 		)
 		(stroke
 			(width 0)
@@ -5304,6 +5846,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:SMF5V0A")
+		(at 50.8 135.89 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "12f5b3c3-9181-404e-9d33-1a5192873a4b")
+		(property "Reference" "D97"
+			(at 49.784 131.318 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMF5V0A"
+			(at 49.022 136.906 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMF"
+			(at 45.72 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?85881"
+			(at 50.8 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 50.8 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "40cd50ea-22c2-4cdb-a12c-e608fe7aad20")
+		)
+		(pin "1"
+			(uuid "566c8d4a-e2c6-4ba9-aaa1-a3ffef47c6a5")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
+					(reference "D97")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 31.75 66.04 0)
 		(mirror y)
@@ -5647,6 +6258,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:SMF5V0A")
+		(at 58.42 135.89 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "26fa9d2c-fa9b-4717-9a0e-d45803dfbd08")
+		(property "Reference" "D99"
+			(at 57.404 131.318 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMF5V0A"
+			(at 56.642 136.906 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMF"
+			(at 53.34 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?85881"
+			(at 58.42 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 58.42 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3a4746d9-a82d-4d3b-8319-275fa868b3b3")
+		)
+		(pin "1"
+			(uuid "2b760eab-b96a-4b92-b56a-4b8d85ef979c")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
+					(reference "D99")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 212.09 88.9 0)
 		(mirror y)
@@ -5781,6 +6461,75 @@
 			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
 					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:SMF5V0A")
+		(at 54.61 135.89 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2b2579b6-3db5-48b7-a31e-3d0922ad5d04")
+		(property "Reference" "D98"
+			(at 53.594 131.318 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMF5V0A"
+			(at 52.832 136.906 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMF"
+			(at 49.53 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?85881"
+			(at 54.61 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 54.61 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4f0c0c75-9879-4c5a-91fe-b648e35be768")
+		)
+		(pin "1"
+			(uuid "a1380bc0-ddef-4a42-8fb8-e9b943f7f39e")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
+					(reference "D98")
 					(unit 1)
 				)
 			)
@@ -6321,6 +7070,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 46.99 144.78 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4d342bb6-a8fb-4573-b0bb-0fd40173cbab")
+		(property "Reference" "#PWR0150"
+			(at 46.99 151.13 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 47.117 148.717 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 46.99 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 46.99 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "05ed0abb-09e5-4b71-9991-9a073dcd05ec")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
+					(reference "#PWR0150")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:FerriteBead_Small")
 		(at 144.78 116.84 90)
 		(unit 1)
@@ -6383,6 +7198,144 @@
 			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
 					(reference "FB3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:SMF5V0A")
+		(at 46.99 135.89 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "54463931-ca64-4a7a-bfb4-751c5370cf74")
+		(property "Reference" "D96"
+			(at 45.974 131.318 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMF5V0A"
+			(at 45.212 136.906 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMF"
+			(at 41.91 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?85881"
+			(at 46.99 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 46.99 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "633d28f7-27b7-4e5c-ad73-af92e8be2e7a")
+		)
+		(pin "1"
+			(uuid "b8e8c522-162b-4175-ba7b-4299eca06973")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
+					(reference "D96")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:SMF5V0A")
+		(at 59.69 46.99 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "54cb5c5f-d1d9-4e1e-9f9a-2b362cef27f4")
+		(property "Reference" "D95"
+			(at 58.674 42.418 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMF5V0A"
+			(at 57.912 48.006 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMF"
+			(at 54.61 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?85881"
+			(at 59.69 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 59.69 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "39a89e0e-5bca-4d29-8ca9-d16ced33c199")
+		)
+		(pin "1"
+			(uuid "4380dc0b-b34b-4642-96c4-86881207fddd")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
+					(reference "D95")
 					(unit 1)
 				)
 			)
@@ -6521,6 +7474,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:SMF5V0A")
+		(at 55.88 46.99 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65641db5-93c4-44f5-aa9b-a3939b0cb634")
+		(property "Reference" "D94"
+			(at 54.864 42.418 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMF5V0A"
+			(at 54.102 48.006 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMF"
+			(at 50.8 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?85881"
+			(at 55.88 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 55.88 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ba470869-4d90-44e3-997d-960adc0c3d8f")
+		)
+		(pin "1"
+			(uuid "80bf96c3-3714-4e3c-8a9a-5a4789bf5faf")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
+					(reference "D94")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 130.81 120.65 0)
 		(mirror y)
@@ -6592,7 +7614,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
-		(at 62.23 49.53 180)
+		(at 40.64 38.1 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6600,7 +7622,7 @@
 		(dnp no)
 		(uuid "86e280ee-aa93-4181-89f6-cb002e6672a2")
 		(property "Reference" "J5"
-			(at 49.276 45.974 0)
+			(at 27.686 34.544 0)
 			(effects
 				(font
 					(size 1 1)
@@ -6608,7 +7630,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x04"
-			(at 49.276 48.514 0)
+			(at 27.686 37.084 0)
 			(effects
 				(font
 					(size 1 1)
@@ -6616,7 +7638,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-4-3.81_1x04_P3.81mm_Horizontal"
-			(at 62.23 49.53 0)
+			(at 40.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6625,7 +7647,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 49.53 0)
+			(at 40.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6634,7 +7656,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 62.23 49.53 0)
+			(at 40.64 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6930,7 +7952,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
-		(at 60.96 138.43 180)
+		(at 39.37 127 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6938,7 +7960,7 @@
 		(dnp no)
 		(uuid "91e0ef04-5f7d-4614-a7c1-ec7fff3ecd22")
 		(property "Reference" "J40"
-			(at 48.006 134.874 0)
+			(at 26.416 123.444 0)
 			(effects
 				(font
 					(size 1 1)
@@ -6946,7 +7968,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x04"
-			(at 48.006 137.414 0)
+			(at 26.416 125.984 0)
 			(effects
 				(font
 					(size 1 1)
@@ -6954,7 +7976,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-4-3.81_1x04_P3.81mm_Horizontal"
-			(at 60.96 138.43 0)
+			(at 39.37 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6963,7 +7985,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 138.43 0)
+			(at 39.37 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6972,7 +7994,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 60.96 138.43 0)
+			(at 39.37 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7063,6 +8085,75 @@
 			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
 					(reference "R28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:SMF5V0A")
+		(at 52.07 46.99 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "957aaaa3-0875-41ac-9b50-cbb27056f696")
+		(property "Reference" "D93"
+			(at 51.054 42.418 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMF5V0A"
+			(at 50.292 48.006 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMF"
+			(at 46.99 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?85881"
+			(at 52.07 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 52.07 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "167aec5b-e76b-4210-8d90-9f6719fb8ec8")
+		)
+		(pin "1"
+			(uuid "44e69908-f7e7-475f-85f2-c5dde882817a")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
+					(reference "D93")
 					(unit 1)
 				)
 			)
@@ -8588,6 +9679,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Diode:SMF5V0A")
+		(at 48.26 46.99 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e3907237-e56f-4cde-97ea-3fa93c501840")
+		(property "Reference" "D92"
+			(at 47.244 42.418 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SMF5V0A"
+			(at 46.482 48.006 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SMF"
+			(at 43.18 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/doc?85881"
+			(at 48.26 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 48.26 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a2a1d617-df43-4e0a-a760-37971c78f924")
+		)
+		(pin "1"
+			(uuid "c8641168-7e39-4c2b-b949-3ffa186c6d12")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
+					(reference "D92")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 138.43 31.75 0)
 		(mirror y)
@@ -8652,6 +9812,72 @@
 			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
 					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 48.26 55.88 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fd140034-e531-41ef-bef3-4c51c9fad1c8")
+		(property "Reference" "#PWR0149"
+			(at 48.26 62.23 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 48.387 59.817 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 48.26 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "69d4e750-cffe-48f0-9bc9-309848d4ec19")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c578cb66-fdf8-4281-9d22-afb8b8874264"
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)

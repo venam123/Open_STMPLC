@@ -188,6 +188,7 @@
       ],
       "track_widths": [
         0.0,
+        0.254,
         0.3,
         0.4,
         0.5,
@@ -226,6 +227,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
         },
         {
           "diameter": 0.7,
@@ -514,7 +519,7 @@
       "plot": "D:/Github/Open_STMPLC/Hardware/Running_Hardware/Open_STMPLC_IO_V0.1/DXF_Plot/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Open_STMPLC_IO_V0.1.step",
       "svg": "",
       "vrml": ""
     },

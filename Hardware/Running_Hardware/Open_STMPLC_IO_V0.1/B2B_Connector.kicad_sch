@@ -9362,7 +9362,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 153.67 34.29 0)
+		(at 143.51 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9370,7 +9370,7 @@
 		(dnp no)
 		(uuid "a8fb62ba-8736-4ec8-82f3-4f9c6b6fe017")
 		(property "Reference" "C48"
-			(at 154.178 32.512 0)
+			(at 144.018 32.512 0)
 			(effects
 				(font
 					(size 1 1)
@@ -9379,7 +9379,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 153.924 36.068 0)
+			(at 143.764 36.068 0)
 			(effects
 				(font
 					(size 1 1)
@@ -9388,7 +9388,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 153.67 34.29 0)
+			(at 143.51 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9397,7 +9397,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 153.67 34.29 0)
+			(at 143.51 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9406,7 +9406,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 153.67 34.29 0)
+			(at 143.51 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9447,7 +9447,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470uF/50V"
+		(property "Value" "220uF/50V"
 			(at 135.636 39.37 90)
 			(effects
 				(font
@@ -9456,7 +9456,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10.5"
 			(at 138.43 34.29 0)
 			(effects
 				(font
@@ -10309,7 +10309,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 143.51 34.29 0)
+		(at 153.67 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10317,7 +10317,7 @@
 		(dnp no)
 		(uuid "e841f184-01db-4fcd-b6c5-f12fecf103de")
 		(property "Reference" "C46"
-			(at 144.018 32.512 0)
+			(at 154.178 32.512 0)
 			(effects
 				(font
 					(size 1 1)
@@ -10326,7 +10326,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 143.764 36.068 0)
+			(at 153.924 36.068 0)
 			(effects
 				(font
 					(size 1 1)
@@ -10335,7 +10335,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
-			(at 143.51 34.29 0)
+			(at 153.67 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10344,7 +10344,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 143.51 34.29 0)
+			(at 153.67 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10353,7 +10353,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 143.51 34.29 0)
+			(at 153.67 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)

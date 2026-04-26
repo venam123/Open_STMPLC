@@ -6268,7 +6268,6 @@
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
 		(at 257.81 113.03 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6276,7 +6275,7 @@
 		(dnp no)
 		(uuid "154712ce-5e73-4ab3-9cfc-d747c5bdba1b")
 		(property "Reference" "J38"
-			(at 257.81 104.902 0)
+			(at 257.81 121.158 0)
 			(effects
 				(font
 					(size 1 1)
@@ -6284,7 +6283,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x03"
-			(at 261.366 107.188 0)
+			(at 261.366 118.872 0)
 			(effects
 				(font
 					(size 1 1)
@@ -7082,7 +7081,6 @@
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
 		(at 257.81 54.61 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7090,7 +7088,7 @@
 		(dnp no)
 		(uuid "37a5cc11-0a16-4d17-b483-93bd9f9b7b20")
 		(property "Reference" "J36"
-			(at 257.81 46.482 0)
+			(at 257.81 62.738 0)
 			(effects
 				(font
 					(size 1 1)
@@ -7098,7 +7096,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x03"
-			(at 261.366 48.768 0)
+			(at 261.366 60.452 0)
 			(effects
 				(font
 					(size 1 1)
@@ -10080,7 +10078,6 @@
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
 		(at 181.61 113.03 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10088,7 +10085,7 @@
 		(dnp no)
 		(uuid "b378066a-1e8a-4786-871e-2c21d9b1681f")
 		(property "Reference" "J37"
-			(at 181.61 104.902 0)
+			(at 181.61 121.158 0)
 			(effects
 				(font
 					(size 1 1)
@@ -10096,7 +10093,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x03"
-			(at 185.166 107.188 0)
+			(at 185.166 118.872 0)
 			(effects
 				(font
 					(size 1 1)
@@ -11106,7 +11103,6 @@
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
 		(at 181.61 54.61 0)
-		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11114,7 +11110,7 @@
 		(dnp no)
 		(uuid "d903fc1e-973a-4d36-a139-2800f337cefa")
 		(property "Reference" "J35"
-			(at 181.61 46.482 0)
+			(at 181.61 62.738 0)
 			(effects
 				(font
 					(size 1 1)
@@ -11122,7 +11118,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x03"
-			(at 185.166 48.768 0)
+			(at 185.166 60.452 0)
 			(effects
 				(font
 					(size 1 1)
