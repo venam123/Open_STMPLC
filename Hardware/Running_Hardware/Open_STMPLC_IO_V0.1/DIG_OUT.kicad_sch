@@ -7488,7 +7488,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
+		(property "Footprint" "TPS1H200A:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
 			(at 76.2 104.14 0)
 			(effects
 				(font
@@ -9686,7 +9686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
+		(property "Footprint" "TPS1H200A:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
 			(at 76.2 140.97 0)
 			(effects
 				(font
@@ -13038,7 +13038,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
+		(property "Footprint" "TPS1H200A:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
 			(at 217.17 67.31 0)
 			(effects
 				(font
@@ -14698,7 +14698,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
+		(property "Footprint" "TPS1H200A:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
 			(at 217.17 30.48 0)
 			(effects
 				(font
@@ -16129,7 +16129,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
+		(property "Footprint" "TPS1H200A:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
 			(at 76.2 30.48 0)
 			(effects
 				(font
@@ -16487,7 +16487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
+		(property "Footprint" "TPS1H200A:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
 			(at 76.2 67.31 0)
 			(effects
 				(font
@@ -17591,7 +17591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
+		(property "Footprint" "TPS1H200A:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
 			(at 217.17 104.14 0)
 			(effects
 				(font
@@ -18479,7 +18479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
+		(property "Footprint" "TPS1H200A:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias"
 			(at 217.17 140.97 0)
 			(effects
 				(font

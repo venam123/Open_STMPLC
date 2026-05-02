@@ -4265,7 +4265,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 134.62 82.55 0)
+		(at 134.62 85.09 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4273,7 +4274,7 @@
 		(dnp no)
 		(uuid "0a4b7468-5f37-4213-ba5b-8a42f5bbdd41")
 		(property "Reference" "J33"
-			(at 132.588 77.216 0)
+			(at 133.096 80.264 0)
 			(effects
 				(font
 					(size 1 1)
@@ -4282,7 +4283,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 127.508 78.994 0)
+			(at 128.016 78.486 0)
 			(effects
 				(font
 					(size 1 1)
@@ -4291,7 +4292,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-2-3.81_1x02_P3.81mm_Horizontal"
-			(at 134.62 82.55 0)
+			(at 134.62 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4300,7 +4301,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 82.55 0)
+			(at 134.62 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4309,7 +4310,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 134.62 82.55 0)
+			(at 134.62 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8067,6 +8068,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 267.97 85.09 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d42b9066-cb1b-4d8d-90da-305c0ff89084")
+		(property "Reference" "J34"
+			(at 266.446 80.264 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 261.366 78.486 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-2-3.81_1x02_P3.81mm_Horizontal"
+			(at 267.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 267.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 267.97 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c500414-a5f5-4364-a6a6-df5d5df71e6e")
+		)
+		(pin "2"
+			(uuid "49bd8901-d1f1-4eb5-8937-e2b23cb46021")
+		)
+		(instances
+			(project "Open_STMPLC_IO_V0.1"
+				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c9298d57-d356-4e79-8731-9f1e067c5c34"
+					(reference "J34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 105.41 105.41 90)
 		(unit 1)
@@ -8603,75 +8674,6 @@
 			(project "Open_STMPLC_IO_V0.1"
 				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c9298d57-d356-4e79-8731-9f1e067c5c34"
 					(reference "R180")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 267.97 82.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f4a41732-2f91-4c65-b8c1-284c17ee151a")
-		(property "Reference" "J34"
-			(at 265.938 77.216 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 260.858 78.994 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-2-3.81_1x02_P3.81mm_Horizontal"
-			(at 267.97 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 267.97 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 267.97 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3c3a1bae-c408-4d7f-9431-342af485e6cd")
-		)
-		(pin "2"
-			(uuid "625b6138-1513-4c8c-b098-7a1e7b65b4cb")
-		)
-		(instances
-			(project "Open_STMPLC_IO_V0.1"
-				(path "/4d6787b6-1f4f-4098-b70b-d936e584350b/c9298d57-d356-4e79-8731-9f1e067c5c34"
-					(reference "J34")
 					(unit 1)
 				)
 			)

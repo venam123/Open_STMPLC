@@ -1,4 +1,4 @@
-27122022078891974
+27125577514150375
 0678D0800-02
 FUSC9830X318N
 
@@ -34,6 +34,13 @@ AMPHENOL_10144518-041802LF
 0
 40
 40
+A-DF_09_PP_Z
+A-DF_09_PP_Z
+
+
+0
+9
+9
 A9G
 A9G
 
@@ -99917,6 +99924,13 @@ T240B8-C10-08-T_Touchscreen
 0
 20
 17
+TPS1H200A
+HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm_ThermalVias
+HVSSOP, 8 Pin (https://www.ti.com/lit/ds/symlink/tpa6110a2.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HVSSOP SO
+0
+18
+9
 TPS61088
 TPS61088RHLR
 
