@@ -7607,6 +7607,17 @@
 		)
 		(uuid "4d58b0e8-984f-46b1-a3bb-b13aa41d5734")
 	)
+	(hierarchical_label "ANALOG_IN_ERROR"
+		(shape input)
+		(at 177.8 118.11 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left)
+		)
+		(uuid "4d8b6684-2a86-489b-8cc7-fa18c3ffa06d")
+	)
 	(hierarchical_label "DIG_HS_~{FAULT}_4"
 		(shape input)
 		(at 259.08 123.19 0)
