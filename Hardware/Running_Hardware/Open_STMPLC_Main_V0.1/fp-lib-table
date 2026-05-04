@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "EC200CU")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Footprints/EC200CU.pretty")(options "")(descr ""))
   (lib (name "Simcard_Nano")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Footprints/Simcard_Nano.pretty")(options "")(descr ""))
+  (lib (name "10144518-041802LF")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Footprints/10144518-041802LF.pretty")(options "")(descr ""))
+  (lib (name "HY951180A")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_Main/Footprints/HY951180A.pretty")(options "")(descr ""))
 )

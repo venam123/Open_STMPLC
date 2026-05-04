@@ -1254,6 +1254,107 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(bus_entry
 		(at 77.47 166.37)
@@ -2758,6 +2859,17 @@
 		)
 		(uuid "1d70814d-188a-4f29-abbe-ff3472c4cfe7")
 	)
+	(hierarchical_label "3V3_ISO"
+		(shape output)
+		(at 222.25 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1fff06a7-3b8e-40bc-ac8c-0071fbb91fb9")
+	)
 	(hierarchical_label "RTD_~{DRDY}_2"
 		(shape input)
 		(at 147.32 120.65 0)
@@ -2934,6 +3046,17 @@
 		)
 		(uuid "47e6e9fc-7f40-496f-b6cf-2562a7e246d1")
 	)
+	(hierarchical_label "YZ+"
+		(shape bidirectional)
+		(at 222.25 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4a344792-f838-4755-b93e-a91186bc1cbe")
+	)
 	(hierarchical_label "RTD_~{CS}_1"
 		(shape output)
 		(at 147.32 110.49 0)
@@ -2989,6 +3112,17 @@
 		)
 		(uuid "6d6a61ab-8aff-494d-9a68-484d00db54d2")
 	)
+	(hierarchical_label "AB-"
+		(shape bidirectional)
+		(at 222.25 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "77507cc3-5b47-49ed-9853-36947208ec7f")
+	)
 	(hierarchical_label "AOUT_EFLD_1"
 		(shape input)
 		(at 146.05 147.32 0)
@@ -3010,6 +3144,17 @@
 			(justify left)
 		)
 		(uuid "881fd404-13f3-43fc-a8ca-1607519345d0")
+	)
+	(hierarchical_label "YZ-"
+		(shape bidirectional)
+		(at 222.25 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8c16afb6-e209-4f66-8329-4af8007613e4")
 	)
 	(hierarchical_label "DIG_HS_~{FAULT}_3"
 		(shape input)
@@ -3154,6 +3299,17 @@
 		)
 		(uuid "ef21c560-1724-45a6-9834-aacce39e2aea")
 	)
+	(hierarchical_label "AB+"
+		(shape bidirectional)
+		(at 222.25 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f200ccae-5a92-432a-a393-43d14ada3e2a")
+	)
 	(hierarchical_label "THRM_~{FAULT}"
 		(shape input)
 		(at 147.32 128.27 0)
@@ -3208,7 +3364,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a1fb43c-874d-44f9-bc1d-98eacaee5159")
-		(property "Reference" "J42"
+		(property "Reference" "J10"
 			(at 196.85 36.83 0)
 			(effects
 				(font
@@ -3216,7 +3372,7 @@
 				)
 			)
 		)
-		(property "Value" "10144517-041802LF"
+		(property "Value" "10144518-041802LF"
 			(at 196.85 39.37 0)
 			(effects
 				(font
@@ -3224,7 +3380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "10144517-041802LF:AMPHENOL_10144517-041802LF"
+		(property "Footprint" "10144518-041802LF:AMPHENOL_10144518-041802LF"
 			(at 195.58 66.04 0)
 			(effects
 				(font
@@ -3374,7 +3530,7 @@
 		(instances
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/1d01a1c0-ab87-4679-aade-76348e531927"
-					(reference "J42")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -3390,7 +3546,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ce9370f-2c07-40ce-bf93-c56f22d43197")
-		(property "Reference" "J41"
+		(property "Reference" "J9"
 			(at 125.73 36.83 0)
 			(effects
 				(font
@@ -3398,7 +3554,7 @@
 				)
 			)
 		)
-		(property "Value" "10144517-041802LF"
+		(property "Value" "10144518-041802LF"
 			(at 125.73 39.37 0)
 			(effects
 				(font
@@ -3406,7 +3562,7 @@
 				)
 			)
 		)
-		(property "Footprint" "10144517-041802LF:AMPHENOL_10144517-041802LF"
+		(property "Footprint" "10144518-041802LF:AMPHENOL_10144518-041802LF"
 			(at 124.46 66.04 0)
 			(effects
 				(font
@@ -3556,7 +3712,7 @@
 		(instances
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/1d01a1c0-ab87-4679-aade-76348e531927"
-					(reference "J41")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -3572,7 +3728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3c26f29-ab52-4150-8af9-5aceef9dba17")
-		(property "Reference" "J39"
+		(property "Reference" "J8"
 			(at 54.61 36.83 0)
 			(effects
 				(font
@@ -3580,7 +3736,7 @@
 				)
 			)
 		)
-		(property "Value" "10144517-041802LF"
+		(property "Value" "10144518-041802LF"
 			(at 54.61 39.37 0)
 			(effects
 				(font
@@ -3588,7 +3744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "10144517-041802LF:AMPHENOL_10144517-041802LF"
+		(property "Footprint" "10144518-041802LF:AMPHENOL_10144518-041802LF"
 			(at 53.34 66.04 0)
 			(effects
 				(font
@@ -3738,7 +3894,72 @@
 		(instances
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/1d01a1c0-ab87-4679-aade-76348e531927"
-					(reference "J39")
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 223.52 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f63092ea-0552-423e-8a0b-47e480112b2a")
+		(property "Reference" "#PWR087"
+			(at 223.52 100.33 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND_MODBUS"
+			(at 223.52 97.79 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 223.52 93.98 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 223.52 93.98 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 223.52 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d21eea3a-fcf6-463a-b972-d3467b1dea06")
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/1d01a1c0-ab87-4679-aade-76348e531927"
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
