@@ -2101,7 +2101,7 @@
 			)
 		)
 		(pin "DIG_OUT_DIAG_[1..8]" output
-			(at 113.03 137.16 180)
+			(at 113.03 139.7 180)
 			(uuid "fcaf4976-50ee-46bf-a0d4-e6b2b2617cb1")
 			(effects
 				(font
@@ -2111,7 +2111,7 @@
 			)
 		)
 		(pin "DIG_OUT_[1..8]" output
-			(at 113.03 139.7 180)
+			(at 113.03 137.16 180)
 			(uuid "6daccb04-c10b-4032-ae8c-9068e1dc2e0b")
 			(effects
 				(font

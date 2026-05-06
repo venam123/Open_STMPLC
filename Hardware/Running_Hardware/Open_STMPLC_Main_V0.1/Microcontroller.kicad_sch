@@ -10519,6 +10519,16 @@
 		)
 		(uuid "69c3e11a-31ed-465e-84c9-19ba27bd1ce1")
 	)
+	(label "WDI"
+		(at 213.36 49.53 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "6a506c18-a5a7-406f-b076-7e397329904a")
+	)
 	(label "EX_UART_RX"
 		(at 294.64 266.7 180)
 		(effects

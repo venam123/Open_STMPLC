@@ -6470,6 +6470,16 @@
 		)
 		(uuid "184e20b2-8a80-42b3-9991-79f266444cf4")
 	)
+	(label "DIG_OUT_1"
+		(at 44.45 26.67 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "1f9ff014-5f52-427b-ad6f-47d35e5cc008")
+	)
 	(label "DIG_OUT_~{FAULT}_4"
 		(at 62.23 173.99 270)
 		(effects
@@ -6570,6 +6580,16 @@
 		)
 		(uuid "4daa5dba-c99f-4b60-a290-005d7b654ecb")
 	)
+	(label "DIG_OUT_DIAG_1"
+		(at 44.45 29.21 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "53675bb1-b4e9-4d64-b6e3-9b2a635c0772")
+	)
 	(label "DIG_OUT_TERMINAL_7"
 		(at 146.05 171.45 270)
 		(effects
@@ -6609,16 +6629,6 @@
 			(justify right bottom)
 		)
 		(uuid "668185ef-51a5-44f3-a07f-d4bcb7c1f067")
-	)
-	(label "DIG_OUT_DIAG_1"
-		(at 44.45 29.21 0)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "68471429-420d-42fa-a8c9-453af5e54607")
 	)
 	(label "DIG_OUT_6"
 		(at 21.59 173.99 270)
@@ -6869,16 +6879,6 @@
 			(justify right bottom)
 		)
 		(uuid "c3fddc3d-2c60-4848-b1ab-f03635c094bc")
-	)
-	(label "DIG_OUT_1"
-		(at 44.45 26.67 0)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "c5690a0a-c6bf-402a-b712-5a21f2030132")
 	)
 	(label "DIG_OUT_DIAG_5"
 		(at 44.45 102.87 0)
