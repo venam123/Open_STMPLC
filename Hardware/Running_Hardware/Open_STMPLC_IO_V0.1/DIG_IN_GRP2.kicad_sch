@@ -5135,7 +5135,7 @@
 		(at 199.39 63.5 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5145,7 +5145,7 @@
 		(at 116.84 30.48 270)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -5165,7 +5165,7 @@
 		(at 123.19 177.8 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5175,7 +5175,7 @@
 		(at 205.74 105.41 270)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -5215,7 +5215,7 @@
 		(at 88.9 180.34 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5235,7 +5235,7 @@
 		(at 110.49 138.43 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5245,7 +5245,7 @@
 		(at 123.19 182.88 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5255,7 +5255,7 @@
 		(at 123.19 185.42 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5265,7 +5265,7 @@
 		(at 88.9 185.42 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5295,7 +5295,7 @@
 		(at 25.4 106.68 270)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -5315,7 +5315,7 @@
 		(at 123.19 180.34 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5325,7 +5325,7 @@
 		(at 110.49 63.5 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5345,7 +5345,7 @@
 		(at 88.9 177.8 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5355,7 +5355,7 @@
 		(at 25.4 31.75 270)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -5365,7 +5365,7 @@
 		(at 199.39 138.43 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5395,7 +5395,7 @@
 		(at 205.74 30.48 270)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -5405,7 +5405,7 @@
 		(at 19.05 64.77 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5415,7 +5415,7 @@
 		(at 19.05 139.7 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5425,7 +5425,7 @@
 		(at 88.9 182.88 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -5445,7 +5445,7 @@
 		(at 116.84 105.41 270)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)

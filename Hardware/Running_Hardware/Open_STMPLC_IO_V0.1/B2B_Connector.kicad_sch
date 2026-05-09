@@ -5018,7 +5018,7 @@
 	)
 	(rectangle
 		(start 13.97 13.97)
-		(end 281.94 87.63)
+		(end 212.09 87.63)
 		(stroke
 			(width 0)
 			(type default)
@@ -5039,6 +5039,31 @@
 			(type none)
 		)
 		(uuid bd6a87b9-6656-4d8e-80ed-33fa8438be87)
+	)
+	(rectangle
+		(start 215.9 13.97)
+		(end 281.94 87.63)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid bf341c44-6b45-47ea-98fa-563ec441ee25)
+	)
+	(text "COMMON TERMINALS"
+		(exclude_from_sim no)
+		(at 216.662 17.018 0)
+		(effects
+			(font
+				(size 3 3)
+				(thickness 0.6)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "32b49265-f33a-4853-bf42-776b9e12798c")
 	)
 	(text "POWER INPUT"
 		(exclude_from_sim no)
@@ -9268,7 +9293,7 @@
 		(at 208.28 45.72 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -9288,7 +9313,7 @@
 		(at 181.61 130.81 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -9328,7 +9353,7 @@
 		(at 167.64 68.58 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -9408,7 +9433,7 @@
 		(at 81.28 66.04 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -9428,7 +9453,7 @@
 		(at 198.12 71.12 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -9468,7 +9493,7 @@
 		(at 158.75 45.72 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -9508,7 +9533,7 @@
 		(at 256.54 147.32 90)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -9518,7 +9543,7 @@
 		(at 264.16 147.32 90)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -9558,7 +9583,7 @@
 		(at 81.28 60.96 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -9578,7 +9603,7 @@
 		(at 181.61 123.19 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -9598,7 +9623,7 @@
 		(at 181.61 118.11 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -9618,7 +9643,7 @@
 		(at 242.57 147.32 90)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -9628,7 +9653,7 @@
 		(at 81.28 63.5 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -9928,7 +9953,7 @@
 		(at 198.12 68.58 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -9938,7 +9963,7 @@
 		(at 181.61 128.27 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -9958,7 +9983,7 @@
 		(at 250.19 147.32 90)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -10058,7 +10083,7 @@
 		(at 181.61 115.57 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -10108,7 +10133,7 @@
 		(at 167.64 71.12 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -10178,7 +10203,7 @@
 		(at 271.78 147.32 90)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -10208,7 +10233,7 @@
 		(at 158.75 63.5 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -11823,7 +11848,7 @@
 			(at 258.826 120.396 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -11832,7 +11857,7 @@
 			(at 259.588 123.698 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -12161,7 +12186,7 @@
 			(at 229.616 120.396 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -12170,7 +12195,7 @@
 			(at 230.378 123.698 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -12435,7 +12460,7 @@
 			(at 251.206 120.396 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -12444,7 +12469,7 @@
 			(at 251.968 123.698 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -13380,7 +13405,7 @@
 			(at 244.856 120.396 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -13389,7 +13414,7 @@
 			(at 245.618 123.698 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -15071,7 +15096,7 @@
 			(at 237.236 120.396 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -15080,7 +15105,7 @@
 			(at 237.998 123.698 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -15547,7 +15572,7 @@
 			(at 266.446 120.396 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -15556,7 +15581,7 @@
 			(at 267.208 123.698 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)

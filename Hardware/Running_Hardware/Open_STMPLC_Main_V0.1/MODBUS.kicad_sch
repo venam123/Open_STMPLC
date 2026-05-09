@@ -2708,7 +2708,7 @@
 		(at 148.59 97.79 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left)
 		)
@@ -2719,7 +2719,7 @@
 		(at 111.76 95.25 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right)
 		)
@@ -2730,7 +2730,7 @@
 		(at 175.26 67.31 90)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left)
 		)
@@ -2741,7 +2741,7 @@
 		(at 148.59 90.17 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left)
 		)
@@ -2752,7 +2752,7 @@
 		(at 148.59 95.25 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left)
 		)
@@ -2763,7 +2763,7 @@
 		(at 111.76 92.71 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right)
 		)
@@ -2774,7 +2774,7 @@
 		(at 111.76 97.79 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right)
 		)
@@ -2785,7 +2785,7 @@
 		(at 111.76 90.17 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right)
 		)
@@ -2796,7 +2796,7 @@
 		(at 148.59 92.71 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left)
 		)
