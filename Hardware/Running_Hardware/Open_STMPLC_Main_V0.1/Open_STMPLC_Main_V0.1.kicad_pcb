@@ -27029,7 +27029,7 @@
 			(net 1 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "9612367c-840f-4e37-9dea-b457e3102af3")
+			(uuid "90296557-08df-46eb-95c1-e7ed1902f48e")
 		)
 		(pad "2" thru_hole circle
 			(at 0 4.5 90)
@@ -27051,7 +27051,7 @@
 			(net 3 "/Microcontroller/~{WDO}")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "085ec820-53bd-4b12-98b4-1b0012e12e2f")
+			(uuid "678dce7d-dd18-4561-99cf-6a16737bfe78")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.step"
