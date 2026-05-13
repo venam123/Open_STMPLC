@@ -4386,7 +4386,7 @@
 		)
 		(uuid "4fe9c99f-a211-42e7-b470-702bccc37034")
 	)
-	(hierarchical_label "ETH_~{INT}"
+	(hierarchical_label "ETH_REFCLKO"
 		(shape output)
 		(at 90.17 111.76 180)
 		(effects

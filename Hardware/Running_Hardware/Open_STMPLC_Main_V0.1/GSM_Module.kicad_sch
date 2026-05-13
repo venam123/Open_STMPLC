@@ -15970,7 +15970,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
+		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
 			(at 121.92 92.71 0)
 			(effects
 				(font

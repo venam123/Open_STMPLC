@@ -1267,7 +1267,7 @@
 		(uuid "39336fe3-476f-45a3-841c-09e96c92a2d8")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_3DMODEL_USER}/EC200TEUHA-N06-MN0AA.step"
+	(model "${KIPRJMOD}/Libraries_Open_STMPLC_Main/3D_Models/EC200UCNAA.STEP"
 		(offset
 			(xyz 0 0 1)
 		)
