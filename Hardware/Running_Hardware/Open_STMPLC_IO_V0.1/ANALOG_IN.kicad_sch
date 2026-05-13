@@ -8944,7 +8944,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 96.52 43.942 90)
 			(effects
 				(font
@@ -9359,7 +9359,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 102.87 68.072 90)
 			(effects
 				(font
@@ -10865,7 +10865,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 90.17 43.942 90)
 			(effects
 				(font

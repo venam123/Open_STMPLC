@@ -6553,7 +6553,7 @@
 				)
 			)
 		)
-		(property "Value" "120R@100MHz"
+		(property "Value" "BLM21PG121SN1D"
 			(at 146.0119 24.13 90)
 			(effects
 				(font
@@ -7153,7 +7153,7 @@
 				)
 			)
 		)
-		(property "Value" "120R@100MHz"
+		(property "Value" "BLM21PG121SN1D"
 			(at 144.7419 113.03 90)
 			(effects
 				(font
@@ -8448,7 +8448,7 @@
 				)
 			)
 		)
-		(property "Value" "120R@100MHz"
+		(property "Value" "BLM21PG121SN1D"
 			(at 260.3119 60.96 90)
 			(effects
 				(font

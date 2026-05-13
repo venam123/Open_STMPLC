@@ -2857,6 +2857,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 175.26 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "36a0c9dd-487a-4e48-b2b0-97e63f3e659b")
 		)
@@ -2918,6 +2927,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 99.06 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 99.06 76.2 0)
 			(effects
 				(font
@@ -3117,6 +3135,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 168.91 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 168.91 73.66 0)
 			(effects
 				(font
@@ -3325,6 +3352,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 161.29 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fac8c120-d0a8-47bf-a17a-42be18a7e1f7")
 		)
@@ -3451,6 +3487,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 156.21 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 156.21 77.47 0)
 			(effects
 				(font
@@ -3592,6 +3637,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 130.81 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "b51f034a-c083-4e19-96a8-eba44cc19e6d")
 		)
@@ -3715,6 +3769,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 93.98 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f38ceec9-1c7f-4a8b-9109-b55bbf6e6962")
 		)
@@ -3784,6 +3847,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 109.22 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7d1286f3-02a4-4ab4-99e2-4001bae7c2ef")
 		)
@@ -3845,6 +3917,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 104.14 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 104.14 76.2 0)
 			(effects
 				(font

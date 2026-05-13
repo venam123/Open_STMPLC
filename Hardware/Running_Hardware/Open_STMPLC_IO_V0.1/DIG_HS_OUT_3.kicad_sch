@@ -3987,7 +3987,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 232.41 102.362 90)
 			(effects
 				(font

@@ -1162,6 +1162,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 233.68 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c"
@@ -1218,6 +1227,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 233.68 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 233.68 123.19 0)
 			(effects
 				(font
@@ -1290,6 +1308,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 233.68 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c"
@@ -1346,6 +1373,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 233.68 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 233.68 135.89 0)
 			(effects
 				(font

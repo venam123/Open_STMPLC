@@ -8367,7 +8367,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 259.08 42.672 90)
 			(effects
 				(font
@@ -8781,7 +8781,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 118.11 42.672 90)
 			(effects
 				(font
@@ -9464,7 +9464,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 118.11 79.502 90)
 			(effects
 				(font
@@ -13184,7 +13184,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 259.08 116.332 90)
 			(effects
 				(font
@@ -13861,7 +13861,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 118.11 153.162 90)
 			(effects
 				(font
@@ -13939,7 +13939,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 259.08 153.0303 90)
 			(effects
 				(font
@@ -14779,7 +14779,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 259.08 79.502 90)
 			(effects
 				(font
@@ -17037,7 +17037,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED(G)"
 			(at 118.11 116.332 90)
 			(effects
 				(font

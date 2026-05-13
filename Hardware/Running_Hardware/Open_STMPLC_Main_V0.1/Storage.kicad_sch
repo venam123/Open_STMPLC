@@ -4362,6 +4362,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 240.03 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0ab59cee-93fa-4d95-9116-9fba2166926b")
 		)
@@ -4767,6 +4776,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 115.57 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "db212e4f-9700-4cea-a2bf-5fce96e05e41")
 		)
@@ -4860,6 +4878,15 @@
 			)
 		)
 		(property "JLCPCB Part #" ""
+			(at 71.12 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 71.12 60.96 90)
 			(effects
 				(font
@@ -5001,6 +5028,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 204.47 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "09a66a4b-4209-4452-9b7c-158f2a45ebdb")
 		)
@@ -5071,6 +5107,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 261.62 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c369a99c-0d13-4af9-8a1d-0c69a16d24c2")
 		)
@@ -5133,6 +5178,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 256.54 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 256.54 77.47 0)
 			(effects
 				(font
@@ -5218,6 +5272,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 67.31 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e2804e00-e9c2-4ffb-b5e6-69487292b8bf")
 		)
@@ -5295,6 +5358,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 82.55 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "92672681-c6f7-4429-b7e2-2d841d543e8f")
 		)
@@ -5355,6 +5427,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 220.98 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 220.98 83.82 0)
 			(effects
 				(font
@@ -5460,6 +5541,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 35.56 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ac47b5d-25a3-400c-8291-7c8fcb50a547")
 		)
@@ -5529,6 +5619,15 @@
 			)
 		)
 		(property "JLCPCB Part #" ""
+			(at 86.36 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 86.36 60.96 90)
 			(effects
 				(font
@@ -5614,6 +5713,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 78.74 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d6dce174-c024-45c2-b146-674c4871a875")
 		)
@@ -5683,6 +5791,15 @@
 			)
 		)
 		(property "JLCPCB Part #" ""
+			(at 59.69 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 59.69 60.96 90)
 			(effects
 				(font
@@ -5761,6 +5878,15 @@
 			)
 		)
 		(property "JLCPCB Part #" ""
+			(at 41.91 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 41.91 63.5 0)
 			(effects
 				(font
@@ -5966,6 +6092,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 200.66 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f6f6221-fcc0-400a-82ca-9a967743259e")
 		)
@@ -6029,6 +6164,15 @@
 			)
 		)
 		(property "Description" "Low Capacitance TVS Diode Array, 3.3V Standoff, 8 Channels, UDFN-9"
+			(at 85.09 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 85.09 135.89 0)
 			(effects
 				(font
@@ -6192,6 +6336,15 @@
 			)
 		)
 		(property "JLCPCB Part #" ""
+			(at 63.5 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 63.5 60.96 90)
 			(effects
 				(font

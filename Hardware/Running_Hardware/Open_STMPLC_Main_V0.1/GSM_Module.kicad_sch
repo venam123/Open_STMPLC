@@ -482,6 +482,157 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:FerriteBead_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FB"
+				(at 1.905 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "FerriteBead_Small"
+				(at 1.905 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ferrite bead, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "L ferrite bead inductor filter"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "FerriteBead_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.8288 0.2794) (xy -1.1176 1.4986) (xy 1.8288 -0.2032) (xy 1.1176 -1.4224) (xy -1.8288 0.2794)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.889) (xy 0 1.2954)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -0.7874)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FerriteBead_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R_Small"
 			(pin_numbers
 				(hide yes)
@@ -8818,6 +8969,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 22.86) (xy 149.86 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c13e093-2f0f-429e-aafd-397322d52d5a")
+	)
+	(wire
+		(pts
 			(xy 156.21 115.57) (xy 154.94 115.57)
 		)
 		(stroke
@@ -9468,6 +9629,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 21.59) (xy 142.24 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fd6c583-2b9e-448b-8903-3086cb9f8763")
+	)
+	(wire
+		(pts
 			(xy 198.12 33.02) (xy 193.04 33.02)
 		)
 		(stroke
@@ -9978,7 +10149,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 25.4) (xy 157.48 27.94)
+			(xy 157.48 22.86) (xy 157.48 27.94)
 		)
 		(stroke
 			(width 0)
@@ -10335,6 +10506,16 @@
 			(type default)
 		)
 		(uuid "c6852e97-509e-4eeb-8819-2470891a0927")
+	)
+	(wire
+		(pts
+			(xy 154.94 22.86) (xy 157.48 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6876554-6fe6-4853-b263-df424704ed2a")
 	)
 	(wire
 		(pts
@@ -11269,6 +11450,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 198.12 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "89492a08-07ae-4d92-b894-7ef2c1bf78d0")
 		)
@@ -11333,6 +11523,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Sim.Pin" ""
+			(at 264.16 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -11595,6 +11794,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 198.12 118.745 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6dd35129-c55b-43da-ac58-3aa9f505c048")
 		)
@@ -11719,6 +11927,15 @@
 			)
 		)
 		(property "Mouser_Part" ""
+			(at 198.12 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 198.12 140.335 0)
 			(effects
 				(font
@@ -11995,6 +12212,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 190.5 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d86fba6b-82bd-43f4-bba9-3985265751eb")
 		)
@@ -12133,6 +12359,15 @@
 			)
 		)
 		(property "Mouser_Part" ""
+			(at 236.22 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 236.22 129.54 0)
 			(effects
 				(font
@@ -12295,6 +12530,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 220.98 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d7bfaf1f-8189-4b79-bcc6-2f50d6fa5675")
 		)
@@ -12432,6 +12676,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 204.47 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0b77ab27-72bc-4aab-b5de-2457d24c4d1f")
 		)
@@ -12503,6 +12756,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 20.32 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4e9dd2c-3c28-4a07-86d7-27b38ebfa1eb")
 		)
@@ -12520,7 +12782,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V8")
-		(at 157.48 25.4 0)
+		(at 142.24 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12528,7 +12790,7 @@
 		(dnp no)
 		(uuid "4a9ccf24-9dbb-4e25-8d1e-431c17aa6855")
 		(property "Reference" "#PWR064"
-			(at 157.48 29.21 0)
+			(at 142.24 25.4 0)
 			(effects
 				(font
 					(size 1 1)
@@ -12537,7 +12799,7 @@
 			)
 		)
 		(property "Value" "+3V8"
-			(at 157.48 21.59 0)
+			(at 142.24 17.78 0)
 			(effects
 				(font
 					(size 1 1)
@@ -12545,7 +12807,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 157.48 25.4 0)
+			(at 142.24 21.59 0)
 			(effects
 				(font
 					(size 1 1)
@@ -12554,7 +12816,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 25.4 0)
+			(at 142.24 21.59 0)
 			(effects
 				(font
 					(size 1 1)
@@ -12563,7 +12825,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V8\""
-			(at 157.48 25.4 0)
+			(at 142.24 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12630,6 +12892,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 67.31 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 67.31 104.14 0)
 			(effects
 				(font
@@ -13324,6 +13595,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 256.54 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b5c7679-629a-4aaf-8d10-4a0ae51a9602")
 		)
@@ -13385,6 +13665,15 @@
 			)
 		)
 		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 262.89 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 262.89 134.62 0)
 			(effects
 				(font
@@ -13462,6 +13751,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 139.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81c78032-6a45-4d8f-a3ce-5ece5aad3642")
 		)
@@ -13523,6 +13821,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 152.4 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 152.4 33.02 0)
 			(effects
 				(font
@@ -13793,6 +14100,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 133.35 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "999cf2d5-9770-4f34-9e2f-39f300ba09e0")
 		)
@@ -13984,6 +14300,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 139.7 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 139.7 189.23 0)
 			(effects
 				(font
@@ -14553,6 +14878,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 271.145 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5342b201-7e29-45a8-9f3f-ef34e1b5f368")
 		)
@@ -14750,6 +15084,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 193.04 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "04dcd87f-1d4d-4774-94c9-fd4e9f3f03be")
 		)
@@ -14760,6 +15103,74 @@
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "C50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 152.4 22.86 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8e1e74a4-d92b-4d36-860d-ba32c043e6b5")
+		(property "Reference" "FB1"
+			(at 152.3619 16.51 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Value" "BLM21PG121SN1D"
+			(at 152.3619 19.05 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+			(at 152.4 24.638 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 152.4 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "30d86066-292f-413f-9515-073259292260")
+		)
+		(pin "2"
+			(uuid "cd011854-7e0e-4105-8687-d042dda726b9")
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
+					(reference "FB1")
 					(unit 1)
 				)
 			)
@@ -14820,6 +15231,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Sim.Pin" ""
+			(at 261.62 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14959,6 +15379,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 121.92 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a7e6583d-7e58-41b6-b27c-a12b1dbb29d5")
 		)
@@ -15020,6 +15449,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 116.84 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 116.84 33.02 0)
 			(effects
 				(font
@@ -15091,6 +15529,15 @@
 			)
 		)
 		(property "Description" "Digital NPN Transistor, 4k7/47k, SOT-23"
+			(at 233.68 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 233.68 86.36 0)
 			(effects
 				(font
@@ -15171,6 +15618,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 212.09 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b658a4c6-75a2-4d75-bb62-58272cd5f7ca")
 		)
@@ -15234,6 +15690,15 @@
 			)
 		)
 		(property "Description" "Digital NPN Transistor, 4k7/47k, SOT-23"
+			(at 210.82 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 210.82 86.36 0)
 			(effects
 				(font
@@ -15306,6 +15771,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 133.35 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 133.35 33.02 0)
 			(effects
 				(font
@@ -15446,6 +15920,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 234.95 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1b7b808c-418e-4c46-bbb4-62862ea36013")
 		)
@@ -15506,6 +15989,15 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
+			(at 121.92 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 121.92 92.71 0)
 			(effects
 				(font
@@ -15588,6 +16080,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 27.94 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0daa74f0-a738-4647-b494-fadf3154e7e0")
 		)
@@ -15649,6 +16150,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 128.27 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 128.27 33.02 0)
 			(effects
 				(font
@@ -15848,6 +16358,15 @@
 			)
 		)
 		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 215.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 215.9 144.78 0)
 			(effects
 				(font
@@ -16057,6 +16576,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 186.69 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2bf64f9c-b7c5-41b7-885b-1d848ee4dec6")
 		)
@@ -16194,6 +16722,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 157.48 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a2a1d617-df43-4e0a-a760-37971c78f924")
 		)
@@ -16255,6 +16792,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
+			(at 146.05 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 146.05 33.02 0)
 			(effects
 				(font
@@ -16525,6 +17071,15 @@
 				)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 264.16 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "265d795b-be30-40ff-a4f8-d9f38383e768")
 		)
@@ -16657,6 +17212,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 187.96 140.335 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "417cd3dc-a846-42d3-ab1a-60ad4077c88a")
 		)
@@ -16718,6 +17282,15 @@
 			)
 		)
 		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
+			(at 208.28 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pin" ""
 			(at 208.28 144.78 0)
 			(effects
 				(font
@@ -17122,6 +17695,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Pin" ""
+			(at 228.6 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eda604ad-e4db-42b7-a995-3e0359e8111d")
 		)
@@ -17192,6 +17774,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Sim.Pin" ""
+			(at 261.62 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
