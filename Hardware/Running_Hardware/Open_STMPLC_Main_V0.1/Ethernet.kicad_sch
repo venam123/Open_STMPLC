@@ -4301,6 +4301,26 @@
 		)
 		(uuid "0149edc9-e920-4093-ac97-97e3b93d7570")
 	)
+	(label "TD-"
+		(at 135.89 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0c72a0ef-388e-43e8-8935-6d9caf789c27")
+	)
+	(label "RD+"
+		(at 135.89 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0ce8984f-dce9-4bb3-91f8-b837e592405d")
+	)
 	(label "LED1"
 		(at 228.6 88.9 180)
 		(effects
@@ -4321,6 +4341,16 @@
 		)
 		(uuid "90fdf847-92d7-47f4-a182-47a0f341cfaa")
 	)
+	(label "TD+"
+		(at 135.89 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cbf15383-f20d-470f-97f3-c4189e9d9526")
+	)
 	(label "LED1"
 		(at 137.16 106.68 180)
 		(effects
@@ -4330,6 +4360,16 @@
 			(justify right bottom)
 		)
 		(uuid "efd0145e-c644-4e76-a8ed-91ea4cae4ba0")
+	)
+	(label "RD-"
+		(at 135.89 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "efd1093e-b680-4cd2-9cac-e796c794abd8")
 	)
 	(hierarchical_label "ETH_CRSDV"
 		(shape output)
@@ -5896,7 +5936,7 @@
 			(uuid "4afa5a54-deb1-483e-8202-88f535373132")
 		)
 		(instances
-			(project ""
+			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/2c4ca765-43c3-4f95-8835-dba7f06999bb"
 					(reference "J13")
 					(unit 1)

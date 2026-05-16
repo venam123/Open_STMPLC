@@ -48,10 +48,21 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.3
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        },
+        {
+          "gap": 0.3,
+          "via_gap": 0.254,
+          "width": 0.3
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -180,7 +191,16 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.254,
+        0.3,
+        0.4,
+        0.5,
+        0.8,
+        1.0,
+        1.5
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -207,7 +227,24 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
+        },
+        {
+          "diameter": 0.7,
+          "drill": 0.3
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.4
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -473,6 +510,54 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.254,
+        "diff_pair_width": 0.24,
+        "name": "100R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2583,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.5,
+        "diff_pair_width": 0.1966,
+        "name": "120R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1966,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.3,
+        "diff_pair_width": 0.3241,
+        "name": "50R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3241,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.254,
+        "diff_pair_width": 0.3,
+        "name": "90R",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 3,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3,
+        "via_diameter": 0.6,
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -480,7 +565,116 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "100R",
+        "pattern": "/Ethernet/TD+"
+      },
+      {
+        "netclass": "100R",
+        "pattern": "/Ethernet/TD-"
+      },
+      {
+        "netclass": "100R",
+        "pattern": "/Ethernet/RD+"
+      },
+      {
+        "netclass": "100R",
+        "pattern": "/Ethernet/RD-"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/Ethernet/ETH_TXD0"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/Ethernet/ETH_TXD1"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/Ethernet/ETH_TXEN"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/Ethernet/ETH_RXD0"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/Ethernet/ETH_RXD1"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/Ethernet/ETH_MDIO"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/Ethernet/ETH_CRSDV"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/Ethernet/ETH_MDC"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/Ethernet/ETH_REFCLKO"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/SD_DAT0"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/SD_DAT1"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/SD_DAT2"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/SD_DAT3"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/SD_CLK"
+      },
+      {
+        "netclass": "50R",
+        "pattern": "/SD_CMD"
+      },
+      {
+        "netclass": "90R",
+        "pattern": "/Microcontroller/STM_DN"
+      },
+      {
+        "netclass": "90R",
+        "pattern": "/Microcontroller/STM_DP"
+      },
+      {
+        "netclass": "90R",
+        "pattern": "/GSM_Module/GSM_DN"
+      },
+      {
+        "netclass": "90R",
+        "pattern": "/GSM_Module/GSM_DP"
+      },
+      {
+        "netclass": "120R",
+        "pattern": "/B2B_Connector/AB-"
+      },
+      {
+        "netclass": "120R",
+        "pattern": "/B2B_Connector/AB+"
+      },
+      {
+        "netclass": "120R",
+        "pattern": "/B2B_Connector/YZ+"
+      },
+      {
+        "netclass": "120R",
+        "pattern": "/B2B_Connector/YZ-"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
