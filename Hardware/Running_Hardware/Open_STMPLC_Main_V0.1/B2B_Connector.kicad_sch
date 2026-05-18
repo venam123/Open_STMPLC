@@ -5025,7 +5025,7 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 50.8) (xy 238.76 50.8)
+			(xy 220.98 50.8) (xy 229.87 50.8)
 		)
 		(stroke
 			(width 0)
@@ -5405,7 +5405,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 50.8) (xy 208.28 50.8)
+			(xy 196.85 50.8) (xy 208.28 50.8)
 		)
 		(stroke
 			(width 0)
@@ -6943,16 +6943,6 @@
 		)
 		(uuid "9cc7ab7d-3354-4090-adc3-90ad4c526f1a")
 	)
-	(label "RUN_LED"
-		(at 189.23 50.8 0)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "9d47f008-39ce-47fa-ad33-31b86b90bea4")
-	)
 	(label "DIG_OUT_DIAG_5"
 		(at 238.76 45.72 180)
 		(effects
@@ -7072,16 +7062,6 @@
 			(justify right bottom)
 		)
 		(uuid "d98093e8-cd10-49d8-a2f0-5a2fa3d65bfe")
-	)
-	(label "FAULT_LED"
-		(at 238.76 50.8 180)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify right bottom)
-		)
-		(uuid "dfa9d8fc-29e2-481a-b482-3bcfcb0eb613")
 	)
 	(label "DIG_OUT_DIAG_3"
 		(at 238.76 55.88 180)
@@ -7235,6 +7215,17 @@
 			(justify left)
 		)
 		(uuid "0b2b9b44-39b4-49c1-901f-fc868b6811a8")
+	)
+	(hierarchical_label "FAULT_LED"
+		(shape input)
+		(at 229.87 50.8 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left)
+		)
+		(uuid "15acf68d-6dc4-457f-8607-b637897c1076")
 	)
 	(hierarchical_label "3V3_ISO"
 		(shape input)
@@ -7510,6 +7501,17 @@
 			(justify left)
 		)
 		(uuid "77507cc3-5b47-49ed-9853-36947208ec7f")
+	)
+	(hierarchical_label "RUN_LED"
+		(shape input)
+		(at 196.85 50.8 180)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify right)
+		)
+		(uuid "776253a5-e0b7-4792-a124-6b3ae9b72be2")
 	)
 	(hierarchical_label "AOUT_EFOT_1"
 		(shape output)
