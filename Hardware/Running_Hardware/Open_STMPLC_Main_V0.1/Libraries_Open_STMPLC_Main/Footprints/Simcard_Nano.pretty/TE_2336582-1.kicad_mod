@@ -276,7 +276,7 @@
 	)
 	(pad "CD" smd rect
 		(at 2.47 -7.48)
-		(size 0.8 1.14)
+		(size 0.7 1.14)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "08c65261-cb15-47a3-9e54-6fc91db7d6fe")
 	)

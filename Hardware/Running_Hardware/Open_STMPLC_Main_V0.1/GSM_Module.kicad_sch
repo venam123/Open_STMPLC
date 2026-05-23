@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Open_STMPLC_Main")
-		(date "2026-04-04")
+		(date "2026-05-23")
 		(rev "0.1")
 	)
 	(lib_symbols
@@ -465,6 +465,156 @@
 					(at 0 -2.54 90)
 					(length 2.032)
 					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:D_TVS_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_TVS_Small"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode TVS thyrector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_TVS_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.27 1.016) (xy -1.27 -1.016) (xy 1.27 1.016) (xy 1.27 -1.016) (xy -1.27 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 1.016) (xy 0 1.016) (xy 0 -1.016) (xy -0.508 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_TVS_Small_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 1.27)
+					(name "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 1.27)
+					(name "A2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8757,6 +8907,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 146.05) (xy 208.28 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16d18093-1a15-4965-a1d6-049b5d333006")
+	)
+	(wire
+		(pts
 			(xy 154.94 135.89) (xy 156.21 135.89)
 		)
 		(stroke
@@ -8907,7 +9067,17 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 148.59) (xy 212.09 154.94)
+			(xy 262.89 127) (xy 262.89 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "274855e9-49e1-4849-b2e9-a554f3ddcd8f")
+	)
+	(wire
+		(pts
+			(xy 212.09 146.05) (xy 212.09 154.94)
 		)
 		(stroke
 			(width 0)
@@ -9047,6 +9217,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 146.05) (xy 204.47 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b794adf-6536-436c-9ebc-b80737a038bc")
+	)
+	(wire
+		(pts
 			(xy 256.54 123.19) (xy 256.54 127)
 		)
 		(stroke
@@ -9144,16 +9324,6 @@
 			(type default)
 		)
 		(uuid "441636c2-395c-4ca6-8557-0e36dba0d5e7")
-	)
-	(wire
-		(pts
-			(xy 204.47 148.59) (xy 204.47 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44bb0c31-cf28-4e7d-aadf-487314332b86")
 	)
 	(wire
 		(pts
@@ -9427,7 +9597,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 49.53) (xy 27.94 48.26)
+			(xy 20.32 59.69) (xy 20.32 58.42)
 		)
 		(stroke
 			(width 0)
@@ -9717,7 +9887,7 @@
 	)
 	(wire
 		(pts
-			(xy 262.89 138.43) (xy 262.89 143.51)
+			(xy 262.89 137.16) (xy 262.89 143.51)
 		)
 		(stroke
 			(width 0)
@@ -10557,6 +10727,16 @@
 	)
 	(wire
 		(pts
+			(xy 31.75 53.34) (xy 31.75 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c811d80d-55ca-4916-aeef-7e3c5775660b")
+	)
+	(wire
+		(pts
 			(xy 234.95 33.02) (xy 228.6 33.02)
 		)
 		(stroke
@@ -10677,7 +10857,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 148.59) (xy 215.9 154.94)
+			(xy 215.9 146.05) (xy 215.9 154.94)
 		)
 		(stroke
 			(width 0)
@@ -10734,16 +10914,6 @@
 			(type default)
 		)
 		(uuid "dbfe8b76-5f3b-46df-9ec7-578a85596653")
-	)
-	(wire
-		(pts
-			(xy 262.89 130.81) (xy 262.89 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd556f94-2056-46b1-b2d8-21a782223e43")
 	)
 	(wire
 		(pts
@@ -10867,16 +11037,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 148.59) (xy 208.28 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eb40f7a1-67b5-4501-8280-76ed6414cd69")
-	)
-	(wire
-		(pts
 			(xy 154.94 118.11) (xy 156.21 118.11)
 		)
 		(stroke
@@ -10904,6 +11064,16 @@
 			(type default)
 		)
 		(uuid "ee2617bb-fe19-408b-9d6b-8443282a7107")
+	)
+	(wire
+		(pts
+			(xy 31.75 43.18) (xy 34.29 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef99c676-3b11-4645-8519-0283cee6afd4")
 	)
 	(wire
 		(pts
@@ -11037,7 +11207,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 43.18) (xy 34.29 43.18)
+			(xy 25.4 53.34) (xy 31.75 53.34)
 		)
 		(stroke
 			(width 0)
@@ -11124,6 +11294,16 @@
 			(justify left bottom)
 		)
 		(uuid "4397118a-9a02-451a-ae04-543629a72f27")
+	)
+	(label "ANT_GNSS"
+		(at 25.4 38.1 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "43a4ed98-8c6e-44c9-9541-c6fe7636c4f7")
 	)
 	(label "NET_MODE"
 		(at 194.31 86.36 0)
@@ -11244,6 +11424,16 @@
 			(justify left bottom)
 		)
 		(uuid "b42c3902-3c09-477d-872f-9e3241754731")
+	)
+	(label "ANT_MAIN"
+		(at 31.75 53.34 90)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left bottom)
+		)
+		(uuid "be437003-4658-4e6f-b653-70e77d95fbe0")
 	)
 	(label "USIM_RST"
 		(at 113.03 133.35 180)
@@ -11424,6 +11614,75 @@
 			(justify left)
 		)
 		(uuid "fb5029e3-7829-4f27-ab38-11fb4228c00a")
+	)
+	(symbol
+		(lib_id "Device:D_TVS_Small")
+		(at 212.09 143.51 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "006b5f09-0755-4d0a-bf72-56e06493be41")
+		(property "Reference" "D7"
+			(at 211.074 139.954 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "UAD8C05L01"
+			(at 210.82 145.034 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-882"
+			(at 212.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 212.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 212.09 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b826531e-3bf4-4915-8476-94c50bd053c6")
+		)
+		(pin "1"
+			(uuid "a2343205-8bb5-4a83-8fae-f590fcc60f59")
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
+					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C_Small")
@@ -11854,7 +12113,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "191351db-0ff2-419d-b188-25edf346c661")
 		(property "Reference" "C52"
 			(at 196.85 137.795 0)
@@ -12646,84 +12905,6 @@
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "#PWR086")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:SMF5V0A")
-		(at 204.47 144.78 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "45c90b8e-abb9-486a-9f6d-4d3186aea21f")
-		(property "Reference" "D2"
-			(at 203.454 140.208 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SMF5V0A"
-			(at 203.454 146.304 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMF"
-			(at 199.39 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?85881"
-			(at 204.47 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
-			(at 204.47 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pin" ""
-			(at 204.47 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0b77ab27-72bc-4aab-b5de-2457d24c4d1f")
-		)
-		(pin "1"
-			(uuid "7df3e639-b54c-4b2d-afe9-0e33777c7d92")
-		)
-		(instances
-			(project "Open_STMPLC_Main_V0.1"
-				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
-					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -13714,84 +13895,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:SMF5V0A")
-		(at 262.89 134.62 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6373474c-bdae-41e4-83b8-44eff4bbdfd8")
-		(property "Reference" "D3"
-			(at 261.874 130.048 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SMF5V0A"
-			(at 261.874 136.144 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMF"
-			(at 257.81 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?85881"
-			(at 262.89 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
-			(at 262.89 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pin" ""
-			(at 262.89 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "08855596-1f5f-4d7e-a7f8-c33ea4b66b25")
-		)
-		(pin "1"
-			(uuid "971a7358-fa98-48d4-b49e-302f00afb61d")
-		)
-		(instances
-			(project "Open_STMPLC_Main_V0.1"
-				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C_Small")
 		(at 139.7 33.02 180)
 		(unit 1)
@@ -13864,6 +13967,75 @@
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "C46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_TVS_Small")
+		(at 208.28 143.51 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6412a481-e8f3-43bc-a6b3-35087ff3081b")
+		(property "Reference" "D4"
+			(at 207.264 139.954 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "UAD8C05L01"
+			(at 207.01 145.034 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-882"
+			(at 208.28 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 208.28 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4f4399ac-a894-4b94-aada-cc73dbc34649")
+		)
+		(pin "1"
+			(uuid "4a16c2f8-6c2b-4e1a-85a7-13d6e975384a")
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -14015,7 +14187,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 27.94 49.53 0)
+		(at 20.32 59.69 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14024,7 +14196,7 @@
 		(dnp no)
 		(uuid "6c72c479-3199-4999-8f19-2ad17cc8a26f")
 		(property "Reference" "#PWR055"
-			(at 27.94 55.88 0)
+			(at 20.32 66.04 0)
 			(effects
 				(font
 					(size 1 1)
@@ -14033,7 +14205,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 27.94 53.34 0)
+			(at 20.32 63.5 0)
 			(effects
 				(font
 					(size 1 1)
@@ -14041,7 +14213,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 49.53 0)
+			(at 20.32 59.69 0)
 			(effects
 				(font
 					(size 1 1)
@@ -14050,7 +14222,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 49.53 0)
+			(at 20.32 59.69 0)
 			(effects
 				(font
 					(size 1 1)
@@ -14059,7 +14231,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 27.94 49.53 0)
+			(at 20.32 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15068,7 +15240,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "86790357-0122-415c-bc4f-6f77e746db01")
 		(property "Reference" "C50"
 			(at 191.77 137.795 0)
@@ -15659,84 +15831,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:SMF5V0A")
-		(at 212.09 144.78 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a7e304ac-f6ec-4dee-9ba5-72988a3349c5")
-		(property "Reference" "D7"
-			(at 211.074 140.208 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SMF5V0A"
-			(at 211.074 146.304 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMF"
-			(at 207.01 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?85881"
-			(at 212.09 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
-			(at 212.09 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pin" ""
-			(at 212.09 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b658a4c6-75a2-4d75-bb62-58272cd5f7ca")
-		)
-		(pin "1"
-			(uuid "757e8a56-4750-402d-9045-06f1ea747da0")
-		)
-		(instances
-			(project "Open_STMPLC_Main_V0.1"
-				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
-					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Transistor_BJT:DTC143Z")
 		(at 210.82 86.36 0)
 		(unit 1)
@@ -16040,7 +16134,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_Coaxial")
-		(at 27.94 43.18 0)
+		(at 20.32 53.34 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -16049,7 +16143,7 @@
 		(dnp no)
 		(uuid "ce5cfc3f-f321-4784-b742-2358fd3993ff")
 		(property "Reference" "J6"
-			(at 25.4 43.18 0)
+			(at 17.78 53.34 0)
 			(effects
 				(font
 					(size 1 1)
@@ -16058,7 +16152,7 @@
 			)
 		)
 		(property "Value" "Conn_Coaxial"
-			(at 35.56 39.37 0)
+			(at 27.94 49.53 0)
 			(effects
 				(font
 					(size 1 1)
@@ -16068,7 +16162,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical"
-			(at 27.94 43.18 0)
+			(at 20.32 53.34 0)
 			(effects
 				(font
 					(size 1 1)
@@ -16077,7 +16171,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 43.18 0)
+			(at 20.32 53.34 0)
 			(effects
 				(font
 					(size 1 1)
@@ -16086,7 +16180,7 @@
 			)
 		)
 		(property "Description" "coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"
-			(at 27.94 43.18 0)
+			(at 20.32 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16095,7 +16189,7 @@
 			)
 		)
 		(property "Sim.Pin" ""
-			(at 27.94 43.18 0)
+			(at 20.32 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16262,6 +16356,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_TVS_Small")
+		(at 204.47 143.51 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d4ed53f0-eb85-43bf-ad77-158f688bbf83")
+		(property "Reference" "D2"
+			(at 203.454 139.954 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "UAD8C05L01"
+			(at 203.2 145.034 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-882"
+			(at 204.47 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 204.47 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "52cb5ce6-0efd-4d91-9eed-3cf85dc296b5")
+		)
+		(pin "1"
+			(uuid "d0c9c372-336c-470e-9df1-6e14bab653bb")
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 104.14 135.89 90)
 		(unit 1)
@@ -16321,84 +16484,6 @@
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "#PWR057")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:SMF5V0A")
-		(at 215.9 144.78 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d5976688-4b8e-4af1-8f68-09403ddea03b")
-		(property "Reference" "D8"
-			(at 214.884 140.208 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SMF5V0A"
-			(at 214.884 146.304 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMF"
-			(at 210.82 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?85881"
-			(at 215.9 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
-			(at 215.9 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pin" ""
-			(at 215.9 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "79139f80-2e8c-4df4-b8aa-99166607f3c5")
-		)
-		(pin "1"
-			(uuid "f2105fbc-7d18-4f35-86f2-c12c0c53326e")
-		)
-		(instances
-			(project "Open_STMPLC_Main_V0.1"
-				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
-					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -16677,6 +16762,75 @@
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "#PWR083")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_TVS_Small")
+		(at 262.89 134.62 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e24108ab-e533-4fbe-8498-af4e3cf5b936")
+		(property "Reference" "D3"
+			(at 264.922 133.096 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "UAD8C05L01"
+			(at 260.858 130.81 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-882"
+			(at 262.89 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 262.89 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 262.89 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8802559c-943d-4fbb-9760-3658409a6d40")
+		)
+		(pin "1"
+			(uuid "72d9bd96-dfd0-4a13-b205-e0829767eceb")
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -17035,6 +17189,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_TVS_Small")
+		(at 215.9 143.51 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e95bd559-9144-49e2-a7c8-da921d8f9323")
+		(property "Reference" "D8"
+			(at 214.884 139.954 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "UAD8C05L01"
+			(at 214.63 145.034 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-882"
+			(at 215.9 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 215.9 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Bidirectional transient-voltage-suppression diode, small symbol"
+			(at 215.9 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "34de0a15-4fb0-4ba4-8618-f732e09c095d")
+		)
+		(pin "1"
+			(uuid "bb105e31-1930-4ebc-aaa6-cce944447e8e")
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
+					(reference "D8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 264.16 38.1 180)
 		(unit 1)
@@ -17186,7 +17409,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "efdcdcab-f40e-4b2f-aec7-a7d51274f7d1")
 		(property "Reference" "C49"
 			(at 186.69 137.795 0)
@@ -17315,84 +17538,6 @@
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
 					(reference "C49")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:SMF5V0A")
-		(at 208.28 144.78 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "eff3bd05-838a-4d2c-8f05-35ee7e8b16a3")
-		(property "Reference" "D4"
-			(at 207.264 140.208 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SMF5V0A"
-			(at 207.264 146.304 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMF"
-			(at 203.2 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/doc?85881"
-			(at 208.28 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "200W unidirectional Transil Transient Voltage Suppressor, 5Vrwm, SMF"
-			(at 208.28 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pin" ""
-			(at 208.28 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e9d86a12-10fb-4241-a860-269f03535431")
-		)
-		(pin "1"
-			(uuid "a8c24145-0a7a-4c5b-ae43-5f9eb680a212")
-		)
-		(instances
-			(project "Open_STMPLC_Main_V0.1"
-				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c/5080be85-fcb7-49b1-9c25-7bd5f13d709a"
-					(reference "D4")
 					(unit 1)
 				)
 			)

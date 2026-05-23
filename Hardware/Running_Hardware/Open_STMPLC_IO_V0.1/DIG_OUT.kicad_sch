@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Open_STMPLC_IO")
-		(date "2026-04-04")
+		(date "2026-05-23")
 		(rev "0.1")
 	)
 	(lib_symbols

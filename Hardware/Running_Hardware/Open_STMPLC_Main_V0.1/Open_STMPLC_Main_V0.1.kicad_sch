@@ -6,10 +6,90 @@
 	(paper "A4")
 	(title_block
 		(title "Open_STMPLC_Main")
-		(date "2026-04-04")
+		(date "2026-05-23")
 		(rev "0.1")
 	)
 	(lib_symbols
+		(symbol "Mechanical:Fiducial"
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "FID"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Fiducial"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Fiducial Marker"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "fiducial marker"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Fiducial*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Fiducial_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Mechanical:MountingHole"
 			(pin_names
 				(offset 1.016)
@@ -476,16 +556,6 @@
 			(type default)
 		)
 		(uuid "55fbf1ac-0bc0-4cef-b63f-fc5a672da742")
-	)
-	(wire
-		(pts
-			(xy 158.75 113.03) (xy 172.72 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56ed756d-69b2-4483-9986-3f4bbe2e943a")
 	)
 	(wire
 		(pts
@@ -1418,6 +1488,70 @@
 		(uuid "fd1f49ab-260c-49bf-8aac-1d16ba6f1d13")
 	)
 	(symbol
+		(lib_id "Mechanical:Fiducial")
+		(at 251.46 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "07f8b334-0ce5-4591-9377-52737dece0f3")
+		(property "Reference" "FID2"
+			(at 254 121.9199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 254 124.4599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fiducial:Fiducial_1mm_Mask3mm"
+			(at 251.46 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 251.46 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 251.46 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c"
+					(reference "FID2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole")
 		(at 233.68 129.54 0)
 		(unit 1)
@@ -1485,6 +1619,134 @@
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c"
 					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Fiducial")
+		(at 251.46 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "481698da-a0e8-4dc8-a52b-63099d36bd54")
+		(property "Reference" "FID3"
+			(at 254 128.2699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 254 130.8099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fiducial:Fiducial_1mm_Mask3mm"
+			(at 251.46 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 251.46 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 251.46 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c"
+					(reference "FID3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Fiducial")
+		(at 251.46 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57d6ae9a-96c8-49f2-89ee-b2e9a1230ee9")
+		(property "Reference" "FID4"
+			(at 254 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 254 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fiducial:Fiducial_1mm_Mask3mm"
+			(at 251.46 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 251.46 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 251.46 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c"
+					(reference "FID4")
 					(unit 1)
 				)
 			)
@@ -1704,6 +1966,70 @@
 			(project "Open_STMPLC_Main_V0.1"
 				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c"
 					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:Fiducial")
+		(at 251.46 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ffc81dd4-34ee-48de-bf33-cd54c6615028")
+		(property "Reference" "FID1"
+			(at 254 115.5699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 254 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Fiducial:Fiducial_1mm_Mask3mm"
+			(at 251.46 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 251.46 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial Marker"
+			(at 251.46 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_Main_V0.1"
+				(path "/0b17c9ff-697e-478a-b9b2-a0c5b14c9e6c"
+					(reference "FID1")
 					(unit 1)
 				)
 			)
@@ -2583,16 +2909,6 @@
 		(pin "ETH_RXD1" input
 			(at 158.75 115.57 0)
 			(uuid "fdd9c91f-398a-4e05-bffd-1fadf3b99bd5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "ETH_RXER" input
-			(at 158.75 113.03 0)
-			(uuid "797383d2-8c00-48f4-b293-8350dbf507b5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3516,16 +3832,6 @@
 		(pin "ETH_RXD1" output
 			(at 172.72 115.57 180)
 			(uuid "58bbb8e0-742e-4ac4-842b-b062406b4a6b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "ETH_RXER" output
-			(at 172.72 113.03 180)
-			(uuid "ef5e46c5-7c88-47f3-ac4f-e922a9483b62")
 			(effects
 				(font
 					(size 1.27 1.27)
