@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Open_STMPLC_Main")
-		(date "2026-05-23")
+		(date "2026-05-24")
 		(rev "0.1")
 	)
 	(lib_symbols
@@ -1291,7 +1291,7 @@
 		(at 173.99 167.64 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1301,7 +1301,7 @@
 		(at 226.06 156.21 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1311,7 +1311,7 @@
 		(at 173.99 180.34 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1321,7 +1321,7 @@
 		(at 226.06 140.97 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1341,7 +1341,7 @@
 		(at 173.99 175.26 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1351,7 +1351,7 @@
 		(at 226.06 151.13 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1381,7 +1381,7 @@
 		(at 226.06 146.05 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1391,7 +1391,7 @@
 		(at 173.99 170.18 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1401,7 +1401,7 @@
 		(at 173.99 172.72 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1411,7 +1411,7 @@
 		(at 226.06 153.67 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1431,7 +1431,7 @@
 		(at 226.06 148.59 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1441,7 +1441,7 @@
 		(at 173.99 182.88 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1451,7 +1451,7 @@
 		(at 226.06 143.51 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1461,7 +1461,7 @@
 		(at 173.99 177.8 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify right bottom)
 		)
@@ -1501,7 +1501,7 @@
 			(at 254 121.9199 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1510,7 +1510,7 @@
 			(at 254 124.4599 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1638,7 +1638,7 @@
 			(at 254 128.2699 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1647,7 +1647,7 @@
 			(at 254 130.8099 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1702,7 +1702,7 @@
 			(at 254 134.6199 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1711,7 +1711,7 @@
 			(at 254 137.1599 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1985,7 +1985,7 @@
 			(at 254 115.5699 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)
@@ -1994,7 +1994,7 @@
 			(at 254 118.1099 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify left)
 			)

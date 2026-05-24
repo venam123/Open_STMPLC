@@ -2,7 +2,7 @@
   (version 7)
   (lib (name "NVTFS5124PLTAG")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Footprints/NVTFS5124PLTAG.pretty")(options "")(descr ""))
   (lib (name "10144517-041802LF")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Footprints/10144517-041802LF.pretty")(options "")(descr ""))
-  (lib (name "10144518-041802LF")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Footprints/10144518-041802LF.pretty")(options "")(descr ""))
   (lib (name "A-DF_09_PP_Z")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Footprints/A-DF_09_PP_Z.pretty")(options "")(descr ""))
   (lib (name "TPS1H200A")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Footprints/TPS1H200A.pretty")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "${KIPRJMOD}/Libraries_Open_STMPLC_IO/Footprints/Logo.pretty")(options "")(descr ""))
 )

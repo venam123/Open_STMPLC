@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Open_STMPLC_Main")
-		(date "2026-05-23")
+		(date "2026-05-24")
 		(rev "0.1")
 	)
 	(lib_symbols
@@ -4364,7 +4364,7 @@
 		(at 135.89 88.9 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -4374,7 +4374,7 @@
 		(at 135.89 91.44 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -4404,7 +4404,7 @@
 		(at 135.89 86.36 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -4414,7 +4414,7 @@
 		(at 73.66 96.52 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -4434,7 +4434,7 @@
 		(at 135.89 93.98 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1 1)
 			)
 			(justify left bottom)
 		)
@@ -6133,7 +6133,7 @@
 			(at 201.93 80.01 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 			)
 		)
@@ -6141,7 +6141,7 @@
 			(at 201.93 82.55 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 			)
 		)

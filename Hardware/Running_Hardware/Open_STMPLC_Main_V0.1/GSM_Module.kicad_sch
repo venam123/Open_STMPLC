@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Open_STMPLC_Main")
-		(date "2026-05-23")
+		(date "2026-05-24")
 		(rev "0.1")
 	)
 	(lib_symbols
@@ -17346,7 +17346,7 @@
 			(at 123.19 93.9799 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)
@@ -17355,7 +17355,7 @@
 			(at 123.19 96.5199 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1 1)
 				)
 				(justify right)
 			)

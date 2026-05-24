@@ -2385,6 +2385,19 @@
 		)
 		(uuid cccd9930-194c-4d78-8fdf-4ab62e9601ef)
 	)
+	(text "RTD 2"
+		(exclude_from_sim no)
+		(at 16.764 103.378 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "1572299c-b7fb-491b-a42d-458b54b7524a")
+	)
 	(text "2/3W"
 		(exclude_from_sim no)
 		(at 69.596 175.26 0)
@@ -2560,6 +2573,19 @@
 			)
 		)
 		(uuid "d8c515ca-8780-4d9b-a091-74553e60613a")
+	)
+	(text "RTD 1"
+		(exclude_from_sim no)
+		(at 16.256 22.098 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.4)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "e8bf9566-3384-40e4-b485-f4f77afbff1b")
 	)
 	(text "PT1000"
 		(exclude_from_sim no)
