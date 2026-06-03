@@ -6,8 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "Open_STMPLC_Main")
-		(date "2026-05-24")
+		(date "2026-06-03")
 		(rev "0.1")
+		(company "Thingslista Automation LLP")
 	)
 	(lib_symbols
 		(symbol "Connector:Micro_SD_Card_Det1"

@@ -6,8 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "Open_STMPLC_Main")
-		(date "2026-05-24")
+		(date "2026-06-03")
 		(rev "0.1")
+		(company "Thingslista Automation LLP")
 	)
 	(lib_symbols
 		(symbol "Mechanical:Fiducial"
@@ -626,16 +627,6 @@
 			(type default)
 		)
 		(uuid "65144a7d-bccf-48ec-b596-d03909912fb7")
-	)
-	(bus
-		(pts
-			(xy 95.25 176.53) (xy 107.95 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65d74241-bd79-412b-9a2b-cd34883bf275")
 	)
 	(wire
 		(pts
@@ -2243,16 +2234,6 @@
 				(justify right)
 			)
 		)
-		(pin "DIG_IN_[13..18]" output
-			(at 95.25 176.53 0)
-			(uuid "2e2a354c-bcfa-4ac5-a73b-16a86821e568")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "DIG_OUT_[1..8]" input
 			(at 95.25 180.34 0)
 			(uuid "6afe1d40-18c6-4189-8738-2a676dd8f702")
@@ -3549,16 +3530,6 @@
 		(pin "DIG_IN_[7..12]" input
 			(at 107.95 173.99 180)
 			(uuid "acd184c7-c937-4417-906b-f22fd7ef2854")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "DIG_IN_[13..18]" input
-			(at 107.95 176.53 180)
-			(uuid "cabb9563-60a0-443c-b3bd-1526c1c80c0f")
 			(effects
 				(font
 					(size 1.27 1.27)

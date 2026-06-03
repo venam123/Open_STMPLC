@@ -6,8 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "Open_STMPLC_IO")
-		(date "2026-05-23")
+		(date "2026-06-03")
 		(rev "0.1")
+		(company "Thingslista Automation LLP")
 	)
 	(lib_symbols
 		(symbol "AD4111:AD4111"
