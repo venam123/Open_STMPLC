@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=1 - MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=1 - MCU.SchDoc|FileName=2 - Communication.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1 - MCU.SchDoc|FileName=3 - Periphery.SchDoc|SheetNumber=3
