@@ -3498,6 +3498,89 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole without connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Regulator_Linear:AMS1117-3.3"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4596,6 +4679,18 @@
 		(uuid 08d2a867-41c7-4987-9dac-a0c02eb857ff)
 	)
 	(rectangle
+		(start 125.73 167.64)
+		(end 175.26 194.31)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 1c9ac1a6-a8b9-453d-958a-6c62bc920b42)
+	)
+	(rectangle
 		(start 13.97 13.97)
 		(end 120.65 93.98)
 		(stroke
@@ -4609,7 +4704,7 @@
 	)
 	(rectangle
 		(start 125.73 96.52)
-		(end 175.26 195.58)
+		(end 175.26 165.1)
 		(stroke
 			(width 0)
 			(type default)
@@ -5591,6 +5686,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 52.07) (xy 35.56 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14cb1cf6-2114-40e8-a82c-296ac63cdcd2")
+	)
+	(wire
+		(pts
 			(xy 33.02 160.02) (xy 33.02 158.75)
 		)
 		(stroke
@@ -5868,16 +5973,6 @@
 			(type default)
 		)
 		(uuid "25b31ecc-0ce9-4dec-908f-45ec393b7bd6")
-	)
-	(wire
-		(pts
-			(xy 52.07 68.58) (xy 52.07 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2653e72b-e9f7-4923-9a38-cc27233991dd")
 	)
 	(wire
 		(pts
@@ -6691,7 +6786,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 68.58) (xy 52.07 68.58)
+			(xy 38.1 71.12) (xy 52.07 71.12)
 		)
 		(stroke
 			(width 0)
@@ -7931,16 +8026,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 52.07) (xy 38.1 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "970cc73a-bda6-4f3a-b105-6bfec5b757f4")
-	)
-	(wire
-		(pts
 			(xy 90.17 68.58) (xy 96.52 68.58)
 		)
 		(stroke
@@ -8771,7 +8856,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 54.61) (xy 35.56 54.61)
+			(xy 25.4 54.61) (xy 38.1 54.61)
 		)
 		(stroke
 			(width 0)
@@ -8951,7 +9036,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 68.58) (xy 38.1 52.07)
+			(xy 38.1 71.12) (xy 38.1 54.61)
 		)
 		(stroke
 			(width 0)
@@ -9640,7 +9725,7 @@
 		(uuid "03756c7b-2768-415a-9f3c-80218ad14c63")
 	)
 	(label "EX_SPI_MOSI"
-		(at 128.27 135.89 0)
+		(at 128.27 138.43 0)
 		(effects
 			(font
 				(size 1 1)
@@ -9690,7 +9775,7 @@
 		(uuid "132a4006-7db6-45ae-b6de-91fa093772b7")
 	)
 	(label "W_IN"
-		(at 35.56 52.07 180)
+		(at 35.56 54.61 180)
 		(effects
 			(font
 				(size 1 1)
@@ -9710,7 +9795,7 @@
 		(uuid "1b018e05-0cfe-47fc-8fee-3d6f311c1877")
 	)
 	(label "EX_GPIO1"
-		(at 128.27 130.81 0)
+		(at 128.27 135.89 0)
 		(effects
 			(font
 				(size 1 1)
@@ -9800,7 +9885,7 @@
 		(uuid "422ba63a-3c17-42f1-aba6-e730075b320f")
 	)
 	(label "SDI"
-		(at 171.45 135.89 180)
+		(at 171.45 138.43 180)
 		(effects
 			(font
 				(size 1 1)
@@ -9830,7 +9915,7 @@
 		(uuid "43f2e2e0-972e-4ae7-a0d3-03a81648ddf1")
 	)
 	(label "EX_SPI_CLK"
-		(at 128.27 138.43 0)
+		(at 128.27 140.97 0)
 		(effects
 			(font
 				(size 1 1)
@@ -10090,7 +10175,7 @@
 		(uuid "89367957-8156-466a-b555-a0e772639222")
 	)
 	(label "N_IN"
-		(at 35.56 57.15 180)
+		(at 35.56 59.69 180)
 		(effects
 			(font
 				(size 1 1)
@@ -10130,7 +10215,7 @@
 		(uuid "96af0b65-faab-45ef-b90b-72e5759ef70a")
 	)
 	(label "N_OUT"
-		(at 35.56 59.69 180)
+		(at 35.56 57.15 180)
 		(effects
 			(font
 				(size 1 1)
@@ -10150,7 +10235,7 @@
 		(uuid "9dc91314-fae0-4028-a145-2663e8bc5880")
 	)
 	(label "SCLK"
-		(at 171.45 138.43 180)
+		(at 171.45 140.97 180)
 		(effects
 			(font
 				(size 1 1)
@@ -10260,7 +10345,7 @@
 		(uuid "bd680dba-273f-47fa-9e31-e4e1f8d912e4")
 	)
 	(label "EX_GPIO3"
-		(at 128.27 143.51 0)
+		(at 128.27 130.81 0)
 		(effects
 			(font
 				(size 1 1)
@@ -10270,7 +10355,7 @@
 		(uuid "bdda3cfc-cdb2-40e6-9a28-08979ecf24b4")
 	)
 	(label "W_OUT"
-		(at 35.56 54.61 180)
+		(at 35.56 52.07 180)
 		(effects
 			(font
 				(size 1 1)
@@ -10280,7 +10365,7 @@
 		(uuid "c70edb32-b3d2-4d66-a15d-f4de7ce0e539")
 	)
 	(label "EX_SPI_MISO"
-		(at 128.27 140.97 0)
+		(at 128.27 143.51 0)
 		(effects
 			(font
 				(size 1 1)
@@ -10340,7 +10425,7 @@
 		(uuid "dcf4f628-246d-4b59-b6e4-c61daf7e405f")
 	)
 	(label "IRQ0"
-		(at 171.45 143.51 180)
+		(at 171.45 135.89 180)
 		(effects
 			(font
 				(size 1 1)
@@ -10470,7 +10555,7 @@
 		(uuid "fd21ff61-9653-4a9d-aef7-3c733dedbe92")
 	)
 	(label "SDO"
-		(at 171.45 140.97 180)
+		(at 171.45 143.51 180)
 		(effects
 			(font
 				(size 1 1)
@@ -11046,72 +11131,6 @@
 			(project "Open_STMPLC_EnergyMon_V0..1"
 				(path "/fbd19ffd-5bb3-40ce-9c19-bcf6847c5c31"
 					(reference "R24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 165.1 124.46 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "087bb983-3896-4b60-818b-468df956d173")
-		(property "Reference" "#PWR033"
-			(at 165.1 130.81 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 165.1 128.27 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 165.1 124.46 0)
-			(effects
-				(font
-					(size 0.8 0.8)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 165.1 124.46 0)
-			(effects
-				(font
-					(size 0.8 0.8)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 165.1 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "10561db7-2d41-43d1-b1f7-5c85c6d598f8")
-		)
-		(instances
-			(project "Open_STMPLC_EnergyMon_V0..1"
-				(path "/fbd19ffd-5bb3-40ce-9c19-bcf6847c5c31"
-					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -13165,7 +13184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x08_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Horizontal"
 			(at 229.87 127 0)
 			(effects
 				(font
@@ -15842,6 +15861,134 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 135.89 190.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6ca7c5e1-b3c9-41f8-8b94-f36709f10401")
+		(property "Reference" "H4"
+			(at 138.43 189.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 138.43 191.7699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 135.89 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 135.89 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_EnergyMon_V0..1"
+				(path "/fbd19ffd-5bb3-40ce-9c19-bcf6847c5c31"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 135.89 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6caa0e4f-4839-4e68-8134-9beb5ed004e5")
+		(property "Reference" "H2"
+			(at 138.43 176.5299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 138.43 179.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 135.89 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 135.89 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_EnergyMon_V0..1"
+				(path "/fbd19ffd-5bb3-40ce-9c19-bcf6847c5c31"
+					(reference "H2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDA")
 		(at 38.1 170.18 0)
 		(unit 1)
@@ -16292,6 +16439,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 135.89 171.45 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "78bc4f02-95f4-4d99-8da0-a3bf5f5f4874")
+		(property "Reference" "H1"
+			(at 138.43 170.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 138.43 172.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 135.89 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 135.89 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_EnergyMon_V0..1"
+				(path "/fbd19ffd-5bb3-40ce-9c19-bcf6847c5c31"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 78.74 177.8 180)
 		(unit 1)
@@ -16352,6 +16563,70 @@
 			(project "Open_STMPLC_EnergyMon_V0..1"
 				(path "/fbd19ffd-5bb3-40ce-9c19-bcf6847c5c31"
 					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 135.89 184.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7c41e959-e248-479f-a609-9b241292a6d2")
+		(property "Reference" "H3"
+			(at 138.43 182.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 138.43 185.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 135.89 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 135.89 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Open_STMPLC_EnergyMon_V0..1"
+				(path "/fbd19ffd-5bb3-40ce-9c19-bcf6847c5c31"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -17846,6 +18121,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDA")
+		(at 165.1 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a37a69ea-0a08-4d5d-b98f-8ad5286cefe0")
+		(property "Reference" "#PWR033"
+			(at 165.1 130.81 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GNDA"
+			(at 165.1 128.524 0)
+			(effects
+				(font
+					(size 1 1)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 165.1 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
+			(at 165.1 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4c659e5e-7dd5-45dc-bf07-7f01d7f2f209")
+		)
+		(instances
+			(project "Open_STMPLC_EnergyMon_V0..1"
+				(path "/fbd19ffd-5bb3-40ce-9c19-bcf6847c5c31"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 96.52 76.2 0)
 		(unit 1)
@@ -19272,7 +19612,8 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x08")
-		(at 20.32 52.07 180)
+		(at 20.32 49.53 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19280,7 +19621,7 @@
 		(dnp no)
 		(uuid "c2f8cbe9-2b99-4ac9-b40c-f4635264c3c5")
 		(property "Reference" "J2"
-			(at 20.32 62.738 0)
+			(at 20.32 38.862 0)
 			(effects
 				(font
 					(size 1 1)
@@ -19288,7 +19629,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x08"
-			(at 27.432 65.278 0)
+			(at 27.432 36.322 0)
 			(effects
 				(font
 					(size 1 1)
@@ -19296,7 +19637,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1-8-3.81_1x08_P3.81mm_Horizontal"
-			(at 20.32 52.07 0)
+			(at 20.32 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19305,7 +19646,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 20.32 52.07 0)
+			(at 20.32 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19314,7 +19655,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 20.32 52.07 0)
+			(at 20.32 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
