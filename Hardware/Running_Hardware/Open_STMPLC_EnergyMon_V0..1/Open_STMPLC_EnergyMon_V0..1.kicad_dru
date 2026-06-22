@@ -1,0 +1,4 @@
+(version 1)
+(rule "Metrology_Isolation_Barrier"
+  (condition "A.NetName == 'GND' && B.NetName == 'GNDA'")
+  (constraint clearance (min 1.27mm)))

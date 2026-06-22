@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.4
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -516,8 +516,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "D:/Github/Open_STMPLC/Hardware/Running_Hardware/Open_STMPLC_EnergyMon_V0..1/Gerber_Open_STMPLC_EnergyMon_V0.1/",
+      "pos_files": "D:/Github/Open_STMPLC/Hardware/Running_Hardware/Open_STMPLC_EnergyMon_V0..1/Pick&Place_Open_STMPLC_EnergyMon_V0.1/",
       "specctra_dsn": "",
       "step": "Open_STMPLC_EnergyMon_V0..1.step",
       "svg": "",

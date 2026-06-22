@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.9*%
+%TF.CreationDate,2026-06-22T23:44:55+05:30*%
+%TF.ProjectId,Open_STMPLC_EnergyMon_V0..1,4f70656e-5f53-4544-9d50-4c435f456e65,0.1*%
+%TF.SameCoordinates,PX55d4a80PY8583b00*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.9) date 2026-06-22 23:44:55*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.200000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X0Y80000000D02*
+X70000000Y80000000D01*
+X70000000Y0D01*
+X0Y0D01*
+X0Y80000000D01*
+M02*
